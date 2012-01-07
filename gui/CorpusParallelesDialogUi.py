@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'dialog_corpusParalleles.ui'
 #
-# Created: Fri Jan  6 15:07:17 2012
+# Created: Sat Jan  7 21:51:12 2012
 #      by: pyside-uic 0.2.11 running on PySide 1.0.6
 #
 # WARNING! All changes made in this file will be lost!
@@ -27,6 +27,11 @@ class Ui_CorpusParallelesDialog(object):
         self.label.setObjectName("label")
         self.verticalLayout_2.addWidget(self.label)
         self.srcTextEdit = QtGui.QTextEdit(CorpusParallelesDialog)
+        font = QtGui.QFont()
+        font.setFamily("Courier New")
+        self.srcTextEdit.setFont(font)
+        self.srcTextEdit.setLineWrapMode(QtGui.QTextEdit.NoWrap)
+        self.srcTextEdit.setAcceptRichText(False)
         self.srcTextEdit.setObjectName("srcTextEdit")
         self.verticalLayout_2.addWidget(self.srcTextEdit)
         self.horizontalLayout.addLayout(self.verticalLayout_2)
@@ -36,6 +41,11 @@ class Ui_CorpusParallelesDialog(object):
         self.label_2.setObjectName("label_2")
         self.verticalLayout.addWidget(self.label_2)
         self.destTextEdit = QtGui.QTextEdit(CorpusParallelesDialog)
+        font = QtGui.QFont()
+        font.setFamily("Courier New")
+        self.destTextEdit.setFont(font)
+        self.destTextEdit.setLineWrapMode(QtGui.QTextEdit.NoWrap)
+        self.destTextEdit.setAcceptRichText(False)
         self.destTextEdit.setObjectName("destTextEdit")
         self.verticalLayout.addWidget(self.destTextEdit)
         self.horizontalLayout.addLayout(self.verticalLayout)
@@ -47,12 +57,16 @@ class Ui_CorpusParallelesDialog(object):
         self.gridLayout.addWidget(self.buttonBox, 1, 0, 1, 1)
 
         self.retranslateUi(CorpusParallelesDialog)
-        QtCore.QObject.connect(self.buttonBox, QtCore.SIGNAL("accepted()"), CorpusParallelesDialog.accept)
         QtCore.QObject.connect(self.buttonBox, QtCore.SIGNAL("rejected()"), CorpusParallelesDialog.reject)
         QtCore.QMetaObject.connectSlotsByName(CorpusParallelesDialog)
 
     def retranslateUi(self, CorpusParallelesDialog):
         CorpusParallelesDialog.setWindowTitle(QtGui.QApplication.translate("CorpusParallelesDialog", "Pythonn\'d - Apprendre par corpus parallèles", None, QtGui.QApplication.UnicodeUTF8))
         self.label.setText(QtGui.QApplication.translate("CorpusParallelesDialog", "Texte <b>source</b>", None, QtGui.QApplication.UnicodeUTF8))
+        self.srcTextEdit.setHtml(QtGui.QApplication.translate("CorpusParallelesDialog", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:\'Courier New\'; font-size:9pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"></p></body></html>", None, QtGui.QApplication.UnicodeUTF8))
         self.label_2.setText(QtGui.QApplication.translate("CorpusParallelesDialog", "Texte <b>destination</b>", None, QtGui.QApplication.UnicodeUTF8))
 

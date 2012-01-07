@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'pythonndITAL.ui'
 #
-# Created: Fri Jan  6 15:01:45 2012
+# Created: Sat Jan  7 16:34:41 2012
 #      by: pyside-uic 0.2.11 running on PySide 1.0.6
 #
 # WARNING! All changes made in this file will be lost!

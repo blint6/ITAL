@@ -38,10 +38,7 @@ class PythonndITAL(Ui_PythonndITAL):
         self.about.show()
 
     def showCorpusParalleles(self):
-        self.corpusParalleles = QtGui.QDialog()
-        corpusParallelesUi = CorpusParallelesDialog(self)
-        corpusParallelesUi.setupUi(self.corpusParalleles)
-        self.corpusParalleles.show()
+        self.corpusParalleles = CorpusParallelesDialog(self)
         
 
 
