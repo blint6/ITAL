@@ -1,0 +1,1188 @@
+# Sentence pair (1) source length 10 target length 9 alignment score : 5.66134e-10
+Ces deux emplois sont tout aussi difficiles et exigeants. 
+NULL ({ }) Ce ({ 1 }) sont ({ 2 3 4 }) tous ({ 5 }) les ({ }) deux ({ }) des ({ }) emplois ({ 6 }) difficiles ({ 7 }) et ({ 8 }) exigeants. ({ 9 }) 
+# Sentence pair (2) source length 10 target length 10 alignment score : 3.16449e-10
+Ce sont des emplois à la fois pénibles et exigeants. 
+NULL ({ 6 }) Ce ({ 1 }) sont ({ 2 }) tous ({ 5 }) les ({ }) deux ({ }) des ({ 3 }) emplois ({ 4 7 }) difficiles ({ 8 }) et ({ 9 }) exigeants. ({ 10 }) 
+# Sentence pair (3) source length 10 target length 10 alignment score : 1.39948e-09
+Ce sont des emplois à la fois difficiles et exigeants. 
+NULL ({ 6 }) Ce ({ 1 }) sont ({ 2 }) tous ({ 5 }) les ({ }) deux ({ }) des ({ 3 }) emplois ({ 4 7 }) difficiles ({ 8 }) et ({ 9 }) exigeants. ({ 10 }) 
+# Sentence pair (4) source length 36 target length 37 alignment score : 3.616e-22
+Madame la Présidente, ce que le Parlement veut obtenir avec sa résolution sur la démence est une implication plus poussée de l'Union Européenne, notamment financièrement, dans la lutte contre la maladie d'Alzheimer et les autres maladies neurodégénératives. 
+NULL ({ 21 }) Madame ({ 1 }) la ({ 2 }) Présidente, ({ 3 }) ce ({ 4 }) que ({ 5 }) le ({ 6 }) Parlement ({ 7 }) veut ({ 8 }) obtenir ({ 9 }) avec ({ 10 }) sa ({ 11 }) résolution ({ 12 }) sur ({ 13 }) la ({ 14 }) démence, ({ 15 }) est ({ 16 }) d'impliquer ({ 17 18 20 }) l'Union ({ 22 }) Européenne ({ 23 }) davantage, ({ 19 }) y ({ }) compris ({ 24 }) financièrement, ({ 25 }) dans ({ 26 }) la ({ 27 }) bataille ({ 28 }) contre ({ 29 }) la ({ 30 }) maladie ({ 31 }) d'Alzheimer ({ 32 }) et ({ 33 }) les ({ 34 }) autres ({ 35 }) types ({ 36 }) de ({ }) démence. ({ 37 }) 
+# Sentence pair (5) source length 36 target length 34 alignment score : 5.26888e-25
+Madame le Président, avec cette résolution sur la folie, le parlement veut obtenir une plus grande implication de l'Union Européenne, y compris financièrement, dans la lutte contre la maladie d'Alzheimer et d'autres maladies mentales. 
+NULL ({ 2 18 }) Madame ({ 1 }) la ({ }) Présidente, ({ 3 }) ce ({ }) que ({ }) le ({ 10 }) Parlement ({ 11 }) veut ({ 12 }) obtenir ({ 13 }) avec ({ 4 }) sa ({ 5 }) résolution ({ 6 }) sur ({ 7 }) la ({ 8 }) démence, ({ 9 16 }) est ({ 14 }) d'impliquer ({ 17 }) l'Union ({ 19 }) Européenne ({ 20 }) davantage, ({ 15 }) y ({ 21 }) compris ({ 22 }) financièrement, ({ 23 }) dans ({ 24 }) la ({ 25 }) bataille ({ 26 }) contre ({ 27 }) la ({ 28 }) maladie ({ 29 }) d'Alzheimer ({ 30 }) et ({ 31 }) les ({ }) autres ({ 32 }) types ({ 33 }) de ({ }) démence. ({ 34 }) 
+# Sentence pair (6) source length 36 target length 40 alignment score : 8.35442e-28
+Madame la présidente, ce que le Parlement veut accomplir avec sa résolution sur la démence est d'inclure de plus en plus l'Union européenne, y compris financièrement, dans la lutte contre la maladie d'Alzheimer et autre forme de maladies de démence. 
+NULL ({ 18 20 37 }) Madame ({ 1 }) la ({ 2 }) Présidente, ({ 3 }) ce ({ 4 }) que ({ 5 }) le ({ 6 }) Parlement ({ 7 }) veut ({ 8 }) obtenir ({ 9 }) avec ({ 10 }) sa ({ 11 }) résolution ({ 12 }) sur ({ 13 }) la ({ 14 }) démence, ({ 15 }) est ({ 16 }) d'impliquer ({ 17 }) l'Union ({ 22 }) Européenne ({ 23 }) davantage, ({ 19 21 }) y ({ 24 }) compris ({ 25 }) financièrement, ({ 26 }) dans ({ 27 }) la ({ 28 }) bataille ({ 29 }) contre ({ 30 }) la ({ 31 }) maladie ({ 32 }) d'Alzheimer ({ 33 }) et ({ 34 }) les ({ }) autres ({ }) types ({ 35 36 38 }) de ({ 39 }) démence. ({ 40 }) 
+# Sentence pair (7) source length 23 target length 18 alignment score : 3.34399e-12
+Le nouveau Programme d'Action Sociale est capital pour le développement des politiques sociales et de l'emploi de l'Union. 
+NULL ({ }) Le ({ 1 }) nouveau ({ 2 }) Programme ({ 3 }) d'Action ({ 4 }) Sociale ({ 5 }) est ({ 6 }) très ({ 7 }) important ({ 8 }) dans ({ }) le ({ 9 }) cadre ({ 10 }) du ({ }) développement ({ }) des ({ 11 }) politiques ({ 12 }) sociales ({ 13 }) et ({ 14 }) du ({ }) marché ({ }) de ({ 15 }) l'emploi ({ 16 }) de ({ 17 }) l'Union. ({ 18 }) 
+# Sentence pair (8) source length 23 target length 21 alignment score : 9.8693e-13
+Le nouveau programme d'action sociale est très important dans le développement des politiques sociales et du marché du travail de l'Union. 
+NULL ({ }) Le ({ 1 }) nouveau ({ 2 }) Programme ({ 3 }) d'Action ({ 4 }) Sociale ({ 5 }) est ({ 6 }) très ({ 7 }) important ({ 8 }) dans ({ 9 }) le ({ 10 }) cadre ({ 11 }) du ({ }) développement ({ }) des ({ 12 }) politiques ({ 13 }) sociales ({ 14 }) et ({ 15 }) du ({ 16 }) marché ({ 17 }) de ({ 18 }) l'emploi ({ 19 }) de ({ 20 }) l'Union. ({ 21 }) 
+# Sentence pair (9) source length 23 target length 22 alignment score : 1.6141e-17
+Le nouveau Programme d'Action Sociale est très important pour le développement de la politique sociale et de marché du travail de l'Union. 
+NULL ({ 12 13 17 }) Le ({ 1 }) nouveau ({ 2 }) Programme ({ 3 }) d'Action ({ 4 }) Sociale ({ 5 }) est ({ 6 }) très ({ 7 }) important ({ 8 9 }) dans ({ }) le ({ 10 }) cadre ({ 11 }) du ({ }) développement ({ }) des ({ }) politiques ({ 14 }) sociales ({ 15 }) et ({ 16 }) du ({ }) marché ({ 18 }) de ({ 19 }) l'emploi ({ 20 }) de ({ 21 }) l'Union. ({ 22 }) 
+# Sentence pair (10) source length 22 target length 22 alignment score : 2.13939e-16
+Nous rappelons à cette assemblée qu'il a péniblement répondu aux questions soulevées par le terrible naufrage du Pallas dans les eaux internationales. 
+NULL ({ 3 }) Nous ({ 1 }) rappelons ({ 2 }) dans ({ }) cette ({ 4 }) maison ({ 5 }) qu'il ({ 6 }) a ({ 7 }) méticuleusement ({ 8 }) étudié ({ 9 }) les ({ 10 }) questions ({ 11 }) soulevées ({ 12 }) par ({ 13 }) le ({ 14 }) désastreux ({ 15 }) naufrage ({ 16 }) du ({ 17 }) Pallas ({ 18 }) dans ({ 19 }) les ({ 20 }) eaux ({ 21 }) internationnales. ({ 22 }) 
+# Sentence pair (11) source length 22 target length 24 alignment score : 3.83458e-15
+Nous rappelons dans cette Maison qu'il a continué de façon fastidieuse les questions posées par le naufrage désastreux du Pallas dans les eaux internationales. 
+NULL ({ 9 }) Nous ({ 1 }) rappelons ({ 2 }) dans ({ 3 }) cette ({ 4 }) maison ({ 5 10 }) qu'il ({ 6 }) a ({ 7 }) méticuleusement ({ 8 }) étudié ({ 11 }) les ({ 12 }) questions ({ 13 }) soulevées ({ 14 }) par ({ 15 }) le ({ 16 }) désastreux ({ 17 }) naufrage ({ 18 }) du ({ 19 }) Pallas ({ 20 }) dans ({ 21 }) les ({ 22 }) eaux ({ 23 }) internationnales. ({ 24 }) 
+# Sentence pair (12) source length 22 target length 22 alignment score : 3.9268e-12
+Nous rappelons en cette assemblée qu'il a méticuleusement approfondi les questions soulevées par le naufrage désastreux du Pallas dans les eaux internationales. 
+NULL ({ }) Nous ({ 1 }) rappelons ({ 2 }) dans ({ 3 }) cette ({ 4 }) maison ({ 5 }) qu'il ({ 6 }) a ({ 7 }) méticuleusement ({ 8 }) étudié ({ 9 }) les ({ 10 }) questions ({ 11 }) soulevées ({ 12 }) par ({ 13 }) le ({ 14 }) désastreux ({ 15 }) naufrage ({ 16 }) du ({ 17 }) Pallas ({ 18 }) dans ({ 19 }) les ({ 20 }) eaux ({ 21 }) internationnales. ({ 22 }) 
+# Sentence pair (13) source length 36 target length 29 alignment score : 5.53529e-27
+Dans le dernier numéro de la lettre d'information du Hong Kong Human Right's Monitor apparaît: l'Histoire jugera durement la Grande-Bretagne d'avoir tenu les hongkongais éloignés de la vie politique. 
+NULL ({ 2 }) Dans ({ 1 }) la ({ }) dernière ({ 3 }) édition ({ 4 }) de ({ 5 }) la ({ 6 }) newsletter ({ 7 }) des ({ }) droits ({ }) de ({ }) l'homme ({ 8 }) de ({ 9 }) Hong ({ 10 }) Kong, ({ 11 }) on ({ }) peut ({ 12 13 }) lire ({ 14 }) ceci: ({ 15 }) L'Histoire ({ 16 }) jugera ({ 17 }) durement ({ 18 }) la ({ 19 }) Grande-Bretagne ({ 20 }) pour ({ }) avoir ({ 21 }) maintenu ({ 22 }) le ({ }) peuple ({ 23 }) de ({ }) Hong ({ }) Kong ({ }) hors ({ 24 25 }) de ({ 26 }) la ({ 27 }) vie ({ 28 }) politique. ({ 29 }) 
+# Sentence pair (14) source length 36 target length 38 alignment score : 4.55866e-34
+Dans la dernière publication de la Lettre de nouvelles du Moniteur des droits de l'homme de Hong Kong, on peut lire l'histoire jugera la Grande-Bretagne négativement pour avoir refouler de la vie politique les habitants de Hong Kong. 
+NULL ({ 8 36 }) Dans ({ 1 }) la ({ 2 }) dernière ({ 3 }) édition ({ 4 }) de ({ 5 }) la ({ 6 }) newsletter ({ 7 9 10 11 }) des ({ 12 }) droits ({ 13 }) de ({ 14 }) l'homme ({ 15 }) de ({ 16 }) Hong ({ 17 }) Kong, ({ 18 }) on ({ 19 }) peut ({ 20 }) lire ({ }) ceci: ({ 21 }) L'Histoire ({ 22 }) jugera ({ }) durement ({ 23 }) la ({ 24 }) Grande-Bretagne ({ 25 26 }) pour ({ 27 }) avoir ({ 28 }) maintenu ({ 29 }) le ({ }) peuple ({ 34 }) de ({ }) Hong ({ 37 }) Kong ({ }) hors ({ 33 35 }) de ({ 30 }) la ({ 31 }) vie ({ 32 }) politique. ({ 38 }) 
+# Sentence pair (15) source length 36 target length 40 alignment score : 3.14881e-47
+Dans le dernier numéro de la lettre d'informations du Hong Kong Human Right's, il est possible de lire le texte suivant: l'histoire jugera sévèrement la Grande Bretagne pour avoir tenu les citoyens de Hong Kong loin de la vie politique. 
+NULL ({ 2 17 33 }) Dans ({ 1 }) la ({ }) dernière ({ 3 }) édition ({ 4 }) de ({ 5 }) la ({ 6 }) newsletter ({ 7 }) des ({ }) droits ({ }) de ({ }) l'homme ({ }) de ({ }) Hong ({ 10 }) Kong, ({ 11 15 }) on ({ 14 }) peut ({ 12 }) lire ({ }) ceci: ({ 13 }) L'Histoire ({ 21 22 }) jugera ({ 23 }) durement ({ 24 }) la ({ 25 }) Grande-Bretagne ({ 26 27 }) pour ({ 28 }) avoir ({ 16 29 }) maintenu ({ 18 30 }) le ({ 19 }) peuple ({ 20 31 32 }) de ({ }) Hong ({ 34 }) Kong ({ 35 36 }) hors ({ }) de ({ 37 }) la ({ 38 }) vie ({ 39 }) politique. ({ 8 9 40 }) 
+# Sentence pair (16) source length 36 target length 38 alignment score : 2.84632e-44
+Nous aimerions donc demander qu'une plus grande importance soit donnée aux aspects sécuritaires, parce que bien que de nombreux collègues se soient intéressés de près aux problèmes d'étiquetage ces dernières années, il ne s'agit que d'un problème annexe. 
+NULL ({ 18 24 }) Nous ({ 1 }) demanderions ({ 2 3 }) donc ({ 4 }) qu'une ({ 5 }) plus ({ 6 }) grande ({ 7 }) attention ({ 8 9 }) soit ({ 10 12 }) portée ({ 11 }) à ({ }) la ({ }) sécurité ({ 13 }) car ({ 14 }) bien ({ 15 16 }) que ({ 17 }) plusieurs ({ 19 }) de ({ }) mes ({ }) collègues ({ 20 }) se ({ 21 }) soient ({ 22 26 }) attardés ({ 23 27 }) sur ({ }) l'étiquetage ({ 25 28 }) ces ({ 29 }) dernières ({ 30 }) années, ({ 31 }) l'étiquetage ({ 32 }) n'est ({ 33 }) qu'un ({ }) complément ({ 34 }) et ({ 35 }) pas ({ }) un ({ }) aspect ({ 36 37 }) fondamental. ({ 38 }) 
+# Sentence pair (17) source length 36 target length 31 alignment score : 6.29256e-32
+Cependant, nous demandons qu'une plus grande attention soit placée sur les aspects sécuritaires, puisque, malgré que plusieurs de mes collègues se soient intéressés aux problèmes d'étiquetage qui est un problème annexe. 
+NULL ({ 11 }) Nous ({ 2 }) demanderions ({ 3 }) donc ({ 1 }) qu'une ({ 4 }) plus ({ 5 }) grande ({ 6 }) attention ({ 7 }) soit ({ 9 }) portée ({ 8 }) à ({ }) la ({ }) sécurité ({ 13 }) car ({ 14 }) bien ({ 15 }) que ({ 16 }) plusieurs ({ 17 }) de ({ 18 }) mes ({ 19 }) collègues ({ 20 }) se ({ 21 }) soient ({ 22 24 }) attardés ({ 23 25 }) sur ({ 10 }) l'étiquetage ({ 12 }) ces ({ 27 }) dernières ({ }) années, ({ 28 }) l'étiquetage ({ 26 }) n'est ({ }) qu'un ({ }) complément ({ }) et ({ }) pas ({ }) un ({ 29 }) aspect ({ 30 }) fondamental. ({ 31 }) 
+# Sentence pair (18) source length 36 target length 37 alignment score : 3.44369e-39
+En conséquence, nous voudrions demander qu'une plus grande attention soit portée sur les aspects sécurité, bien que beaucoup de mes collègues se soient attardés ces dernières années sur l'étiquetage, l'étiquetage est un problème accessoire et non fondamental. 
+NULL ({ 13 31 }) Nous ({ 3 }) demanderions ({ 4 }) donc ({ 1 2 5 }) qu'une ({ 6 }) plus ({ 7 }) grande ({ 8 }) attention ({ 9 }) soit ({ }) portée ({ 10 }) à ({ }) la ({ }) sécurité ({ 11 }) car ({ 15 }) bien ({ 16 }) que ({ 17 }) plusieurs ({ 18 }) de ({ 19 }) mes ({ 20 }) collègues ({ 21 }) se ({ 22 }) soient ({ 23 }) attardés ({ 24 }) sur ({ 12 }) l'étiquetage ({ 14 }) ces ({ 25 }) dernières ({ 26 30 }) années, ({ 27 28 }) l'étiquetage ({ 29 }) n'est ({ }) qu'un ({ 36 }) complément ({ 34 }) et ({ 35 }) pas ({ }) un ({ 32 }) aspect ({ 33 }) fondamental. ({ 37 }) 
+# Sentence pair (19) source length 18 target length 20 alignment score : 4.45779e-17
+Cela impliquerait, bien évidemment, l'adoption par un vote à la majorité qualifiée, au moins pour une partie du secteur fiscal. 
+NULL ({ 9 10 }) Cela ({ 1 }) exigerait, ({ 2 3 }) par ({ 6 }) exemple, ({ 4 }) l'adoption ({ 5 }) de ({ }) vote ({ 8 }) d'une ({ 7 }) majorité ({ 11 }) qualifiée, ({ 12 }) au ({ 13 }) moins ({ 14 }) pour ({ 15 }) une ({ 16 }) partie ({ 17 }) du ({ 18 }) secteur ({ 19 }) fiscal. ({ 20 }) 
+# Sentence pair (20) source length 18 target length 17 alignment score : 8.81977e-11
+Cela nécessiterait, par exemple, l'adoption de la majorité absolue, au moins pour une partie du secteur financier. 
+NULL ({ }) Cela ({ 1 }) exigerait, ({ 2 }) par ({ 3 }) exemple, ({ 4 }) l'adoption ({ 5 }) de ({ 6 }) vote ({ }) d'une ({ 7 }) majorité ({ 8 }) qualifiée, ({ 9 }) au ({ 10 }) moins ({ 11 }) pour ({ 12 }) une ({ 13 }) partie ({ 14 }) du ({ 15 }) secteur ({ 16 }) fiscal. ({ 17 }) 
+# Sentence pair (21) source length 18 target length 19 alignment score : 4.08703e-27
+Cela, par exemple, requiérerait l'adoption d'une majorité qualifiée de votants, au moins en ce qui concerne le secteur fiscal. 
+NULL ({ 9 17 }) Cela ({ 1 }) exigerait, ({ }) par ({ 2 }) exemple, ({ 3 4 }) l'adoption ({ 5 }) de ({ }) vote ({ }) d'une ({ 6 }) majorité ({ 7 }) qualifiée, ({ 8 10 }) au ({ 11 }) moins ({ 12 }) pour ({ }) une ({ }) partie ({ 14 }) du ({ }) secteur ({ 13 15 18 }) fiscal. ({ 16 19 }) 
+# Sentence pair (22) source length 7 target length 9 alignment score : 1.85794e-07
+Ils sont sous-estimés par le scepticisme et la peur. 
+NULL ({ 5 }) Le ({ 1 }) scepticisme ({ 6 }) et ({ 7 }) la ({ 8 }) crainte ({ 9 }) l'ont ({ 2 3 }) emporté. ({ 4 }) 
+# Sentence pair (23) source length 7 target length 6 alignment score : 9.01118e-05
+Le scepticisme et la peur l'emportent. 
+NULL ({ }) Le ({ 1 }) scepticisme ({ 2 }) et ({ 3 }) la ({ 4 }) crainte ({ 5 }) l'ont ({ }) emporté. ({ 6 }) 
+# Sentence pair (24) source length 7 target length 9 alignment score : 1.85794e-07
+Ils sont submergés par le scepticisme et la peur. 
+NULL ({ 5 }) Le ({ 1 }) scepticisme ({ 6 }) et ({ 7 }) la ({ 8 }) crainte ({ 9 }) l'ont ({ 2 3 }) emporté. ({ 4 }) 
+# Sentence pair (25) source length 31 target length 31 alignment score : 1.0203e-20
+La Commission a été informée qu'une demande officielle des autorités régionales concernées pourrait être soumise au comité de suivi du cadre communautaire d'appui, qui se réunit en effet aujourd'hui à Lisbonne. 
+NULL ({ }) La ({ 1 }) Commission ({ 2 }) a ({ 3 }) été ({ 4 }) informée ({ 5 }) qu'une ({ 6 }) requête ({ 7 }) officielle ({ 8 }) des ({ 9 }) autorités ({ 10 }) régionales ({ }) concernées ({ 11 }) serait ({ 12 }) susceptible ({ 13 }) d'être ({ 14 }) soumise ({ 15 }) au ({ 16 }) comité ({ 17 }) de ({ 18 }) suivi ({ 19 }) du ({ 20 }) Cadre ({ 21 }) communautaire ({ 22 26 }) d'appui, ({ 29 }) qui ({ 24 }) est ({ }) en ({ 27 }) réunion ({ 28 }) aujourd'hui ({ 23 25 }) à ({ 30 }) Lisbonne. ({ 31 }) 
+# Sentence pair (26) source length 31 target length 33 alignment score : 4.63088e-24
+La Commission a été informée qu'une requête officielle des autorités régionales concernées pouvait être soumises au comité de pilotage du cadre de soutien de la Communauté, qui se réunit d'ailleurs aujourd'hui à Lisbonne. 
+NULL ({ 22 24 25 }) La ({ 1 }) Commission ({ 2 }) a ({ 3 }) été ({ 4 }) informée ({ 5 }) qu'une ({ 6 }) requête ({ 7 }) officielle ({ 8 }) des ({ 9 }) autorités ({ 10 }) régionales ({ }) concernées ({ 11 }) serait ({ 12 }) susceptible ({ 13 }) d'être ({ 14 }) soumise ({ 15 }) au ({ 16 }) comité ({ 17 }) de ({ 18 }) suivi ({ 19 }) du ({ 20 }) Cadre ({ 21 }) communautaire ({ 23 29 }) d'appui, ({ 26 }) qui ({ 27 }) est ({ }) en ({ }) réunion ({ 30 31 }) aujourd'hui ({ 28 }) à ({ 32 }) Lisbonne. ({ 33 }) 
+# Sentence pair (27) source length 31 target length 32 alignment score : 2.40524e-22
+La Commission a été informé qu'une requête officielle émanant des autorités régionales concernées pourrait être soumise au comité pilote du programme de soutien de la Communauté qui se réunit aujourd'hui à Lisbonne. 
+NULL ({ 22 24 25 }) La ({ 1 }) Commission ({ 2 }) a ({ 3 }) été ({ 4 }) informée ({ 5 }) qu'une ({ 6 }) requête ({ 7 }) officielle ({ 8 9 }) des ({ 10 }) autorités ({ 11 }) régionales ({ }) concernées ({ 12 }) serait ({ 13 }) susceptible ({ 14 }) d'être ({ 15 }) soumise ({ 16 }) au ({ 17 }) comité ({ 18 }) de ({ }) suivi ({ 19 }) du ({ 20 }) Cadre ({ 21 }) communautaire ({ 23 29 }) d'appui, ({ 26 }) qui ({ 27 }) est ({ }) en ({ }) réunion ({ 30 }) aujourd'hui ({ 28 }) à ({ 31 }) Lisbonne. ({ 32 }) 
+# Sentence pair (28) source length 12 target length 9 alignment score : 4.35737e-10
+Plusieurs orateurs ont considéré que ceci est trop tardé. 
+NULL ({ }) Plusieurs ({ 1 }) orateurs ({ 2 }) ont ({ 3 }) estimé ({ 4 }) que ({ 5 }) cela ({ 6 }) aurait ({ 8 }) dû ({ 9 }) être ({ 7 }) fait ({ }) depuis ({ }) longtemps. ({ }) 
+# Sentence pair (29) source length 12 target length 8 alignment score : 4.64324e-08
+Plusieurs locuteurs ont jugé cela nécéssaire depuis longtemps. 
+NULL ({ }) Plusieurs ({ 1 }) orateurs ({ 2 }) ont ({ 3 }) estimé ({ 4 }) que ({ }) cela ({ 5 }) aurait ({ 6 }) dû ({ }) être ({ }) fait ({ }) depuis ({ 7 }) longtemps. ({ 8 }) 
+# Sentence pair (30) source length 12 target length 12 alignment score : 2.23073e-09
+Plusieurs orateurs ont consideré que cela aurait dû être fait depuis longtemps. 
+NULL ({ }) Plusieurs ({ 1 }) orateurs ({ 2 }) ont ({ 3 }) estimé ({ 4 }) que ({ 5 }) cela ({ 6 }) aurait ({ 7 }) dû ({ 8 }) être ({ 9 }) fait ({ 10 }) depuis ({ 11 }) longtemps. ({ 12 }) 
+# Sentence pair (31) source length 17 target length 18 alignment score : 1.36373e-14
+M. Le Président, Le Sommet de Helsinki a tenu compte de la proposition pour une charte de droits. 
+NULL ({ 6 11 17 }) M. ({ 1 }) le ({ 2 }) Président, ({ 3 }) le ({ 4 }) sommet ({ 5 }) d'Helsinki ({ 7 }) a ({ 8 }) pris ({ 9 }) en ({ }) compte ({ 10 }) la ({ 12 }) proposition ({ 13 }) pour ({ 14 }) une ({ 15 }) charte ({ 16 }) des ({ }) droits. ({ 18 }) 
+# Sentence pair (32) source length 17 target length 17 alignment score : 5.38747e-14
+M. le Président, le sommet de Helsinki a pris connaissance de la proposition d'une Charte des droits. 
+NULL ({ 6 11 }) M. ({ 1 }) le ({ 2 }) Président, ({ 3 }) le ({ 4 }) sommet ({ 5 }) d'Helsinki ({ 7 }) a ({ 8 }) pris ({ 9 }) en ({ }) compte ({ 10 }) la ({ 12 }) proposition ({ 13 }) pour ({ }) une ({ }) charte ({ 14 15 }) des ({ 16 }) droits. ({ 17 }) 
+# Sentence pair (33) source length 17 target length 18 alignment score : 6.16719e-15
+Monsieur le Président, le sommet d'Helsinki a pris en compte la proposition en faveur d'une charte des droits. 
+NULL ({ }) M. ({ 1 }) le ({ 2 }) Président, ({ 3 }) le ({ 4 }) sommet ({ 5 }) d'Helsinki ({ 6 }) a ({ 7 }) pris ({ 8 }) en ({ 9 }) compte ({ 10 14 }) la ({ 11 }) proposition ({ 12 }) pour ({ }) une ({ 13 }) charte ({ 15 16 }) des ({ 17 }) droits. ({ 18 }) 
+# Sentence pair (34) source length 22 target length 24 alignment score : 5.55963e-23
+Cela signifie que la nourriture n'est pas seulement pour les forces du marché, mais aussi pour la santé publique, le paysage et la nature. 
+NULL ({ 16 20 23 }) Cela ({ 1 }) signifie ({ 2 }) que ({ 3 }) la ({ 4 }) nourriture ({ 5 }) n'est ({ 6 }) pas ({ 7 }) qu'un ({ 8 }) problème ({ 9 10 }) d'offre ({ 11 }) et ({ }) de ({ 12 }) demande ({ 13 }) mais ({ 14 }) également ({ 15 17 }) de ({ }) santé ({ 18 }) publique, ({ 19 }) d'environnement ({ 21 }) et ({ 22 }) de ({ }) nature. ({ 24 }) 
+# Sentence pair (35) source length 22 target length 26 alignment score : 4.65429e-26
+Cela signifie que la nourriture ne permet pas non seulement de renforcer les marchés, mais aussi de soutenir la santé publique, le paysage et la nature. 
+NULL ({ 22 25 }) Cela ({ 1 }) signifie ({ 2 }) que ({ 3 }) la ({ 4 }) nourriture ({ 5 }) n'est ({ 6 7 }) pas ({ 8 }) qu'un ({ 9 10 }) problème ({ 13 }) d'offre ({ 12 }) et ({ }) de ({ 17 }) demande ({ 14 }) mais ({ 15 }) également ({ 16 18 19 }) de ({ }) santé ({ 20 }) publique, ({ 21 }) d'environnement ({ 23 }) et ({ 24 }) de ({ 11 }) nature. ({ 26 }) 
+# Sentence pair (36) source length 22 target length 19 alignment score : 5.5636e-21
+Cela signifie que l'alimentation ne participe pas qu'à un marché, mais également à la santé publique et à l'environnement. 
+NULL ({ 13 }) Cela ({ 1 }) signifie ({ 2 }) que ({ 3 }) la ({ }) nourriture ({ 5 }) n'est ({ 4 }) pas ({ 7 }) qu'un ({ 8 }) problème ({ 9 }) d'offre ({ 6 }) et ({ }) de ({ }) demande ({ 10 }) mais ({ 11 }) également ({ 14 }) de ({ }) santé ({ 12 }) publique, ({ 15 }) d'environnement ({ 16 }) et ({ 17 }) de ({ }) nature. ({ 18 19 }) 
+# Sentence pair (37) source length 12 target length 12 alignment score : 5.51887e-09
+Ainsi, les pièces de deux et vingt centimes euro devrait être éliminées. 
+NULL ({ }) Ainsi, ({ 1 }) les ({ 2 }) pièces ({ 3 }) de ({ 4 }) 2 ({ 5 }) et ({ 6 }) 20 ({ 7 }) centimes ({ 8 }) d'euro ({ }) devraient ({ 9 }) être ({ 10 11 }) supprimées. ({ 12 }) 
+# Sentence pair (38) source length 12 target length 13 alignment score : 3.83675e-07
+Alors les pièces de deux et de vingt centimes d'euro devraient être supprimées. 
+NULL ({ 7 }) Ainsi, ({ 1 }) les ({ 2 }) pièces ({ 3 }) de ({ 4 }) 2 ({ 5 }) et ({ 6 }) 20 ({ 8 }) centimes ({ 9 }) d'euro ({ 10 }) devraient ({ 11 }) être ({ 12 }) supprimées. ({ 13 }) 
+# Sentence pair (39) source length 12 target length 12 alignment score : 3.09533e-06
+Alors les pièces de deux et vingt centimes d'euro deverait être abandonnées. 
+NULL ({ }) Ainsi, ({ 1 }) les ({ 2 }) pièces ({ 3 }) de ({ 4 }) 2 ({ 5 }) et ({ 6 }) 20 ({ 7 }) centimes ({ 8 }) d'euro ({ 9 }) devraient ({ 10 }) être ({ 11 }) supprimées. ({ 12 }) 
+# Sentence pair (40) source length 8 target length 10 alignment score : 5.13699e-11
+Cette Union européenne est à propos d'une vision de l'avenir. 
+NULL ({ }) Cette ({ 1 }) union ({ 2 6 }) européenne ({ 3 5 7 }) constitue ({ 4 }) une ({ }) vision ({ 8 }) de ({ 9 }) l'avenir. ({ 10 }) 
+# Sentence pair (41) source length 8 target length 8 alignment score : 2.1028e-09
+Cette UE est une vision pour le futur 
+NULL ({ 7 }) Cette ({ 1 }) union ({ 2 }) européenne ({ 6 }) constitue ({ 3 }) une ({ 4 }) vision ({ 5 }) de ({ }) l'avenir. ({ 8 }) 
+# Sentence pair (42) source length 8 target length 6 alignment score : 2.92996e-07
+L'UE est une vision du futur. 
+NULL ({ }) Cette ({ 1 }) union ({ }) européenne ({ }) constitue ({ 2 }) une ({ 3 }) vision ({ 4 }) de ({ 5 }) l'avenir. ({ 6 }) 
+# Sentence pair (43) source length 32 target length 31 alignment score : 4.99069e-21
+Cette proposition de directive se focalise sur la question de l'égalité de traitement entre travailleurs migrants et de conserver les droits qu'ils ont acquis au moment d'aller à un autre pays. 
+NULL ({ 28 }) Cette ({ 1 }) proposition ({ 2 }) de ({ 3 }) directive ({ 4 }) porte ({ 5 6 }) sur ({ 7 }) la ({ 8 }) question ({ 9 }) de ({ 10 }) l'égalité ({ 11 }) de ({ 12 }) traitement ({ 13 }) pour ({ }) les ({ }) travailleurs ({ 14 15 }) de ({ }) passage ({ 16 }) et ({ 17 }) de ({ 18 }) sauvegarder ({ 19 }) les ({ 20 }) droits ({ 21 }) qu'ils ({ 22 }) ont ({ 23 }) acquis ({ 24 25 }) en ({ }) se ({ }) déplaçant ({ 26 }) vers ({ 27 }) un ({ 29 }) autre ({ 30 }) pays. ({ 31 }) 
+# Sentence pair (44) source length 32 target length 28 alignment score : 2.71289e-30
+Cette proposition de directive vise la question de l'égalité de traitement des travailleurs de passage et celle de la conservation de leurs droits acquis lors de leur migration. 
+NULL ({ 18 19 21 26 }) Cette ({ 1 }) proposition ({ 2 }) de ({ 3 }) directive ({ 4 }) porte ({ 5 }) sur ({ }) la ({ 6 }) question ({ 7 }) de ({ 8 }) l'égalité ({ 9 }) de ({ 10 }) traitement ({ 11 }) pour ({ 12 }) les ({ }) travailleurs ({ 13 }) de ({ 14 }) passage ({ 15 }) et ({ 16 }) de ({ }) sauvegarder ({ 17 20 }) les ({ }) droits ({ 22 23 }) qu'ils ({ }) ont ({ }) acquis ({ 24 }) en ({ }) se ({ }) déplaçant ({ 28 }) vers ({ }) un ({ }) autre ({ }) pays. ({ 25 27 }) 
+# Sentence pair (45) source length 32 target length 32 alignment score : 9.42162e-22
+Cette proposition de directive se concentre sur la question de l'égalité de traitement entre travailleurs migrants et de sauvegarder les droits qu'ils ont acquis au moment de passer à un autre pays. 
+NULL ({ 27 29 }) Cette ({ 1 }) proposition ({ 2 }) de ({ 3 }) directive ({ 4 }) porte ({ 5 6 }) sur ({ 7 }) la ({ 8 }) question ({ 9 }) de ({ 10 }) l'égalité ({ 11 }) de ({ 12 }) traitement ({ 13 }) pour ({ }) les ({ }) travailleurs ({ 14 15 }) de ({ }) passage ({ 16 }) et ({ 17 }) de ({ 18 }) sauvegarder ({ 19 }) les ({ 20 }) droits ({ 21 }) qu'ils ({ 22 }) ont ({ 23 }) acquis ({ 24 25 }) en ({ }) se ({ }) déplaçant ({ 26 }) vers ({ 28 }) un ({ 30 }) autre ({ 31 }) pays. ({ 32 }) 
+# Sentence pair (46) source length 13 target length 13 alignment score : 3.57254e-12
+De plus, l'UE est devenue le premier fournisseur du monde d'aide au développement. 
+NULL ({ 6 }) De ({ 1 }) plus, ({ 2 }) l'UE ({ 3 }) fournit ({ 4 }) maintenant ({ 5 }) la ({ }) plus ({ }) grande ({ 7 }) aide ({ 8 }) au ({ 9 }) développement ({ 10 11 }) au ({ 12 }) monde. ({ 13 }) 
+# Sentence pair (47) source length 13 target length 16 alignment score : 7.5036e-15
+De plus l'Union Européenne est devenue actuellement la plus grande donatrice d'aides au developpment au monde. 
+NULL ({ }) De ({ 1 }) plus, ({ 2 }) l'UE ({ 3 }) fournit ({ 4 5 }) maintenant ({ 6 7 }) la ({ 8 }) plus ({ 9 }) grande ({ 10 }) aide ({ 11 12 }) au ({ 13 }) développement ({ 14 }) au ({ 15 }) monde. ({ 16 }) 
+# Sentence pair (48) source length 13 target length 15 alignment score : 2.59566e-14
+En outre, l'UE est devenue aujourd'hui le plus grand fournisseur du monde d'aide au développement. 
+NULL ({ 7 }) De ({ 1 }) plus, ({ 2 }) l'UE ({ 3 }) fournit ({ 4 }) maintenant ({ 5 6 }) la ({ }) plus ({ 8 }) grande ({ 9 }) aide ({ 10 }) au ({ 11 }) développement ({ 12 13 }) au ({ 14 }) monde. ({ 15 }) 
+# Sentence pair (49) source length 11 target length 11 alignment score : 1.0969e-05
+La solidarité de la communauté devrait être placée à ce niveau. 
+NULL ({ }) La ({ 1 }) solidarité ({ 2 }) de ({ 3 }) la ({ 4 }) communauté ({ 5 }) devrait ({ 6 }) être ({ 7 }) exprimée ({ 8 }) à ({ 9 }) ce ({ 10 }) niveau. ({ 11 }) 
+# Sentence pair (50) source length 11 target length 9 alignment score : 1.51877e-05
+La solidarité communautaire devrait être exprimée à ce niveau. 
+NULL ({ }) La ({ 1 }) solidarité ({ 2 }) de ({ }) la ({ }) communauté ({ 3 }) devrait ({ 4 }) être ({ 5 }) exprimée ({ 6 }) à ({ 7 }) ce ({ 8 }) niveau. ({ 9 }) 
+# Sentence pair (51) source length 11 target length 11 alignment score : 6.08529e-07
+La solidarité de la communauté devrait se manifester à ce niveau. 
+NULL ({ }) La ({ 1 }) solidarité ({ 2 }) de ({ 3 }) la ({ 4 }) communauté ({ 5 }) devrait ({ 6 }) être ({ 7 }) exprimée ({ 8 }) à ({ 9 }) ce ({ 10 }) niveau. ({ 11 }) 
+# Sentence pair (52) source length 18 target length 17 alignment score : 8.48839e-12
+Deuxièmement, cela crée un processus d'accord simplifié pour les OGM qui contient un certain nombre de références. 
+NULL ({ }) Deuxièmement, ({ 1 }) il ({ 2 }) crée ({ 3 }) une ({ 4 }) procédure ({ 5 }) simplifiée ({ 6 }) de ({ }) consentement ({ 7 }) pour ({ 8 }) les ({ 9 }) OGM, ({ 10 }) qui ({ 11 }) contient ({ 12 }) un ({ 13 }) certain ({ 14 }) nombre ({ 15 }) de ({ 16 }) références. ({ 17 }) 
+# Sentence pair (53) source length 18 target length 17 alignment score : 1.11109e-10
+Celà a créé une procédure simplifiée d'autorisation pour les OGM qui contient un certain nombre de références. 
+NULL ({ }) Deuxièmement, ({ 1 }) il ({ 2 }) crée ({ 3 }) une ({ 4 }) procédure ({ 5 }) simplifiée ({ 6 }) de ({ }) consentement ({ 7 }) pour ({ 8 }) les ({ 9 }) OGM, ({ 10 }) qui ({ 11 }) contient ({ 12 }) un ({ 13 }) certain ({ 14 }) nombre ({ 15 }) de ({ 16 }) références. ({ 17 }) 
+# Sentence pair (54) source length 18 target length 17 alignment score : 1.0893e-09
+Deuxièmement, il crée une procédure simplifiée d'autorisation pour les OGM, qui comporte un certain nombre de références. 
+NULL ({ }) Deuxièmement, ({ 1 }) il ({ 2 }) crée ({ 3 }) une ({ 4 }) procédure ({ 5 }) simplifiée ({ 6 }) de ({ }) consentement ({ 7 }) pour ({ 8 }) les ({ 9 }) OGM, ({ 10 }) qui ({ 11 }) contient ({ 12 }) un ({ 13 }) certain ({ 14 }) nombre ({ 15 }) de ({ 16 }) références. ({ 17 }) 
+# Sentence pair (55) source length 20 target length 21 alignment score : 5.31687e-21
+À la base, mon problème est que j'avais des questions - comme d'autres personnes d'ailleurs - à poser au commissaire Byrne. 
+NULL ({ 2 }) Radicalement, ({ 1 3 }) mon ({ 4 }) problème ({ 5 }) est ({ 6 }) que ({ 7 }) j'avais ({ 8 }) des ({ 9 }) questions ({ 10 }) à ({ 17 }) poser ({ 18 }) - ({ 11 12 16 }) comme ({ 13 }) d'autres ({ 14 }) personnes ({ 15 }) ont ({ }) fait ({ }) - ({ }) au ({ 19 }) commissaire ({ 20 }) Byrne. ({ 21 }) 
+# Sentence pair (56) source length 20 target length 12 alignment score : 1.36159e-12
+Mon problème était que j'avais, comme d'autres, préparé des questions pour Byrne. 
+NULL ({ }) Radicalement, ({ 1 }) mon ({ }) problème ({ 2 }) est ({ 3 }) que ({ 4 }) j'avais ({ 5 }) des ({ }) questions ({ 10 }) à ({ }) poser ({ }) - ({ }) comme ({ 6 }) d'autres ({ 7 }) personnes ({ 8 }) ont ({ }) fait ({ 9 }) - ({ }) au ({ }) commissaire ({ 11 }) Byrne. ({ 12 }) 
+# Sentence pair (57) source length 20 target length 18 alignment score : 1.13256e-13
+Fondamentalement, mon problème est que j'avais des questions à poser - comme certaines autres personnes- au commissaire Byrne. 
+NULL ({ }) Radicalement, ({ 1 }) mon ({ 2 }) problème ({ 3 }) est ({ 4 }) que ({ 5 }) j'avais ({ 6 }) des ({ 7 }) questions ({ 8 }) à ({ 9 }) poser ({ 10 }) - ({ 11 }) comme ({ 12 }) d'autres ({ 13 }) personnes ({ 14 15 }) ont ({ }) fait ({ }) - ({ }) au ({ 16 }) commissaire ({ 17 }) Byrne. ({ 18 }) 
+# Sentence pair (58) source length 25 target length 27 alignment score : 6.19499e-24
+L'importance du marché de l'alimentaire frais à la fois pour les producteurs et pour les consommateurs est telle que nous devons lui accorder une plus grande attention. 
+NULL ({ 14 }) L'importance ({ 1 }) du ({ 2 }) marché ({ 3 }) de ({ 4 }) la ({ }) nourriture ({ 5 }) fraîche, ({ 6 }) à ({ 7 }) la ({ 8 }) fois ({ 9 }) pour ({ 10 }) les ({ 11 }) producteurs ({ 12 }) et ({ 13 }) les ({ 15 }) consommateurs, ({ 16 17 }) doit ({ 18 }) être ({ 19 }) le ({ }) sujet ({ }) de ({ }) la ({ }) plus ({ 25 }) grande ({ 26 }) attention. ({ 20 21 22 23 24 27 }) 
+# Sentence pair (59) source length 25 target length 19 alignment score : 1.32586e-19
+L'importance du marché du frais pour les producteurs et les consommateurs est telle qu'on devrait y prêter plus d'attention. 
+NULL ({ }) L'importance ({ 1 }) du ({ 2 }) marché ({ 3 }) de ({ }) la ({ }) nourriture ({ 4 }) fraîche, ({ 5 }) à ({ }) la ({ }) fois ({ }) pour ({ 6 }) les ({ 7 }) producteurs ({ 8 }) et ({ 9 }) les ({ 10 }) consommateurs, ({ 11 12 }) doit ({ 13 14 16 }) être ({ 15 }) le ({ }) sujet ({ 17 }) de ({ }) la ({ }) plus ({ 18 }) grande ({ }) attention. ({ 19 }) 
+# Sentence pair (60) source length 25 target length 23 alignment score : 6.80049e-23
+L'importance du marché des produits frais pour les producteurs et les consommateurs est telle que nous devons y accorder une plus grande attention. 
+NULL ({ }) L'importance ({ 1 }) du ({ 2 }) marché ({ 3 }) de ({ }) la ({ 4 }) nourriture ({ 5 }) fraîche, ({ 6 }) à ({ }) la ({ }) fois ({ }) pour ({ 7 }) les ({ 8 }) producteurs ({ 9 }) et ({ 10 }) les ({ 11 }) consommateurs, ({ 12 13 }) doit ({ 14 }) être ({ 15 }) le ({ }) sujet ({ }) de ({ }) la ({ }) plus ({ 21 }) grande ({ 22 }) attention. ({ 16 17 18 19 20 23 }) 
+# Sentence pair (61) source length 24 target length 19 alignment score : 2.20236e-11
+Nous ne devons pas chercher l'égalité avec les responsables de catégorie B2, aussi courtois puissent -ils être par ailleurs. 
+NULL ({ 10 }) Nous ({ 1 }) ne ({ 2 }) devons ({ 3 }) pas ({ 4 }) exiger ({ 5 }) l'égalité ({ 6 }) avec ({ 7 }) les ({ 8 }) officiels ({ 9 }) communautaires ({ 11 }) de ({ }) catégorie ({ 12 }) B2, ({ 13 }) indépendamment ({ }) des ({ }) bonnes ({ 14 }) relations ({ 15 }) que ({ }) nous ({ }) entretenons ({ 16 }) avec ({ }) eux ({ 17 }) par ({ 18 }) ailleurs. ({ 19 }) 
+# Sentence pair (62) source length 24 target length 19 alignment score : 2.20236e-11
+Nous ne devons pas prétendre l'égalité avec les responsables de catégorie B2, aussi respectueux puissent -ils être par ailleurs. 
+NULL ({ 10 }) Nous ({ 1 }) ne ({ 2 }) devons ({ 3 }) pas ({ 4 }) exiger ({ 5 }) l'égalité ({ 6 }) avec ({ 7 }) les ({ 8 }) officiels ({ 9 }) communautaires ({ 11 }) de ({ }) catégorie ({ 12 }) B2, ({ 13 }) indépendamment ({ }) des ({ }) bonnes ({ 14 }) relations ({ 15 }) que ({ }) nous ({ }) entretenons ({ 16 }) avec ({ }) eux ({ 17 }) par ({ 18 }) ailleurs. ({ 19 }) 
+# Sentence pair (63) source length 24 target length 22 alignment score : 9.57915e-16
+Nous ne devons pas demander l'égalité avec les officiels de la Communauté de catégorie B2, aussi sympathiques puissent -ils être par ailleurs. 
+NULL ({ 10 11 }) Nous ({ 1 }) ne ({ 2 }) devons ({ 3 }) pas ({ 4 }) exiger ({ 5 }) l'égalité ({ 6 }) avec ({ 7 }) les ({ 8 }) officiels ({ 9 }) communautaires ({ 12 }) de ({ 13 }) catégorie ({ 14 15 }) B2, ({ 16 }) indépendamment ({ 17 }) des ({ }) bonnes ({ }) relations ({ 18 }) que ({ }) nous ({ }) entretenons ({ 19 }) avec ({ }) eux ({ 20 }) par ({ 21 }) ailleurs. ({ 22 }) 
+# Sentence pair (64) source length 22 target length 20 alignment score : 1.13098e-14
+M. le Président, Commissaire, mesdames et messieurs, nous avons obtenu une codécision sur la politique sociale par le Traité d'Amsterdam. 
+NULL ({ }) Monsieur ({ 1 }) le ({ 2 }) Président, ({ 3 }) Monsieur ({ }) le ({ }) Commissaire, ({ 4 }) mesdames ({ 5 }) et ({ 6 }) messieurs, ({ 7 }) nous ({ 8 }) avons ({ 9 }) obtenu ({ 10 }) la ({ }) codécision ({ 11 12 }) dans ({ 13 }) la ({ 14 }) politique ({ 15 }) sociale ({ 16 }) grâce ({ 17 }) au ({ }) traité ({ 18 }) d'Amsterdam. ({ 19 20 }) 
+# Sentence pair (65) source length 22 target length 22 alignment score : 3.68172e-14
+Monsieur le Président, Monsieur le commissaire, mesdames et messieurs, nous avons obtenu une codécision sur la politique sociale par le Traité d'Amsterdam. 
+NULL ({ }) Monsieur ({ 1 }) le ({ 2 }) Président, ({ 3 }) Monsieur ({ 4 }) le ({ 5 }) Commissaire, ({ 6 }) mesdames ({ 7 }) et ({ 8 }) messieurs, ({ 9 }) nous ({ 10 }) avons ({ 11 }) obtenu ({ 12 }) la ({ }) codécision ({ 13 14 }) dans ({ 15 }) la ({ 16 }) politique ({ 17 }) sociale ({ 18 }) grâce ({ 19 }) au ({ }) traité ({ 20 }) d'Amsterdam. ({ 21 22 }) 
+# Sentence pair (66) source length 22 target length 22 alignment score : 2.27857e-21
+M. le Président, Commissaire, mesdames et messieurs, nous avons atteint une position commune en matière de politique sociale grâce au Traité d'Amsterdam. 
+NULL ({ 16 }) Monsieur ({ 1 }) le ({ 2 }) Président, ({ 3 }) Monsieur ({ }) le ({ }) Commissaire, ({ 4 }) mesdames ({ 5 }) et ({ 6 }) messieurs, ({ 7 }) nous ({ 8 }) avons ({ 9 }) obtenu ({ 10 }) la ({ }) codécision ({ 11 }) dans ({ 14 }) la ({ }) politique ({ 17 }) sociale ({ 18 }) grâce ({ 12 13 15 19 }) au ({ 20 }) traité ({ 21 }) d'Amsterdam. ({ 22 }) 
+# Sentence pair (67) source length 14 target length 15 alignment score : 7.02049e-11
+La Mer Baltique, avec ses eaux saumâtres, est l'une des mers intérieures les plus fragiles. 
+NULL ({ }) La ({ 1 }) mer ({ 2 }) Baltique, ({ 3 }) avec ({ 4 }) son ({ 5 }) eau ({ 6 }) saumâtre, ({ 7 }) est ({ 8 }) l'une ({ 9 }) des ({ 10 }) plus ({ 14 }) sensibles ({ 15 }) mers ({ 11 }) intérieures. ({ 12 13 }) 
+# Sentence pair (68) source length 14 target length 16 alignment score : 3.78964e-12
+La Baltique avec ses eaux salées est l'une des mers intérieures les plus sensibles du monde. 
+NULL ({ }) La ({ 1 }) mer ({ }) Baltique, ({ 2 }) avec ({ 3 }) son ({ 4 }) eau ({ 5 }) saumâtre, ({ 6 }) est ({ 7 }) l'une ({ 8 }) des ({ 9 }) plus ({ 13 }) sensibles ({ 14 15 }) mers ({ 10 }) intérieures. ({ 11 12 16 }) 
+# Sentence pair (69) source length 14 target length 17 alignment score : 5.90659e-14
+La Mer Baltique et ses eaux saumâtres est une des mers intérieures les plus sensibles du monde. 
+NULL ({ }) La ({ 1 }) mer ({ 2 }) Baltique, ({ 3 }) avec ({ 4 }) son ({ 5 }) eau ({ 6 }) saumâtre, ({ 7 }) est ({ 8 }) l'une ({ 9 }) des ({ 10 }) plus ({ 14 }) sensibles ({ 15 16 }) mers ({ 11 }) intérieures. ({ 12 13 17 }) 
+# Sentence pair (70) source length 10 target length 11 alignment score : 6.60042e-11
+En conséquence, les partenaires accumulent des paiements de taux d'intérêt massifs. 
+NULL ({ }) En ({ 1 }) conséquence ({ 2 }) de ({ 8 }) cela, ({ }) les ({ 3 }) partenaires ({ 4 }) accumulent ({ 5 }) des ({ 6 }) dividendes ({ 7 9 10 }) importants. ({ 11 }) 
+# Sentence pair (71) source length 10 target length 10 alignment score : 1.33968e-12
+Conséquemment, les partenaires accumulent des payements à taux d'intérêt massif. 
+NULL ({ 7 }) En ({ 1 }) conséquence ({ 2 }) de ({ }) cela, ({ }) les ({ }) partenaires ({ 3 }) accumulent ({ 4 }) des ({ 5 }) dividendes ({ 6 8 9 }) importants. ({ 10 }) 
+# Sentence pair (72) source length 10 target length 12 alignment score : 3.06152e-13
+En conséquence de cela, d'importants versements de taux d'intérêt reviennent aux partenaires. 
+NULL ({ 7 }) En ({ 1 }) conséquence ({ 2 }) de ({ 3 }) cela, ({ 4 5 }) les ({ }) partenaires ({ 6 }) accumulent ({ 8 }) des ({ }) dividendes ({ 9 }) importants. ({ 10 11 12 }) 
+# Sentence pair (73) source length 11 target length 14 alignment score : 4.89051e-13
+C'était la première fois que l'aspect multilatéral était pris en compte de façon directe. 
+NULL ({ 12 }) C'est ({ 1 }) la ({ 2 }) toute ({ }) première ({ 3 }) fois ({ 4 }) que ({ 5 }) l'aspect ({ 6 }) multilatéral ({ 7 }) est ({ 8 }) évoqué ({ 9 }) directement. ({ 10 11 13 14 }) 
+# Sentence pair (74) source length 11 target length 11 alignment score : 7.30833e-08
+C'était la toute première fois que l'aspect multilatéral fut directement traité. 
+NULL ({ }) C'est ({ 1 }) la ({ 2 }) toute ({ 3 }) première ({ 4 }) fois ({ 5 }) que ({ 6 }) l'aspect ({ 7 }) multilatéral ({ 8 9 }) est ({ }) évoqué ({ 10 }) directement. ({ 11 }) 
+# Sentence pair (75) source length 11 target length 11 alignment score : 5.02348e-09
+C'était la première fois que l'aspect multilatéral avait été directement considéré. 
+NULL ({ }) C'est ({ 1 }) la ({ 2 }) toute ({ }) première ({ 3 }) fois ({ 4 }) que ({ 5 }) l'aspect ({ 6 }) multilatéral ({ 7 8 9 }) est ({ }) évoqué ({ 10 }) directement. ({ 11 }) 
+# Sentence pair (76) source length 36 target length 29 alignment score : 1.74727e-32
+Je lui demanderais maintenant de commencer à considérer le point de vue du Parlement, celui du Comité des Pêches, uniquement en fonction des liens avec l'industrie de la pêche. 
+NULL ({ 23 }) Je ({ 1 }) voudrais ({ 2 }) maintenant ({ 3 }) lui ({ 4 }) demander ({ }) de ({ 5 }) commencer ({ 6 }) à ({ 7 }) prendre ({ 8 }) en ({ 21 }) considération ({ }) le ({ 9 }) point ({ 10 }) de ({ 11 }) vue ({ 12 }) du ({ 13 }) Parlement, ({ 14 }) le ({ }) point ({ }) de ({ }) vue ({ 15 }) du ({ 16 }) Comité ({ 17 }) des ({ 18 }) Pêches, ({ 19 20 24 }) au ({ }) regard ({ 22 25 }) de ({ }) la ({ }) situation ({ }) spécifique ({ }) de ({ }) l'industrie ({ 26 }) de ({ 27 }) la ({ 28 }) pêche. ({ 29 }) 
+# Sentence pair (77) source length 36 target length 27 alignment score : 2.51074e-30
+Je vais maintenant lui demander de commencer à examiner l'avis du Parlement, celui du comité sur la Pêche, par rapport aux circonstances uniques de l'industrie de pêche. 
+NULL ({ 24 26 }) Je ({ 1 }) voudrais ({ 2 }) maintenant ({ 3 }) lui ({ 4 }) demander ({ 5 }) de ({ 6 }) commencer ({ 7 }) à ({ 8 }) prendre ({ 9 }) en ({ }) considération ({ 10 }) le ({ }) point ({ }) de ({ }) vue ({ }) du ({ 11 }) Parlement, ({ 12 }) le ({ }) point ({ }) de ({ }) vue ({ 13 }) du ({ 14 }) Comité ({ 15 }) des ({ }) Pêches, ({ }) au ({ }) regard ({ 16 }) de ({ }) la ({ 17 }) situation ({ 18 22 }) spécifique ({ 19 20 21 23 }) de ({ }) l'industrie ({ 25 }) de ({ }) la ({ }) pêche. ({ 27 }) 
+# Sentence pair (78) source length 36 target length 27 alignment score : 2.77873e-29
+J'aimerais maintenant lui demander de prendre en considération les opinions du Parlement, du Comité de la Pêche, étant donné les circonstances particulières de l'industrie de la pêche. 
+NULL ({ 9 }) Je ({ 1 }) voudrais ({ }) maintenant ({ 2 }) lui ({ 3 }) demander ({ 4 }) de ({ 5 }) commencer ({ }) à ({ }) prendre ({ 6 }) en ({ 7 }) considération ({ 8 }) le ({ }) point ({ 20 }) de ({ }) vue ({ 10 }) du ({ 11 }) Parlement, ({ 12 }) le ({ }) point ({ }) de ({ }) vue ({ }) du ({ 13 }) Comité ({ 14 }) des ({ }) Pêches, ({ }) au ({ }) regard ({ }) de ({ 15 }) la ({ 16 }) situation ({ 17 18 19 21 }) spécifique ({ 22 }) de ({ 23 }) l'industrie ({ 24 }) de ({ 25 }) la ({ 26 }) pêche. ({ 27 }) 
+# Sentence pair (79) source length 22 target length 19 alignment score : 3.5519e-13
+La circulation sur les routes est internationale et transfrontalière, par conséquent, les règles que nous définissons doivent l'être aussi. 
+NULL ({ }) La ({ 1 }) circulation ({ 2 }) sur ({ 3 }) les ({ 4 }) routes ({ 5 }) est ({ 6 }) internationale ({ 7 }) et ({ 8 }) traverse ({ 9 }) les ({ }) frontières, ({ }) et, ({ }) par ({ 10 }) conséquent, ({ 11 }) les ({ 12 }) règles ({ 13 }) que ({ 14 }) nous ({ 15 }) adoptons ({ 16 }) doivent ({ 17 }) l'être ({ 18 }) également. ({ 19 }) 
+# Sentence pair (80) source length 22 target length 19 alignment score : 9.55395e-15
+Le mouvement sur les routes est international et trans-frontalier, et les règles que nous établissons doivent donc l'être également. 
+NULL ({ }) La ({ 1 }) circulation ({ 2 }) sur ({ 3 }) les ({ 4 }) routes ({ 5 }) est ({ 6 }) internationale ({ 7 }) et ({ 8 }) traverse ({ 9 }) les ({ }) frontières, ({ }) et, ({ }) par ({ }) conséquent, ({ 10 }) les ({ 11 }) règles ({ 12 }) que ({ 13 }) nous ({ 14 }) adoptons ({ 15 }) doivent ({ 16 }) l'être ({ 17 18 }) également. ({ 19 }) 
+# Sentence pair (81) source length 22 target length 17 alignment score : 2.98358e-19
+Les déplacements routiers sont internationaux et transfrontaliers, et donc les règles que nous posons doivent l'être également. 
+NULL ({ }) La ({ 1 }) circulation ({ }) sur ({ }) les ({ }) routes ({ 5 }) est ({ }) internationale ({ 7 }) et ({ 8 }) traverse ({ 9 }) les ({ 10 }) frontières, ({ 2 4 }) et, ({ 3 }) par ({ }) conséquent, ({ 6 }) les ({ }) règles ({ 11 }) que ({ 12 }) nous ({ 13 }) adoptons ({ 14 }) doivent ({ 15 }) l'être ({ 16 }) également. ({ 17 }) 
+# Sentence pair (82) source length 20 target length 21 alignment score : 2.40276e-19
+C'est une chance que le Parlement, à plusieurs occasions, ait mis en place des changements radicaux dans ses pratiques de travail. 
+NULL ({ }) Il ({ 1 }) est ({ 2 }) heureux ({ 3 }) que ({ 4 }) le ({ 5 }) Parlement, ({ 6 }) en ({ 12 }) diverses ({ 8 13 }) occasions, ({ 7 9 }) ait ({ 10 }) effectué ({ 11 }) des ({ 14 }) changements ({ 15 }) majeurs ({ 16 }) dans ({ 17 }) ses ({ }) propres ({ 18 }) pratiques ({ 19 }) de ({ 20 }) travail. ({ 21 }) 
+# Sentence pair (83) source length 20 target length 20 alignment score : 2.6078e-17
+C'est une chance que le Parlement, à diverses reprises, a effectué des changements majeurs dans ses propres pratiques de travail. 
+NULL ({ }) Il ({ 1 }) est ({ 2 }) heureux ({ 3 }) que ({ 4 }) le ({ 5 }) Parlement, ({ 6 }) en ({ }) diverses ({ }) occasions, ({ 7 }) ait ({ 8 }) effectué ({ 9 10 11 }) des ({ 12 }) changements ({ 13 }) majeurs ({ 14 }) dans ({ 15 }) ses ({ 16 }) propres ({ 17 }) pratiques ({ 18 }) de ({ 19 }) travail. ({ 20 }) 
+# Sentence pair (84) source length 20 target length 19 alignment score : 3.2386e-16
+Il est heureux que le Parlement ait à plusieurs occasions apporté des modifications importantes à ses habitudes de travail. 
+NULL ({ 15 }) Il ({ 1 }) est ({ 2 }) heureux ({ 3 }) que ({ 4 }) le ({ 5 }) Parlement, ({ 6 }) en ({ }) diverses ({ 9 }) occasions, ({ 7 8 }) ait ({ 10 }) effectué ({ 11 }) des ({ 12 }) changements ({ 13 }) majeurs ({ 14 }) dans ({ }) ses ({ }) propres ({ 16 }) pratiques ({ 17 }) de ({ 18 }) travail. ({ 19 }) 
+# Sentence pair (85) source length 20 target length 17 alignment score : 6.88909e-14
+M. le Président, je voudrais expliquer pourquoi j'ai voté en faveur du document concernant l'autorité européenne alimentaire. 
+NULL ({ }) M. ({ 1 }) le ({ 2 }) Président, ({ 3 }) j'aimerais ({ 4 }) expliquer ({ 5 }) les ({ }) raisons ({ 6 }) pour ({ }) lesquelles ({ 7 }) j'ai ({ 8 }) voté ({ 9 }) en ({ 10 }) faveur ({ 11 }) du ({ 12 }) document ({ 13 }) de ({ }) l'Autorité ({ 14 }) Européenne ({ }) sur ({ }) l'Alimentation. ({ 15 16 17 }) 
+# Sentence pair (86) source length 20 target length 19 alignment score : 2.19823e-20
+M. Le président, je voudrais expliquer la raison pour laquelle j'ai voté pour le document sur l'autorité alimentaire européenne. 
+NULL ({ 7 14 }) M. ({ 1 }) le ({ 2 }) Président, ({ 3 }) j'aimerais ({ 4 }) expliquer ({ 5 }) les ({ }) raisons ({ 6 8 }) pour ({ 9 }) lesquelles ({ 10 }) j'ai ({ 11 }) voté ({ 12 }) en ({ }) faveur ({ 13 }) du ({ }) document ({ 15 }) de ({ }) l'Autorité ({ 18 }) Européenne ({ }) sur ({ 16 }) l'Alimentation. ({ 17 19 }) 
+# Sentence pair (87) source length 20 target length 18 alignment score : 2.16443e-13
+M. le Président, je voudrais expliquer pour quelles raisons j'ai voté pour le document de l'Autorité Alimentaire Européenne. 
+NULL ({ 13 }) M. ({ 1 }) le ({ 2 }) Président, ({ 3 }) j'aimerais ({ 4 }) expliquer ({ 5 }) les ({ }) raisons ({ 6 }) pour ({ 7 }) lesquelles ({ 8 9 }) j'ai ({ 10 }) voté ({ 11 }) en ({ }) faveur ({ 12 }) du ({ }) document ({ 14 }) de ({ 15 }) l'Autorité ({ 16 }) Européenne ({ 17 }) sur ({ }) l'Alimentation. ({ 18 }) 
+# Sentence pair (88) source length 7 target length 9 alignment score : 2.05884e-09
+Nous serions disposés à envisager de le mener jeudi. 
+NULL ({ 6 7 }) Nous ({ 1 }) serions ({ 2 }) prêts ({ 3 }) à ({ 4 }) accepter ({ 5 }) pour ({ }) jeudi. ({ 8 9 }) 
+# Sentence pair (89) source length 7 target length 7 alignment score : 2.25601e-05
+Nous serions prêts à envisager cela jeudi. 
+NULL ({ }) Nous ({ 1 }) serions ({ 2 }) prêts ({ 3 }) à ({ 4 }) accepter ({ 5 }) pour ({ }) jeudi. ({ 6 7 }) 
+# Sentence pair (90) source length 7 target length 6 alignment score : 0.00140862
+Nous serions prêts à envisager jeudi. 
+NULL ({ }) Nous ({ 1 }) serions ({ 2 }) prêts ({ 3 }) à ({ 4 }) accepter ({ 5 }) pour ({ }) jeudi. ({ 6 }) 
+# Sentence pair (91) source length 9 target length 14 alignment score : 2.10164e-15
+La règle semble être: à chaque journée une nouvelle commission nommée par le gouvernement. 
+NULL ({ 13 }) La ({ 1 }) règle ({ 2 }) semble ({ 3 }) être: ({ 4 5 }) chaque ({ 6 }) jour, ({ 7 }) un ({ 8 }) nouvel ({ 9 }) organisme. ({ 10 11 12 14 }) 
+# Sentence pair (92) source length 9 target length 10 alignment score : 3.40932e-08
+Les règles semblent être: un autre jour, un autre quango. 
+NULL ({ }) La ({ 1 }) règle ({ 2 }) semble ({ 3 }) être: ({ 4 }) chaque ({ 5 }) jour, ({ 6 7 }) un ({ 8 }) nouvel ({ 9 }) organisme. ({ 10 }) 
+# Sentence pair (93) source length 9 target length 10 alignment score : 1.7245e-06
+La règle semble être: un autre jour, un autre quango. 
+NULL ({ }) La ({ 1 }) règle ({ 2 }) semble ({ 3 }) être: ({ 4 }) chaque ({ 5 }) jour, ({ 6 7 }) un ({ 8 }) nouvel ({ 9 }) organisme. ({ 10 }) 
+# Sentence pair (94) source length 8 target length 8 alignment score : 1.09255e-09
+À cette époque, Monsieur Chanterie était le rapporteur. 
+NULL ({ }) M. ({ 1 }) Chanterie ({ 2 5 }) était ({ 6 }) le ({ 7 }) rapporteur ({ 4 8 }) à ({ }) ce ({ }) moment. ({ 3 }) 
+# Sentence pair (95) source length 8 target length 8 alignment score : 5.83413e-06
+À ce moment-là, M. Chanterie était le rapporteur. 
+NULL ({ }) M. ({ 1 }) Chanterie ({ 5 }) était ({ 6 }) le ({ 7 }) rapporteur ({ 4 8 }) à ({ }) ce ({ 2 }) moment. ({ 3 }) 
+# Sentence pair (96) source length 8 target length 8 alignment score : 5.83413e-06
+À ce moment-là, M. Chanterie était le rapporteur. 
+NULL ({ }) M. ({ 1 }) Chanterie ({ 5 }) était ({ 6 }) le ({ 7 }) rapporteur ({ 4 8 }) à ({ }) ce ({ 2 }) moment. ({ 3 }) 
+# Sentence pair (97) source length 27 target length 22 alignment score : 3.21305e-17
+Nous devons nous assurer que ce type de transport est aussi sécurisé que possible, et combattre la pollution des eaux de surface. 
+NULL ({ }) Nous ({ 1 }) avons ({ 2 }) besoin ({ 3 }) de ({ }) vérifier ({ 4 }) que ({ 5 }) ce ({ 6 }) moyen ({ 7 }) de ({ 8 }) transport ({ 9 }) est ({ 10 }) le ({ }) plus ({ }) sûr ({ 11 12 }) que ({ 13 }) possible, ({ 14 }) et ({ 15 }) nous ({ }) devons ({ }) lutter ({ 16 }) contre ({ }) la ({ 17 }) pollution ({ 18 }) en ({ }) surface ({ 19 20 }) de ({ 21 }) l'eau. ({ 22 }) 
+# Sentence pair (98) source length 27 target length 25 alignment score : 1.73178e-15
+Nous devons nous assurer que ce type de transport est aussi sûr que possible, et nous devons lutter contre la pollution de l'eau en surface. 
+NULL ({ 22 }) Nous ({ 1 }) avons ({ 2 }) besoin ({ 3 }) de ({ }) vérifier ({ 4 }) que ({ 5 }) ce ({ 6 }) moyen ({ 7 }) de ({ 8 }) transport ({ 9 }) est ({ 10 }) le ({ }) plus ({ }) sûr ({ 11 12 }) que ({ 13 }) possible, ({ 14 }) et ({ 15 }) nous ({ 16 }) devons ({ 17 }) lutter ({ 18 }) contre ({ 19 }) la ({ 20 }) pollution ({ 21 }) en ({ 24 }) surface ({ 25 }) de ({ }) l'eau. ({ 23 }) 
+# Sentence pair (99) source length 27 target length 18 alignment score : 2.9034e-19
+Nous devons assurer la sécurité de ce mode de transport, et combattre la pollution de surface de l'eau. 
+NULL ({ 4 6 }) Nous ({ 1 }) avons ({ 2 }) besoin ({ 3 }) de ({ }) vérifier ({ 5 }) que ({ }) ce ({ 7 }) moyen ({ 8 }) de ({ 9 }) transport ({ 10 }) est ({ }) le ({ }) plus ({ }) sûr ({ }) que ({ }) possible, ({ }) et ({ 11 }) nous ({ }) devons ({ }) lutter ({ 12 }) contre ({ }) la ({ 13 }) pollution ({ 14 }) en ({ 15 }) surface ({ 16 }) de ({ 17 }) l'eau. ({ 18 }) 
+# Sentence pair (100) source length 23 target length 20 alignment score : 2.87699e-14
+Concernant les relations internationales, la Communauté doit réellement en tenir compte, en lien avec la politique étrangère de l'Union Européenne. 
+NULL ({ }) Concernant ({ 1 }) les ({ 2 }) relations ({ 3 }) internationales, ({ 4 }) la ({ 5 }) Communauté ({ 6 }) doit ({ }) les ({ }) aborder ({ 7 }) de ({ }) façon ({ }) résolue ({ 8 }) en ({ 9 }) considérant ({ 10 12 }) leurs ({ 13 }) liens ({ 11 }) avec ({ 14 }) la ({ 15 }) politique ({ 16 }) étrangère ({ 17 }) de ({ 18 }) l'Union ({ 19 }) Européenne. ({ 20 }) 
+# Sentence pair (101) source length 14 target length 9 alignment score : 2.84649e-12
+C'est un travail à la fois pénible et exigeant. 
+NULL ({ }) Il ({ 1 }) s'agit ({ 2 }) d'un ({ 6 }) travail ({ 3 4 }) qui ({ 5 }) pour ({ }) le ({ }) moins ({ }) est ({ }) tout ({ }) aussi ({ }) dur ({ 7 }) et ({ 8 }) astreignant. ({ 9 }) 
+# Sentence pair (102) source length 14 target length 6 alignment score : 4.02219e-11
+Ce procédé n'est pas particulièrement difficile. 
+NULL ({ }) Il ({ 1 }) s'agit ({ 2 }) d'un ({ 3 }) travail ({ }) qui ({ }) pour ({ }) le ({ }) moins ({ }) est ({ }) tout ({ 4 }) aussi ({ }) dur ({ 5 }) et ({ }) astreignant. ({ 6 }) 
+# Sentence pair (103) source length 14 target length 12 alignment score : 4.95386e-16
+Le premier est au moins aussi dur et exigeant que le deuxième. 
+NULL ({ 11 }) Il ({ 1 }) s'agit ({ 2 }) d'un ({ }) travail ({ }) qui ({ }) pour ({ }) le ({ }) moins ({ 5 }) est ({ 3 }) tout ({ 4 }) aussi ({ 6 }) dur ({ 7 }) et ({ 8 }) astreignant. ({ 9 10 12 }) 
+# Sentence pair (104) source length 44 target length 31 alignment score : 4.75103e-32
+Madame la Présidente, avec sa résolution sur la démence, le Parlement souhaite attirer l'attention de l'Union Européenne sur les aspects économiques de la lutte contre la maladie d'Alzheimer et d'autres démences. 
+NULL ({ 8 23 }) Madame ({ 1 }) la ({ 2 }) Présidente, ({ 3 }) ce ({ }) que ({ }) le ({ 10 }) parlement ({ 4 }) souhaiterait ({ 5 }) obtenir ({ 6 }) par ({ }) ses ({ }) conclusions ({ 11 }) sur ({ 7 }) les ({ 19 }) maladies ({ 20 }) mentales, ({ 12 }) c'est ({ 13 }) un ({ }) engagement ({ }) plus ({ }) poussé ({ 14 }) de ({ 15 }) l'Union ({ 16 }) Européenne, ({ 17 }) y ({ }) compris ({ }) sur ({ 18 }) le ({ }) plan ({ }) économique, ({ 21 }) en ({ }) matière ({ }) de ({ 22 }) lutte ({ 24 }) contre ({ 25 }) la ({ 26 }) maladie ({ 27 }) d'Alzheimer ({ 28 }) et ({ 29 }) contre ({ }) les ({ }) autres ({ 30 }) maladies ({ 9 }) mentales. ({ 31 }) 
+# Sentence pair (105) source length 44 target length 40 alignment score : 1.17302e-45
+Monsieur le Président, ce que que le parlement désire obtenir avec sa résolution sur les formes de démences est un engagement de l'union Européene, également sur le plan économique, dans la lutte contre l'Alzheimer et les autres formes de démences. 
+NULL ({ 2 17 31 39 }) Madame ({ 1 }) la ({ }) Présidente, ({ 3 }) ce ({ 4 }) que ({ 5 6 }) le ({ 7 }) parlement ({ 8 11 }) souhaiterait ({ 9 12 }) obtenir ({ 10 13 }) par ({ }) ses ({ }) conclusions ({ }) sur ({ 14 }) les ({ 15 }) maladies ({ 16 }) mentales, ({ 18 }) c'est ({ 19 }) un ({ 20 }) engagement ({ 21 23 }) plus ({ }) poussé ({ 24 }) de ({ 22 }) l'Union ({ }) Européenne, ({ 25 }) y ({ }) compris ({ }) sur ({ 26 }) le ({ 27 }) plan ({ 28 }) économique, ({ 29 }) en ({ }) matière ({ 30 }) de ({ }) lutte ({ 32 }) contre ({ 33 }) la ({ }) maladie ({ }) d'Alzheimer ({ 34 }) et ({ 35 }) contre ({ }) les ({ 36 }) autres ({ 37 }) maladies ({ 38 }) mentales. ({ 40 }) 
+# Sentence pair (106) source length 44 target length 39 alignment score : 4.69291e-48
+Madame la présidente, avec la résolution sur la démence, le Parlement a pour objectif d'amener l'Union Européenne à s'engager encore plus au combat contre la maladie d'Alzheimer et d'autres maladies de démence, y compris du point de vu économique. 
+NULL ({ 5 8 13 18 31 37 }) Madame ({ 1 }) la ({ 2 }) Présidente, ({ 3 }) ce ({ }) que ({ }) le ({ 10 }) parlement ({ 4 }) souhaiterait ({ }) obtenir ({ 6 }) par ({ }) ses ({ 12 }) conclusions ({ 9 11 14 15 }) sur ({ }) les ({ }) maladies ({ 36 }) mentales, ({ }) c'est ({ }) un ({ }) engagement ({ 19 20 }) plus ({ 21 }) poussé ({ 22 }) de ({ }) l'Union ({ 16 }) Européenne, ({ 17 }) y ({ 33 }) compris ({ 34 }) sur ({ 7 }) le ({ }) plan ({ }) économique, ({ }) en ({ }) matière ({ 35 }) de ({ }) lutte ({ 23 }) contre ({ 24 }) la ({ 25 }) maladie ({ 26 }) d'Alzheimer ({ 27 }) et ({ 28 }) contre ({ }) les ({ }) autres ({ 29 }) maladies ({ 30 }) mentales. ({ 32 38 39 }) 
+# Sentence pair (107) source length 31 target length 30 alignment score : 2.03009e-30
+Nous considérons que le nouveau Programme d'action sociale constitue un document de grande importance pour le développement de l'Union au niveau social et dans la politique du marché de l'emploi. 
+NULL ({ 29 }) Le ({ 4 }) nouveau ({ 5 }) programme ({ 6 7 }) d'actions ({ 1 2 }) en ({ }) matière ({ 3 }) de ({ 12 }) politique ({ 26 }) sociale ({ 8 }) est ({ }) à ({ }) notre ({ }) avis ({ 9 11 13 }) d'une ({ 10 }) importance ({ 21 }) capitale ({ 14 }) pour ({ 15 }) l'extension ({ 17 }) de ({ 18 }) l'Union ({ 19 }) dans ({ }) le ({ 16 }) domaine ({ 20 }) social ({ 22 }) et ({ 23 }) celui ({ 24 }) de ({ }) la ({ 25 }) législation ({ 28 }) du ({ 27 }) travail. ({ 30 }) 
+# Sentence pair (108) source length 31 target length 26 alignment score : 4.4638e-33
+Retenons que le nouveau programme d'action sociale constitue un document de grande importance pour le développement de l'Union Européene dans le domaine social et ses occupations. 
+NULL ({ 15 17 }) Le ({ 3 }) nouveau ({ 4 5 }) programme ({ 6 }) d'actions ({ 1 }) en ({ }) matière ({ 2 }) de ({ 11 }) politique ({ }) sociale ({ 7 }) est ({ }) à ({ }) notre ({ }) avis ({ 8 10 12 }) d'une ({ 9 }) importance ({ }) capitale ({ 13 }) pour ({ 14 }) l'extension ({ 16 19 }) de ({ }) l'Union ({ 18 }) dans ({ 20 }) le ({ 21 }) domaine ({ 22 }) social ({ 23 }) et ({ 24 }) celui ({ 25 }) de ({ }) la ({ }) législation ({ }) du ({ }) travail. ({ 26 }) 
+# Sentence pair (109) source length 31 target length 30 alignment score : 7.06917e-31
+On considère que le nouveau Programme d'Aide Sociale est une pièce très importante pour le développement de l'Union dans le domaine de la politique sociale et du marché du travail. 
+NULL ({ 15 22 23 }) Le ({ 4 }) nouveau ({ 5 }) programme ({ 6 }) d'actions ({ 1 2 7 }) en ({ }) matière ({ 8 }) de ({ }) politique ({ 24 }) sociale ({ 25 }) est ({ 9 }) à ({ 10 }) notre ({ 11 }) avis ({ 12 }) d'une ({ }) importance ({ 3 }) capitale ({ 13 }) pour ({ 14 }) l'extension ({ 16 }) de ({ 17 }) l'Union ({ 18 }) dans ({ 19 }) le ({ 20 }) domaine ({ 21 }) social ({ }) et ({ 26 }) celui ({ }) de ({ 27 }) la ({ }) législation ({ 28 }) du ({ 29 }) travail. ({ 30 }) 
+# Sentence pair (110) source length 20 target length 24 alignment score : 4.5122e-28
+Dans cette Assemblée, nous nous rappelons qu M. Sindal a beaucoup insisté sur les conséquences du naufrage désastreux dans les eaux internationales du Pallas. 
+NULL ({ }) Souvenons ({ 1 }) -nous ({ 2 8 }) ici ({ 3 }) qu'il ({ 9 }) a ({ 10 }) méticuleusement ({ 6 11 12 }) traité ({ 4 5 7 }) les ({ 14 }) questions ({ 15 }) soulevées ({ 18 }) par ({ 16 }) la ({ }) catastrophe ({ 13 }) maritime ({ 17 }) dans ({ 19 }) les ({ 20 }) eaux ({ 21 }) internationales ({ 22 }) du ({ 23 }) Pallas. ({ 24 }) 
+# Sentence pair (111) source length 20 target length 27 alignment score : 7.47857e-39
+Dans ce parlement, on se rappelle bien de l'obstinance avec laquelle il a affronté les problèmes provoqués par le désatreux naufrage dans les eaux internationales des Pallas. 
+NULL ({ 8 }) Souvenons ({ 1 10 }) -nous ({ 2 5 7 11 }) ici ({ 3 6 9 12 }) qu'il ({ 4 }) a ({ 13 }) méticuleusement ({ 14 }) traité ({ }) les ({ 15 }) questions ({ 16 }) soulevées ({ 17 }) par ({ 18 }) la ({ 19 }) catastrophe ({ 20 }) maritime ({ 21 }) dans ({ 22 }) les ({ 23 }) eaux ({ 24 }) internationales ({ 25 }) du ({ 26 }) Pallas. ({ 27 }) 
+# Sentence pair (112) source length 20 target length 24 alignment score : 7.46749e-35
+Rappelons -nous dans ce Parlement le plaisir dont il avait en accompagnant les affaires sur la destruction catastrophique dans les eaux internationales des Pallas. 
+NULL ({ 23 }) Souvenons ({ 1 }) -nous ({ 2 }) ici ({ 3 }) qu'il ({ }) a ({ }) méticuleusement ({ 11 }) traité ({ 6 }) les ({ }) questions ({ 13 }) soulevées ({ }) par ({ }) la ({ 16 }) catastrophe ({ 14 15 17 }) maritime ({ 18 }) dans ({ 19 }) les ({ 20 }) eaux ({ 21 }) internationales ({ 4 22 }) du ({ }) Pallas. ({ 5 7 8 9 10 12 24 }) 
+# Sentence pair (113) source length 35 target length 31 alignment score : 2.51736e-29
+Le dernier numéro du Hong Kong Human Rights Monitor News Letter dit la chose suivante: L'histoire jugera la Grande-Bretagne pour avoir exclu le peuple de Hong Kong de la vie politique. 
+NULL ({ 13 23 }) Dans ({ }) le ({ 1 }) dernier ({ 2 }) numéro ({ 3 }) de ({ 4 }) Hong ({ 5 }) kong ({ 6 }) Human ({ 8 9 }) Rights ({ 10 }) Monitor ({ 11 }) Newsletter ({ 12 14 }) on ({ }) peut ({ 7 }) lire ({ }) ce ({ }) qui ({ }) suit: ({ 15 }) L'histoire ({ 16 }) jugera ({ }) défavorablement ({ 17 }) la ({ 18 }) Grande-Bretagne ({ 19 }) d'avoir ({ 20 21 }) tenu ({ 22 }) les ({ }) gens ({ 24 }) de ({ 25 }) Hong ({ 26 }) Kong ({ 27 }) à ({ }) l'écart ({ }) de ({ 28 }) la ({ 29 }) vie ({ 30 }) politique. ({ 31 }) 
+# Sentence pair (114) source length 35 target length 33 alignment score : 4.0677e-27
+Dans le dernier numéro du Hong Kong Human Rights Monitor News Letter, on peut lire: L'histoire jugera négativement la Grande Bretagne pour avoir tenu le peuple d'Hong Kong loin de sa vie politique. 
+NULL ({ 25 30 }) Dans ({ 1 }) le ({ 2 }) dernier ({ 3 }) numéro ({ 4 }) de ({ 5 }) Hong ({ 6 }) kong ({ 7 }) Human ({ 9 10 }) Rights ({ 11 }) Monitor ({ 12 }) Newsletter ({ 8 }) on ({ 13 }) peut ({ 14 }) lire ({ }) ce ({ }) qui ({ }) suit: ({ 15 }) L'histoire ({ 16 }) jugera ({ 17 }) défavorablement ({ 18 }) la ({ 19 }) Grande-Bretagne ({ 20 21 }) d'avoir ({ 22 23 }) tenu ({ 24 }) les ({ }) gens ({ 26 }) de ({ }) Hong ({ 27 }) Kong ({ 28 }) à ({ }) l'écart ({ 29 31 }) de ({ }) la ({ }) vie ({ 32 }) politique. ({ 33 }) 
+# Sentence pair (115) source length 35 target length 30 alignment score : 1.24639e-33
+Dans le dernier numéro de la lettre d'informations de Hong Kong Human Rights: L'Histoire jugera le Royaume-Uni pour avoir maintenu le peuple de Hong Kong, loin de la vie politique. 
+NULL ({ 9 16 21 }) Dans ({ 1 }) le ({ 2 }) dernier ({ 3 }) numéro ({ 4 }) de ({ 5 }) Hong ({ 10 }) kong ({ 11 }) Human ({ }) Rights ({ 12 }) Monitor ({ 13 }) Newsletter ({ 14 }) on ({ }) peut ({ }) lire ({ }) ce ({ }) qui ({ }) suit: ({ }) L'histoire ({ 17 }) jugera ({ 15 }) défavorablement ({ }) la ({ 6 }) Grande-Bretagne ({ }) d'avoir ({ 18 19 }) tenu ({ 20 }) les ({ }) gens ({ 22 }) de ({ 23 }) Hong ({ 24 }) Kong ({ 25 }) à ({ }) l'écart ({ 26 }) de ({ 27 }) la ({ 28 }) vie ({ 7 29 }) politique. ({ 8 30 }) 
+# Sentence pair (116) source length 39 target length 29 alignment score : 3.87954e-36
+Par conséquent, nous lui demanderions d'insister plus sur les sujets de sécurité puisque, malgré l'insistance de beaucoup de mes collègues ces deux dernières années, l'étiquetage est une question accessoire. 
+NULL ({ 16 }) Nous ({ }) souhaiterions ({ 1 2 3 }) par ({ }) conséquent ({ }) vous ({ }) demander ({ 4 }) de ({ }) bien ({ }) vouloir ({ 5 }) accorder ({ 6 }) plus ({ 7 }) d'attention ({ 8 }) aux ({ 9 }) questions ({ 10 }) de ({ 11 }) sécurité, ({ 12 }) car ({ 13 }) leur ({ 15 }) prise ({ 17 }) en ({ }) compte, ({ }) malgré ({ }) l'insistance ({ }) de ({ }) beaucoup ({ }) de ({ 18 }) mes ({ 19 }) collègues ({ 20 }) au ({ }) cours ({ 21 }) des ({ }) deux ({ 22 }) dernières ({ 23 }) années, ({ 24 }) une ({ 26 27 }) chose ({ 28 }) encore ({ 29 }) bien ({ 14 }) secondaire. ({ 25 }) 
+# Sentence pair (117) source length 39 target length 43 alignment score : 1.84475e-57
+En conséquence, nous voudrions demander de mettre davantage l'accent sur les aspects sécurité, car l'étiquetage - en dépit de l'insistance de plusieurs de mes collègues au cours des deux dernières années - est quelque chose de tout à fait secondaire, et non fondamentale. 
+NULL ({ 19 21 23 36 38 }) Nous ({ }) souhaiterions ({ 2 4 }) par ({ }) conséquent ({ 1 }) vous ({ }) demander ({ 5 }) de ({ 6 }) bien ({ }) vouloir ({ 7 }) accorder ({ 8 }) plus ({ }) d'attention ({ 9 }) aux ({ 10 }) questions ({ 11 }) de ({ }) sécurité, ({ 12 }) car ({ 13 }) leur ({ 20 }) prise ({ 3 }) en ({ 17 }) compte, ({ 14 18 32 }) malgré ({ 15 39 }) l'insistance ({ 16 40 }) de ({ }) beaucoup ({ 22 37 42 }) de ({ }) mes ({ 24 }) collègues ({ 25 }) au ({ 26 }) cours ({ 27 43 }) des ({ 28 }) deux ({ 29 }) dernières ({ 30 }) années, ({ 31 }) une ({ 33 }) chose ({ 35 }) encore ({ 41 }) bien ({ }) secondaire. ({ 34 }) 
+# Sentence pair (118) source length 39 target length 37 alignment score : 2.7322e-64
+C'est pour ça que l'on vous demande d'insister encore plus sur les questions de sécurité, parce que l'étiquetage n'est pas quelque chose d'essentielle et bien sùr négligeable, même si beaucoup parmi mes collègues veulent afirmer le contraire. 
+NULL ({ 2 36 }) Nous ({ }) souhaiterions ({ 1 3 4 }) par ({ }) conséquent ({ 5 }) vous ({ 6 }) demander ({ 7 }) de ({ }) bien ({ }) vouloir ({ 8 }) accorder ({ 9 }) plus ({ 10 }) d'attention ({ 11 }) aux ({ 12 }) questions ({ 13 }) de ({ 14 }) sécurité, ({ 15 }) car ({ 16 }) leur ({ }) prise ({ }) en ({ }) compte, ({ }) malgré ({ }) l'insistance ({ }) de ({ }) beaucoup ({ }) de ({ }) mes ({ 32 }) collègues ({ 33 }) au ({ }) cours ({ 34 }) des ({ }) deux ({ }) dernières ({ }) années, ({ }) une ({ }) chose ({ 22 28 35 }) encore ({ 23 24 29 37 }) bien ({ 17 25 30 }) secondaire. ({ 18 19 20 21 26 27 31 }) 
+# Sentence pair (119) source length 23 target length 19 alignment score : 3.90023e-16
+Cela implique, par exemple, d'adopter le vote par la majorité qualifiée, au moins pour une partie du secteur fiscal. 
+NULL ({ 6 }) Ce ({ 1 }) chemin ({ 2 }) passe, ({ 3 4 }) à ({ }) titre ({ 5 }) d'exemple, ({ 7 }) par ({ 8 }) le ({ }) renoncement ({ }) au ({ }) vote ({ }) à ({ }) la ({ 9 }) majorité ({ 10 }) qualifiée, ({ 11 }) au ({ 12 }) moins ({ 13 }) pour ({ 14 }) une ({ 15 }) portion ({ 16 }) du ({ 17 }) domaine ({ 18 }) fiscal. ({ 19 }) 
+# Sentence pair (120) source length 23 target length 21 alignment score : 6.57755e-20
+Ceci pourrait arriver, par exemple, à travers l'aprobation d'un vote a majorité qualifiée au moins pour une partie du secteur fiscal. 
+NULL ({ }) Ce ({ 1 }) chemin ({ 2 }) passe, ({ 3 4 5 }) à ({ 6 }) titre ({ 7 8 9 }) d'exemple, ({ 10 }) par ({ }) le ({ }) renoncement ({ 11 }) au ({ }) vote ({ }) à ({ }) la ({ }) majorité ({ 12 }) qualifiée, ({ 13 }) au ({ 14 }) moins ({ 15 }) pour ({ 16 }) une ({ 17 }) portion ({ 18 }) du ({ 19 }) domaine ({ 20 }) fiscal. ({ 21 }) 
+# Sentence pair (121) source length 23 target length 22 alignment score : 9.03413e-25
+Ça veut dire forcément l'adoption du vote par la majorité qualifiée, au moins à ce que concerne une partie du secteur financier. 
+NULL ({ 16 }) Ce ({ 1 }) chemin ({ 2 }) passe, ({ 3 4 }) à ({ 14 }) titre ({ 5 }) d'exemple, ({ 6 }) par ({ 8 }) le ({ }) renoncement ({ 7 }) au ({ }) vote ({ }) à ({ }) la ({ 9 }) majorité ({ 10 }) qualifiée, ({ 11 }) au ({ 12 }) moins ({ 13 }) pour ({ }) une ({ 18 }) portion ({ 15 19 }) du ({ 20 }) domaine ({ 21 }) fiscal. ({ 17 22 }) 
+# Sentence pair (122) source length 12 target length 12 alignment score : 8.23829e-17
+A vrai dire, ce qui prédomine, c'est le scepticisme et la peur. 
+NULL ({ 8 }) Il ({ 1 }) y ({ }) a, ({ }) de ({ }) fait, ({ }) prédominance ({ 2 3 4 5 6 7 }) du ({ }) scepticisme ({ 9 }) et ({ 10 }) de ({ }) la ({ 11 }) crainte. ({ 12 }) 
+# Sentence pair (123) source length 12 target length 9 alignment score : 4.60642e-11
+Ils sont dominés par le scepticisme et la peur. 
+NULL ({ }) Il ({ }) y ({ 2 }) a, ({ 3 }) de ({ }) fait, ({ 5 }) prédominance ({ 4 }) du ({ }) scepticisme ({ 6 }) et ({ 7 }) de ({ }) la ({ 8 }) crainte. ({ 1 9 }) 
+# Sentence pair (124) source length 12 target length 10 alignment score : 9.55372e-14
+En principe, c'est le scepticisme et la peur qui prédominent. 
+NULL ({ 4 }) Il ({ 1 }) y ({ }) a, ({ 3 }) de ({ }) fait, ({ }) prédominance ({ 2 }) du ({ }) scepticisme ({ 5 }) et ({ 6 }) de ({ }) la ({ 7 }) crainte. ({ 8 9 10 }) 
+# Sentence pair (125) source length 31 target length 29 alignment score : 2.37393e-22
+La Commission a été informée que les autorités régionales concernées devraient présenter une demande officielle au Comité de suivi du cadre communautaire d'appui, qui se réunit aujourd'hui à Lisbonne. 
+NULL ({ }) La ({ 1 }) commission ({ 2 }) a ({ 3 }) été ({ 4 }) informée ({ 5 }) du ({ }) fait ({ }) que ({ 6 }) les ({ 7 }) autorités ({ 8 }) régionales ({ }) concernées ({ 9 }) ont ({ }) donné ({ 24 }) à ({ }) l'occasion ({ 10 11 12 13 }) un ({ }) caractère ({ 14 }) officiel ({ 15 }) au ({ 16 }) dispositif ({ 17 }) de ({ 18 }) contrôle ({ 19 }) du ({ 20 }) programme ({ 21 }) communautaire ({ 26 }) incitatif ({ 22 }) aujourd'hui ({ 23 25 }) élaboré ({ 27 }) à ({ 28 }) Lisbonne. ({ 29 }) 
+# Sentence pair (126) source length 30 target length 33 alignment score : 1.44958e-35
+La commision a été informée que les autorités régionales en question auraient pu faire une demande formelle à la commision de contrôle du cadre communautaire de soutien qui se réunit aujourd'hui à Lisbonne. 
+NULL ({ 10 18 19 26 }) La ({ 1 }) commission ({ 2 }) a ({ 3 }) été ({ 4 }) informée ({ 5 }) du ({ }) fait ({ }) que ({ 6 }) les ({ 7 }) autorités ({ 8 }) régionales ({ 16 }) concernées ({ 9 }) ont ({ 11 }) donné ({ }) à l'occasion ({ 14 }) un ({ 15 }) caractère ({ 12 }) officiel ({ 13 17 }) au ({ }) dispositif ({ 20 }) de ({ 21 }) contrôle ({ 22 }) du ({ 23 }) programme ({ 24 }) communautaire ({ 27 29 30 }) incitatif ({ 25 }) aujourd'hui ({ 28 }) élaboré ({ 31 }) à ({ 32 }) Lisbonne. ({ 33 }) 
+# Sentence pair (127) source length 30 target length 33 alignment score : 1.28678e-44
+Le Comité a été informé qu'une demande officielle pourra se faire présentée par des autorités régionales à cause du comité de suivi du Cadre d'Appui Communautaire, qui va se réunir aujourd'hui à Lisbonne. 
+NULL ({ 17 }) La ({ 1 }) commission ({ 2 }) a ({ 3 }) été ({ 4 }) informée ({ 5 6 }) du ({ 13 }) fait ({ 14 }) que ({ }) les ({ }) autorités ({ 15 }) régionales ({ 8 }) concernées ({ 16 }) ont ({ }) donné ({ }) à l'occasion ({ 9 26 }) un ({ 10 }) caractère ({ 7 11 18 28 }) officiel ({ 12 }) au ({ 19 }) dispositif ({ 20 }) de ({ 21 }) contrôle ({ 22 }) du ({ 23 }) programme ({ 24 }) communautaire ({ 29 }) incitatif ({ 25 30 }) aujourd'hui ({ 27 }) élaboré ({ 31 }) à ({ 32 }) Lisbonne. ({ 33 }) 
+# Sentence pair (128) source length 8 target length 8 alignment score : 2.7571e-10
+Plusieurs intervenants l'ont considéré comme une chose indispensable. 
+NULL ({ }) Plusieurs ({ 1 }) orateurs ({ 2 }) les ({ }) estimaient ({ 3 }) obligatoires ({ 4 }) depuis ({ 5 }) si ({ 6 }) longtemps. ({ 7 8 }) 
+# Sentence pair (129) source length 8 target length 14 alignment score : 3.77809e-26
+Le retard avec lequel s'accomplie cette étape a été souligné dans de nombreuses interventions. 
+NULL ({ 12 }) Plusieurs ({ 1 }) orateurs ({ 2 }) les ({ }) estimaient ({ 4 5 }) obligatoires ({ 6 10 }) depuis ({ 7 11 }) si ({ 3 8 13 }) longtemps. ({ 9 14 }) 
+# Sentence pair (130) source length 8 target length 16 alignment score : 6.9894e-31
+Beaucoup d'orateurs considèrent qu'il s'agit d'un processus qui aurait du être conclu il y a longtemps. 
+NULL ({ }) Plusieurs ({ 1 }) orateurs ({ 2 }) les ({ }) estimaient ({ 3 4 5 12 }) obligatoires ({ 6 13 }) depuis ({ 7 14 }) si ({ 8 10 15 }) longtemps. ({ 9 11 16 }) 
+# Sentence pair (131) source length 17 target length 17 alignment score : 1.62884e-13
+Monsieur le Président, le Sommet de Helsinki a pris en compte la proposition d'une charte des droits. 
+NULL ({ 6 }) Monsieur ({ 1 }) le ({ 2 }) Président, ({ 3 }) lors ({ 4 }) du ({ }) sommet ({ 5 }) d'Helsinki, ({ 7 10 }) on ({ }) a ({ 8 }) émis ({ 9 11 }) la ({ 12 }) proposition ({ 13 }) d'une ({ 14 }) charte ({ 15 }) des ({ 16 }) droits ({ }) constitutionnels. ({ 17 }) 
+# Sentence pair (132) source length 17 target length 13 alignment score : 1.14147e-08
+Monsieur le Président, le Sommet d'Helsinki examine la proposition d'une charte des droits. 
+NULL ({ }) Monsieur ({ 1 }) le ({ 2 }) Président, ({ 3 }) lors ({ 4 }) du ({ }) sommet ({ 5 }) d'Helsinki, ({ 6 }) on ({ }) a ({ }) émis ({ 7 }) la ({ 8 }) proposition ({ 9 }) d'une ({ 10 }) charte ({ 11 }) des ({ 12 }) droits ({ }) constitutionnels. ({ 13 }) 
+# Sentence pair (133) source length 17 target length 16 alignment score : 1.15545e-14
+Monsieur le président, le Sommet d'Helsinki a pris en compte la proposition d'une lettre de droits. 
+NULL ({ 15 }) Monsieur ({ 1 }) le ({ 2 }) Président, ({ 3 }) lors ({ 4 }) du ({ }) sommet ({ 5 }) d'Helsinki, ({ 6 9 }) on ({ }) a ({ 7 }) émis ({ 8 10 }) la ({ 11 }) proposition ({ 12 }) d'une ({ 13 }) charte ({ }) des ({ }) droits ({ 14 }) constitutionnels. ({ 16 }) 
+# Sentence pair (134) source length 17 target length 21 alignment score : 1.82126e-24
+Cela signifie que l'alimentation n'est pas seulement un marché, mais également une question de santé publique, de paysage et de nature. 
+NULL ({ 17 20 }) L'alimentation ({ 1 }) n'est ({ 2 3 4 }) par ({ }) conséquent ({ 5 }) pas ({ 6 }) qu'une ({ 12 }) question ({ 13 }) de ({ 14 }) marché, ({ 7 9 }) mais ({ 8 10 }) aussi ({ 11 }) de ({ }) santé ({ 15 }) publique, ({ 16 }) d'économie ({ 18 }) et ({ 19 }) d'écologie. ({ 21 }) 
+# Sentence pair (135) source length 17 target length 18 alignment score : 1.45518e-17
+La nourriture ne signifie pas seulement le marché mais aussi la santé publique, le paysage et la nature. 
+NULL ({ 11 14 }) L'alimentation ({ 1 }) n'est ({ 2 3 }) par ({ }) conséquent ({ 4 }) pas ({ 5 }) qu'une ({ 6 }) question ({ 7 }) de ({ }) marché, ({ 8 }) mais ({ 9 }) aussi ({ 10 }) de ({ }) santé ({ 12 }) publique, ({ 13 }) d'économie ({ 15 }) et ({ 16 }) d'écologie. ({ 17 18 }) 
+# Sentence pair (136) source length 17 target length 25 alignment score : 1.82503e-32
+Cela veut dire que les produits alimentaires ne sont pas que du marché, mais aussi bien de la santé publique, du paysage, de la nature. 
+NULL ({ 18 23 }) L'alimentation ({ 1 3 7 }) n'est ({ 2 4 8 }) par ({ 5 }) conséquent ({ 9 }) pas ({ 10 }) qu'une ({ 11 }) question ({ 6 }) de ({ 12 }) marché, ({ 13 }) mais ({ 14 }) aussi ({ 15 16 }) de ({ 17 }) santé ({ 19 }) publique, ({ 20 }) d'économie ({ 21 }) et ({ }) d'écologie. ({ 22 24 25 }) 
+# Sentence pair (137) source length 13 target length 12 alignment score : 4.62791e-10
+C'est pourquoi on a supprimé les pièces de dix et vingt centimes. 
+NULL ({ }) C'est ({ 1 }) pourquoi ({ 2 }) on ({ 3 }) écarte ({ 4 5 }) les ({ 6 }) pièces ({ 7 }) de ({ 8 }) deux ({ 9 }) et ({ 10 }) de ({ }) vingt ({ }) centimes ({ 11 }) d'euro. ({ 12 }) 
+# Sentence pair (138) source length 13 target length 13 alignment score : 4.75904e-11
+Donc on supprime les pièces de monnaies de deux et de vingt centimes. 
+NULL ({ 11 }) C'est ({ }) pourquoi ({ 1 }) on ({ 2 }) écarte ({ 3 }) les ({ 4 }) pièces ({ 5 }) de ({ 8 }) deux ({ 9 }) et ({ 10 }) de ({ 6 }) vingt ({ 7 }) centimes ({ 12 }) d'euro. ({ 13 }) 
+# Sentence pair (139) source length 13 target length 10 alignment score : 1.39948e-11
+Les pièces de 2 et 20 centimes seront, donc, supprimées. 
+NULL ({ }) C'est ({ }) pourquoi ({ }) on ({ }) écarte ({ 1 }) les ({ }) pièces ({ 2 }) de ({ 3 }) deux ({ 4 }) et ({ 5 }) de ({ }) vingt ({ 6 }) centimes ({ 7 }) d'euro. ({ 8 9 10 }) 
+# Sentence pair (140) source length 7 target length 8 alignment score : 3.48884e-09
+Cette union européenne constitue une vision de l'avenir. 
+NULL ({ 7 }) L'union ({ 1 2 }) européenne ({ 3 }) est ({ 4 }) une ({ 5 }) vision ({ 6 }) pour ({ }) l'avenir. ({ 8 }) 
+# Sentence pair (141) source length 7 target length 7 alignment score : 3.7987e-06
+L'Union Européenne est une vision de l'avenir. 
+NULL ({ 6 }) L'union ({ 1 }) européenne ({ 2 }) est ({ 3 }) une ({ 4 }) vision ({ 5 }) pour ({ }) l'avenir. ({ 7 }) 
+# Sentence pair (142) source length 7 target length 12 alignment score : 1.36231e-18
+Cette Union Européenne est liée à un point de vue pour l'avenir. 
+NULL ({ 9 }) L'union ({ 1 5 8 }) européenne ({ 2 3 6 7 }) est ({ 4 }) une ({ }) vision ({ 10 }) pour ({ 11 }) l'avenir. ({ 12 }) 
+# Sentence pair (143) source length 31 target length 39 alignment score : 3.08151e-43
+La proposition de directive que nous sommes en train d'examiner est axé sur le thème de l'égalité de traitement des travailleurs migrants et de la protection des droits qu'ils ont acquis dans le cas de déplacements dans d'autres états. 
+NULL ({ 5 8 24 33 35 }) Cette ({ 1 }) proposition ({ 2 }) de ({ 3 }) directive ({ 4 }) se ({ 11 }) concentre ({ 12 }) sur ({ 13 }) la ({ 14 }) question ({ 15 }) de ({ 16 }) l'égalité ({ 17 }) de ({ 18 }) traitement ({ 19 }) des ({ 20 }) salariés ({ 21 }) itinérants ({ 22 }) et ({ 23 }) sur ({ }) la ({ 25 }) préservation ({ 26 }) des ({ 27 }) droits ({ 28 }) qu'ils ({ 29 }) ont ({ 30 }) acquis ({ 31 }) dans ({ 32 }) un ({ }) autre ({ 34 }) état ({ 6 37 }) avant ({ 7 38 }) l'immigration. ({ 9 10 36 39 }) 
+# Sentence pair (144) source length 31 target length 38 alignment score : 1.65045e-48
+La proposition de directive qui traite d'une part de la question de l'égalité de traitement des travailleurs qui se transfèrent au sein même de l'Union Européenne, et d'autre part leurs droits acquis dans le cas d'un changement d'état. 
+NULL ({ 9 24 34 }) Cette ({ 1 }) proposition ({ 2 }) de ({ 3 }) directive ({ 4 }) se ({ 5 7 19 }) concentre ({ 6 8 18 20 }) sur ({ }) la ({ 10 }) question ({ 11 }) de ({ 12 }) l'égalité ({ 13 }) de ({ 14 }) traitement ({ 15 }) des ({ 16 }) salariés ({ 17 25 }) itinérants ({ 26 }) et ({ 27 }) sur ({ }) la ({ }) préservation ({ 28 29 }) des ({ }) droits ({ 30 31 }) qu'ils ({ 32 }) ont ({ }) acquis ({ 21 }) dans ({ 33 }) un ({ }) autre ({ 35 }) état ({ 36 }) avant ({ 22 37 }) l'immigration. ({ 23 38 }) 
+# Sentence pair (145) source length 31 target length 34 alignment score : 8.4796e-34
+La proposition de directive de valeur est concentrée sur la question de l'égalité pour le traitement des employés immigrés et de la préservation des leurs droits acquis au cas où il doivent être transférés. 
+NULL ({ 5 14 15 21 }) Cette ({ 1 }) proposition ({ 2 }) de ({ 3 }) directive ({ 4 6 }) se ({ 7 }) concentre ({ 8 }) sur ({ 9 }) la ({ 10 }) question ({ 11 }) de ({ 12 }) l'égalité ({ 13 }) de ({ }) traitement ({ 16 }) des ({ 17 }) salariés ({ 18 }) itinérants ({ 19 }) et ({ 20 }) sur ({ }) la ({ 22 }) préservation ({ 23 }) des ({ 24 }) droits ({ 25 26 }) qu'ils ({ }) ont ({ }) acquis ({ 27 }) dans ({ }) un ({ }) autre ({ 28 }) état ({ 29 }) avant ({ 30 }) l'immigration. ({ 31 32 33 34 }) 
+# Sentence pair (146) source length 16 target length 17 alignment score : 7.27658e-21
+D'un autre côté, l'UE est devenue le principal pourvoyeur d'aide contre la misère dans le monde entier. 
+NULL ({ 12 }) D'autre ({ 1 }) part, ({ 2 3 }) l'UE ({ 4 }) est ({ 5 }) devenue ({ 6 }) le ({ 7 }) plus ({ }) grand ({ 15 }) donateur ({ 8 }) pour ({ }) l'aide ({ 9 }) au ({ }) développement ({ 10 }) au ({ }) niveau ({ 11 }) mondial. ({ 13 14 16 17 }) 
+# Sentence pair (147) source length 16 target length 12 alignment score : 5.11964e-16
+Cependant, l'Union Européenne est le principal donateur dans le domaine du développement. 
+NULL ({ 5 9 }) D'autre ({ 1 }) part, ({ 2 }) l'UE ({ 3 }) est ({ 4 }) devenue ({ 6 }) le ({ }) plus ({ }) grand ({ }) donateur ({ 7 }) pour ({ }) l'aide ({ 10 }) au ({ }) développement ({ 12 }) au ({ 11 }) niveau ({ }) mondial. ({ 8 }) 
+# Sentence pair (148) source length 16 target length 15 alignment score : 4.13863e-14
+De l'autre côté, l'UE donne le plus grand aide pour le développement au niveau mondial. 
+NULL ({ 11 }) D'autre ({ 1 }) part, ({ 2 3 }) l'UE ({ 4 }) est ({ }) devenue ({ 5 }) le ({ 6 }) plus ({ 7 }) grand ({ 8 }) donateur ({ 9 }) pour ({ 10 }) l'aide ({ 12 }) au ({ }) développement ({ }) au ({ 13 }) niveau ({ 14 }) mondial. ({ 15 }) 
+# Sentence pair (149) source length 14 target length 8 alignment score : 8.37019e-09
+La solidarité communautaire doit s'exprimer dans ce cas. 
+NULL ({ }) La ({ 1 }) solidarité ({ 2 }) à ({ }) l'intérieur ({ 4 }) de ({ }) la ({ }) communauté ({ 3 }) européenne ({ }) devrait ({ }) se ({ }) traduire ({ 5 }) à ({ 6 }) ce ({ 7 }) niveau. ({ 8 }) 
+# Sentence pair (150) source length 14 target length 16 alignment score : 2.28705e-18
+La solidarité de la communauté se doit de jouer un rôle dans ce genre de choses. 
+NULL ({ 8 15 }) La ({ 1 }) solidarité ({ 2 }) à ({ }) l'intérieur ({ 7 }) de ({ 3 }) la ({ 4 }) communauté ({ 5 }) européenne ({ 10 }) devrait ({ 9 }) se ({ 6 }) traduire ({ 11 }) à ({ 12 }) ce ({ 13 }) niveau. ({ 14 16 }) 
+# Sentence pair (151) source length 14 target length 8 alignment score : 6.238e-07
+La solidarité communautaire doit s'exprimer à ce niveau. 
+NULL ({ }) La ({ 1 }) solidarité ({ 2 }) à ({ }) l'intérieur ({ 4 }) de ({ }) la ({ }) communauté ({ 3 }) européenne ({ 6 }) devrait ({ }) se ({ }) traduire ({ 5 }) à ({ }) ce ({ 7 }) niveau. ({ 8 }) 
+# Sentence pair (152) source length 14 target length 15 alignment score : 4.82614e-20
+En second lieu, la créaton d'un processus d'autorisation simplifiée pour les OGMs, contenant quelques recommandations. 
+NULL ({ 11 }) Deuxièmement, ({ 1 }) il ({ }) est ({ }) prévu ({ 2 }) de ({ }) simplifier ({ 3 }) la ({ 4 }) procédure ({ 5 7 }) d'autorisation ({ 6 8 9 10 }) des ({ }) OGMs ({ 12 }) comportant ({ 13 }) certaines ({ 14 }) références. ({ 15 }) 
+# Sentence pair (153) source length 14 target length 13 alignment score : 5.23592e-14
+Deuxièmement, ceci permet une procédure d'autorisation simplifiée pour des OGMs ayant des références. 
+NULL ({ }) Deuxièmement, ({ 1 }) il ({ }) est ({ }) prévu ({ 2 }) de ({ }) simplifier ({ 3 }) la ({ 4 }) procédure ({ 5 }) d'autorisation ({ 6 7 8 }) des ({ 9 }) OGMs ({ 10 }) comportant ({ 11 }) certaines ({ 12 }) références. ({ 13 }) 
+# Sentence pair (154) source length 14 target length 15 alignment score : 1.16144e-19
+Dans un deuxième temps, cela crée un processus simplifié d'autorisation des OGMs selon certaines références. 
+NULL ({ }) Deuxièmement, ({ 1 }) il ({ 2 }) est ({ }) prévu ({ 4 }) de ({ }) simplifier ({ 3 }) la ({ }) procédure ({ 8 9 }) d'autorisation ({ 10 }) des ({ 11 }) OGMs ({ 12 }) comportant ({ 13 }) certaines ({ 14 }) références. ({ 5 6 7 15 }) 
+# Sentence pair (155) source length 16 target length 17 alignment score : 4.26367e-27
+Mon problème fondamental est que j'ai des reponses, identiques à celles d'autres personnes, concernant le Commissaire Byrne. 
+NULL ({ 15 }) En ({ 1 }) fait, ({ 2 }) j'avais ({ }) déposé ({ 3 }) une ({ 4 }) demande ({ 5 }) au ({ 10 }) commissaire ({ 7 }) Byrne ({ 6 }) - ({ }) tout ({ }) comme ({ }) les ({ }) autres ({ 12 }) membres ({ 13 }) -. ({ 8 9 11 14 16 17 }) 
+# Sentence pair (156) source length 16 target length 17 alignment score : 1.85879e-18
+En fait, le problème est que j'ai présenté, tout comme d'autres députés, certaines interrogations au commisiaire Byrne. 
+NULL ({ 3 }) En ({ 1 }) fait, ({ 2 }) j'avais ({ }) déposé ({ 4 }) une ({ 5 }) demande ({ 6 }) au ({ 15 }) commissaire ({ 16 }) Byrne ({ 7 8 }) - ({ }) tout ({ 9 }) comme ({ 10 }) les ({ }) autres ({ 11 }) membres ({ 12 13 14 }) -. ({ 17 }) 
+# Sentence pair (157) source length 16 target length 24 alignment score : 1.54105e-31
+À la base, mon problème vient du fait que j'avais en tête des questions - tout comme d'autres personnes - pour le commissaire Byrne. 
+NULL ({ 2 21 22 }) En ({ 1 }) fait, ({ 3 }) j'avais ({ 4 }) déposé ({ 5 6 }) une ({ 7 }) demande ({ 8 9 }) au ({ }) commissaire ({ 10 23 }) Byrne ({ 11 12 }) - ({ 13 14 15 20 }) tout ({ 16 }) comme ({ 17 }) les ({ }) autres ({ 18 }) membres ({ 19 }) -. ({ 24 }) 
+# Sentence pair (158) source length 28 target length 21 alignment score : 4.40857e-18
+L'importance du marché du poisson frais est tel que pour nos producteurs et nos consommateurs, qu'il se doit d'être plus important. 
+NULL ({ }) La ({ }) valeur ({ 1 }) du ({ 2 }) marché ({ 3 }) du ({ 4 }) poisson ({ 5 }) frais ({ 6 }) a ({ }) une ({ 7 }) telle ({ 8 }) importance ({ 9 }) pour ({ 10 }) nos ({ 11 }) producteurs ({ 12 }) et ({ 13 }) nos ({ 14 }) consommateurs ({ 15 }) qu'elle ({ 16 17 }) doit ({ 18 }) être ({ }) prise ({ }) en ({ }) compte ({ }) de ({ }) manière ({ 19 }) bien ({ }) plus ({ 20 }) importante. ({ 21 }) 
+# Sentence pair (159) source length 28 target length 26 alignment score : 3.83828e-31
+L'importance, tant au niveau des producteurs que des consommateurs, du marché du poisson frais est tel qu'il doit être pris en considération de façon plus appropriée. 
+NULL ({ }) La ({ }) valeur ({ 5 8 }) du ({ 10 }) marché ({ 11 }) du ({ 12 }) poisson ({ 13 }) frais ({ 1 14 }) a ({ }) une ({ 15 }) telle ({ 2 16 }) importance ({ 3 4 }) pour ({ }) nos ({ }) producteurs ({ 6 }) et ({ 7 }) nos ({ }) consommateurs ({ 9 }) qu'elle ({ 17 }) doit ({ 18 }) être ({ 19 }) prise ({ 20 }) en ({ 21 }) compte ({ 22 }) de ({ 23 }) manière ({ 24 }) bien ({ }) plus ({ 25 }) importante. ({ 26 }) 
+# Sentence pair (160) source length 28 target length 23 alignment score : 5.30326e-23
+Le marché du poisson a une telle importance pour nos producteurs et nos consommateurs qu'il nous faut y apporter beaucoup plus de considération. 
+NULL ({ 22 }) La ({ 1 }) valeur ({ }) du ({ }) marché ({ 2 }) du ({ 3 }) poisson ({ 4 }) frais ({ }) a ({ 5 }) une ({ 6 }) telle ({ 7 }) importance ({ 8 }) pour ({ 9 }) nos ({ 10 }) producteurs ({ 11 }) et ({ 12 }) nos ({ 13 }) consommateurs ({ 14 }) qu'elle ({ 15 17 }) doit ({ 18 }) être ({ }) prise ({ 16 }) en ({ }) compte ({ }) de ({ }) manière ({ 19 }) bien ({ 20 }) plus ({ 21 }) importante. ({ 23 }) 
+# Sentence pair (161) source length 16 target length 17 alignment score : 2.56125e-21
+Nous devons renvendiquer une légalisation avec eux, pour une part équitable, des fonctionnaires de la catégorie B2. 
+NULL ({ 15 }) Nous ({ 1 }) ne ({ 2 }) pouvons ({ 3 }) revendiquer ({ }) aucune ({ 4 }) assimilation ({ 5 }) avec ({ 6 }) les ({ }) -néanmoins ({ 7 }) très ({ 8 }) sympathiques- ({ 9 }) fonctionnaires ({ 10 12 13 }) européens ({ 11 }) de ({ 14 }) niveau ({ 16 }) B2. ({ 17 }) 
+# Sentence pair (162) source length 16 target length 19 alignment score : 5.45204e-31
+Non ne pouvons pas nous comparer aux fonctionnaires communitaires de catégorie B2, à qui va cependant toute notre estime. 
+NULL ({ 13 }) Nous ({ 1 }) ne ({ 2 }) pouvons ({ 3 5 }) revendiquer ({ 4 }) aucune ({ 7 }) assimilation ({ 6 }) avec ({ }) les ({ }) -néanmoins ({ 8 9 }) très ({ }) sympathiques- ({ 15 }) fonctionnaires ({ 16 }) européens ({ 17 }) de ({ 10 }) niveau ({ 11 18 }) B2. ({ 12 14 19 }) 
+# Sentence pair (163) source length 16 target length 21 alignment score : 6.3853e-19
+Nous ne pouvons revendiquer la comparaison avec les fonctionnaires communautaires de la catégorie B2 - qui par ailleurs, sont très sympathiques. 
+NULL ({ 12 }) Nous ({ 1 }) ne ({ 2 }) pouvons ({ 3 }) revendiquer ({ 4 }) aucune ({ 5 }) assimilation ({ 6 }) avec ({ 7 }) les ({ 8 }) -néanmoins ({ 19 }) très ({ 20 }) sympathiques- ({ 21 }) fonctionnaires ({ 9 }) européens ({ 10 }) de ({ 11 }) niveau ({ 13 }) B2. ({ 14 15 16 17 18 }) 
+# Sentence pair (164) source length 18 target length 24 alignment score : 4.23874e-31
+Monsieur le Président, Monsieur le comissaire, chers collègues, par le traité d'Amsterdam nous devons appliquer une codécision en ce qui concerne la politique sociale. 
+NULL ({ 22 }) Monsieur ({ 1 }) le ({ 2 }) Président, ({ 3 }) monsieur ({ 4 9 }) le ({ 5 }) commissaire, ({ 6 11 }) chers ({ 7 8 }) collègues, ({ 12 }) le ({ 10 }) traité ({ 13 }) d'Amsterdam ({ 14 }) apporte ({ 15 19 }) un ({ 16 }) soutien ({ 17 18 21 }) à ({ }) notre ({ 20 }) politique ({ 23 }) sociale. ({ 24 }) 
+# Sentence pair (165) source length 18 target length 27 alignment score : 8.27931e-31
+M. le Président, M. le Commissaire, chers collègues, le traité d'Amsterdam a signifié pour nous d'obtenir la co-procédure de décision dans le domaine de la politique sociale. 
+NULL ({ 14 17 19 22 24 }) Monsieur ({ 1 }) le ({ 2 }) Président, ({ 3 }) monsieur ({ 4 }) le ({ 5 }) commissaire, ({ 6 10 }) chers ({ 7 12 }) collègues, ({ 8 11 13 }) le ({ 9 }) traité ({ 15 }) d'Amsterdam ({ 16 }) apporte ({ 18 }) un ({ }) soutien ({ 20 }) à ({ 21 }) notre ({ 23 25 }) politique ({ 26 }) sociale. ({ 27 }) 
+# Sentence pair (166) source length 18 target length 25 alignment score : 4.66056e-27
+Monsieur le Président, Monsieur le Commissaire, chers collègues, grâce au traité d'Amsterdam nous avons obtenu la co-procédure de décisions dans les questions de politique sociale. 
+NULL ({ 16 18 21 23 }) Monsieur ({ 1 }) le ({ 2 }) Président, ({ 3 }) monsieur ({ 4 }) le ({ 5 }) commissaire, ({ 6 11 }) chers ({ 7 8 9 10 }) collègues, ({ 12 }) le ({ }) traité ({ 13 }) d'Amsterdam ({ 14 15 }) apporte ({ 17 }) un ({ }) soutien ({ 19 }) à ({ 20 }) notre ({ 22 }) politique ({ 24 }) sociale. ({ 25 }) 
+# Sentence pair (167) source length 22 target length 20 alignment score : 1.15431e-30
+Vu l'état d'abandon que subissent ses eaux, la mer Baltique est une des mers intérieures les plus fragiles au monde. 
+NULL ({ 4 }) La ({ }) mer ({ 9 }) Baltique ({ 10 }) est ({ 11 }) une ({ 12 }) des ({ 13 }) mers ({ 14 }) fermées ({ 7 15 }) qui ({ }) réagit ({ 16 }) de ({ }) la ({ 8 }) manière ({ }) la ({ }) plus ({ 17 }) sensible ({ 18 }) du ({ }) fait ({ }) de ({ }) son ({ 6 }) eau ({ }) saumâtre. ({ 1 2 3 5 19 20 }) 
+# Sentence pair (168) source length 22 target length 21 alignment score : 2.99567e-29
+La mer Baltique, avec son mélange d'eau douce et eau salée, est l'une des plus sensibles des mers intérieures au monde. 
+NULL ({ }) La ({ 1 }) mer ({ 2 }) Baltique ({ 3 4 11 }) est ({ 12 }) une ({ }) des ({ 14 }) mers ({ 18 }) fermées ({ 19 }) qui ({ }) réagit ({ 10 13 }) de ({ }) la ({ }) manière ({ 9 }) la ({ }) plus ({ 15 }) sensible ({ 16 }) du ({ }) fait ({ 17 }) de ({ }) son ({ 5 }) eau ({ 6 }) saumâtre. ({ 7 8 20 21 }) 
+# Sentence pair (169) source length 22 target length 15 alignment score : 7.70449e-16
+La Baltique, avec ses fragiles eaux, est une des mers les plus sensibles du monde. 
+NULL ({ }) La ({ 1 }) mer ({ 2 }) Baltique ({ 3 5 }) est ({ 7 }) une ({ 8 }) des ({ 9 }) mers ({ 10 }) fermées ({ 6 }) qui ({ }) réagit ({ 11 }) de ({ }) la ({ }) manière ({ }) la ({ }) plus ({ 12 }) sensible ({ 13 }) du ({ 14 }) fait ({ }) de ({ }) son ({ 4 }) eau ({ }) saumâtre. ({ 15 }) 
+# Sentence pair (170) source length 11 target length 13 alignment score : 5.55727e-15
+En conséquence de celà, les coparticipants accumulent des sommes importantes de taux d'intérêt. 
+NULL ({ 3 11 }) Les ({ 1 }) partenaires ({ 2 }) font ({ 4 }) par ({ 5 }) conséquent ({ 6 }) face ({ 7 }) à ({ }) des ({ 8 }) paiements ({ 9 }) d'intérêts ({ 10 }) massifs. ({ 12 13 }) 
+# Sentence pair (171) source length 11 target length 11 alignment score : 1.2875e-15
+En conséquence, les partenaires accumulent de grandes quantités d'intérêt à payer. 
+NULL ({ 6 }) Les ({ 1 }) partenaires ({ 2 4 }) font ({ 3 }) par ({ }) conséquent ({ }) face ({ 5 }) à ({ 10 }) des ({ }) paiements ({ 7 }) d'intérêts ({ 8 9 }) massifs. ({ 11 }) 
+# Sentence pair (172) source length 11 target length 10 alignment score : 1.19497e-10
+En conséquence, les partenaires paient désormais des intérêts fort élevés. 
+NULL ({ }) Les ({ 1 }) partenaires ({ 2 4 }) font ({ 3 }) par ({ }) conséquent ({ 5 }) face ({ 6 }) à ({ }) des ({ 7 }) paiements ({ 8 }) d'intérêts ({ 9 }) massifs. ({ 10 }) 
+# Sentence pair (173) source length 10 target length 9 alignment score : 7.20712e-06
+C'était la première fois qu'on abordait directement l'aspect multilatéral. 
+NULL ({ }) C'est ({ 1 }) la ({ 2 }) première ({ 3 }) fois ({ 4 }) où ({ 5 }) on ({ }) aborde ({ 6 }) directement ({ 7 }) l'aspect ({ 8 }) multilatéral. ({ 9 }) 
+# Sentence pair (174) source length 10 target length 11 alignment score : 1.17785e-09
+C'était la toute première fois où il aborde directement l'aspect multilatéral. 
+NULL ({ }) C'est ({ 1 }) la ({ 2 }) première ({ 3 4 }) fois ({ 5 }) où ({ 6 }) on ({ 7 }) aborde ({ 8 }) directement ({ 9 }) l'aspect ({ 10 }) multilatéral. ({ 11 }) 
+# Sentence pair (175) source length 10 target length 16 alignment score : 7.05197e-21
+C'est la première fois que cet aspect à multiples facettes a été abordé de façon directe. 
+NULL ({ 14 }) C'est ({ 1 }) la ({ 2 }) première ({ 3 }) fois ({ 4 5 }) où ({ 6 }) on ({ }) aborde ({ 7 8 9 10 12 }) directement ({ 11 13 }) l'aspect ({ 15 }) multilatéral. ({ 16 }) 
+# Sentence pair (176) source length 31 target length 29 alignment score : 6.71182e-34
+Je voudrais maintenant lui demander de prendre en compte l'opinion du Parlement et celle de la Commission de la Pêche, concernant les circonstances particulières du secteur de la pêche. 
+NULL ({ 22 }) Je ({ 1 }) voudrais ({ 2 3 4 }) le ({ }) prier ({ 5 }) de ({ 6 }) prendre ({ 7 }) également ({ 10 }) en ({ 8 }) compte ({ 9 }) le ({ }) point ({ }) de ({ 18 }) vue ({ }) du ({ 11 }) Parlement ({ 12 }) et ({ 13 }) de ({ 15 }) la ({ 16 }) commission ({ 14 17 }) pour ({ }) la ({ }) pêche ({ }) concernant ({ }) la ({ 19 }) situation ({ 20 }) exceptionnelle ({ 21 }) de ({ }) l'industrie ({ 23 24 25 26 }) de ({ 27 }) la ({ 28 }) pêche. ({ 29 }) 
+# Sentence pair (177) source length 31 target length 31 alignment score : 2.52626e-37
+Dans ce cas là, je voudrais leur demander d'enfin prendre en considération le point de vue du Parlement et de la commission pour la pêche, étant donné les spécificités du secteur. 
+NULL ({ 28 }) Je ({ 1 }) voudrais ({ 8 }) le ({ }) prier ({ 9 }) de ({ }) prendre ({ 10 }) également ({ }) en ({ 11 }) compte ({ 12 }) le ({ 13 }) point ({ 14 }) de ({ 15 }) vue ({ 16 }) du ({ 17 }) Parlement ({ 18 }) et ({ 19 }) de ({ 20 }) la ({ 21 }) commission ({ 22 }) pour ({ 23 }) la ({ 24 }) pêche ({ 2 3 4 25 }) concernant ({ 5 6 7 26 }) la ({ }) situation ({ 27 }) exceptionnelle ({ 29 }) de ({ }) l'industrie ({ 30 }) de ({ }) la ({ }) pêche. ({ 31 }) 
+# Sentence pair (178) source length 31 target length 24 alignment score : 1.87577e-29
+Je vous demande maintenant d'analyser l'opinion du Parlement, celle de la Commission des pêches, à propos des circonstances spécifiques de l'industrie de la pêche. 
+NULL ({ 15 }) Je ({ 1 }) voudrais ({ 2 }) le ({ }) prier ({ 3 4 5 }) de ({ }) prendre ({ }) également ({ 6 }) en ({ }) compte ({ }) le ({ }) point ({ }) de ({ }) vue ({ }) du ({ 7 }) Parlement ({ 8 9 }) et ({ }) de ({ 10 }) la ({ 11 }) commission ({ 12 }) pour ({ 13 }) la ({ }) pêche ({ 14 }) concernant ({ 16 }) la ({ 17 }) situation ({ 18 }) exceptionnelle ({ 19 }) de ({ 20 }) l'industrie ({ 21 }) de ({ 22 }) la ({ 23 }) pêche. ({ 24 }) 
+# Sentence pair (179) source length 15 target length 19 alignment score : 2.77441e-35
+Le trafic est international et transfrontalier c'est pour celà que les normes qui les régulent doivent être aussi strictes. 
+NULL ({ 8 11 }) Etant ({ 1 7 12 }) donné ({ 9 13 }) que ({ }) la ({ }) circulation ({ 17 }) routière ({ 2 15 16 18 }) est ({ 3 }) internationale ({ 4 }) et ({ 5 }) interfrontalière, ({ 6 19 }) nos ({ }) règles ({ }) doivent ({ 10 }) l'être ({ }) également. ({ 14 }) 
+# Sentence pair (180) source length 15 target length 16 alignment score : 4.60412e-21
+Le trafic est international et transfrontalier, et les règles que nous définissons doivent donc l'être aussi. 
+NULL ({ }) Etant ({ 1 }) donné ({ 2 }) que ({ }) la ({ }) circulation ({ 7 }) routière ({ }) est ({ 3 }) internationale ({ 4 }) et ({ 5 }) interfrontalière, ({ 6 8 }) nos ({ }) règles ({ 9 12 }) doivent ({ 10 13 }) l'être ({ 11 14 15 }) également. ({ 16 }) 
+# Sentence pair (181) source length 15 target length 15 alignment score : 2.21819e-20
+Le trafic est international et transfrontalier. Les règles que nous devons établir doivent l'être aussi. 
+NULL ({ }) Etant ({ 1 }) donné ({ }) que ({ }) la ({ }) circulation ({ }) routière ({ 2 }) est ({ 3 }) internationale ({ 4 }) et ({ 5 }) interfrontalière, ({ 6 11 }) nos ({ 7 }) règles ({ 8 12 }) doivent ({ 9 13 }) l'être ({ 10 14 }) également. ({ 15 }) 
+# Sentence pair (182) source length 17 target length 21 alignment score : 5.05882e-31
+Il a été prouvé que le Parlement a fait passé, en plusieurs étapes, d'importantes réformes concernant les conditions de travail précaires. 
+NULL ({ 17 }) Il ({ 1 }) est ({ 2 }) positif ({ 3 4 }) que ({ 5 }) le ({ 6 }) Parlement ({ 7 }) entreprenne ({ }) progressivement ({ }) des ({ }) changements ({ 8 }) de ({ }) ses ({ }) conditions ({ 9 10 18 }) de ({ 19 }) travail ({ 20 }) en ({ 11 }) vigueur. ({ 12 13 14 15 16 21 }) 
+# Sentence pair (183) source length 17 target length 20 alignment score : 3.36787e-27
+Il était bon que le Parlement, en phases successives, a fait de grands changements dans ses propres conditions de travail. 
+NULL ({ 19 }) Il ({ 1 }) est ({ 2 }) positif ({ 3 }) que ({ 4 }) le ({ 5 }) Parlement ({ 6 }) entreprenne ({ 14 }) progressivement ({ }) des ({ }) changements ({ 15 }) de ({ }) ses ({ 10 16 }) conditions ({ 11 17 18 }) de ({ 12 }) travail ({ 13 }) en ({ 7 }) vigueur. ({ 8 9 20 }) 
+# Sentence pair (184) source length 17 target length 23 alignment score : 1.44497e-26
+Il est bon que le Parlement ait fait, à plusieurs occasions, d'importants changements sur les conditions de travail qui s'exercent en son sein. 
+NULL ({ 9 15 }) Il ({ 1 }) est ({ 2 }) positif ({ 3 }) que ({ 4 }) le ({ 5 }) Parlement ({ 6 }) entreprenne ({ 7 }) progressivement ({ 8 10 11 12 }) des ({ }) changements ({ 13 }) de ({ }) ses ({ 14 }) conditions ({ 16 19 20 }) de ({ 17 }) travail ({ 18 }) en ({ 21 }) vigueur. ({ 22 23 }) 
+# Sentence pair (185) source length 17 target length 18 alignment score : 1.13435e-17
+Monsieur le président, je me dois d'expliquer mon vote concernant ce document sur l'insitution de l'autorité alimentaire européenne. 
+NULL ({ 15 }) M. ({ 1 }) le ({ 2 }) Président, ({ 3 }) je ({ 4 }) dois ({ 5 6 }) expliquer ({ 7 }) mon ({ 8 }) vote ({ 9 }) au ({ }) sujet ({ 10 }) de ({ }) l'instauration ({ 11 }) de ({ }) l'administration ({ 12 }) européenne ({ }) sur ({ 13 }) l'agro-alimentaire. ({ 14 16 17 18 }) 
+# Sentence pair (186) source length 17 target length 17 alignment score : 1.53833e-14
+Monsieur le Président, je dois expliquer mon vote pour ce document sur l'institution de l'autorité alimentaire européenne. 
+NULL ({ 14 }) M. ({ 1 }) le ({ 2 }) Président, ({ 3 }) je ({ 4 }) dois ({ 5 }) expliquer ({ 6 }) mon ({ 7 }) vote ({ 8 }) au ({ }) sujet ({ 9 }) de ({ }) l'instauration ({ 10 }) de ({ }) l'administration ({ 11 }) européenne ({ }) sur ({ 12 }) l'agro-alimentaire. ({ 13 15 16 17 }) 
+# Sentence pair (187) source length 17 target length 26 alignment score : 1.16807e-36
+Monsieur le Président, il m'incombe de justifier le sens de mon vote à propos de ce document relatif à la création d'une Autorité Européenne sur l'Alimentation. 
+NULL ({ 8 10 15 20 }) M. ({ 1 }) le ({ 2 }) Président, ({ 3 }) je ({ 4 }) dois ({ 5 }) expliquer ({ }) mon ({ 11 }) vote ({ 12 }) au ({ 13 }) sujet ({ 14 }) de ({ 6 }) l'instauration ({ 7 9 16 17 }) de ({ }) l'administration ({ 18 21 23 }) européenne ({ 19 22 24 }) sur ({ 25 }) l'agro-alimentaire. ({ 26 }) 
+# Sentence pair (188) source length 9 target length 11 alignment score : 1.11964e-15
+Monsieur le Président, nous serions disponibles pour un rendez vous jeudi. 
+NULL ({ 7 }) Nous ({ 4 }) serions ({ 5 }) prêts ({ 6 }) à ({ }) prendre ({ 10 }) le ({ 2 }) jeudi ({ 3 8 9 }) en ({ }) considération. ({ 1 11 }) 
+# Sentence pair (189) source length 9 target length 9 alignment score : 9.8767e-10
+Monsieur le Président, nous serions disposés à envisager jeudi. 
+NULL ({ }) Nous ({ 4 }) serions ({ 5 }) prêts ({ 6 }) à ({ 7 }) prendre ({ 8 }) le ({ 2 }) jeudi ({ 3 }) en ({ }) considération. ({ 1 9 }) 
+# Sentence pair (190) source length 9 target length 14 alignment score : 5.87939e-21
+Monsieur le Président, nous devrions être à même de considérer la proposition de jeudi. 
+NULL ({ 11 13 }) Nous ({ }) serions ({ }) prêts ({ 6 }) à ({ 7 }) prendre ({ 10 }) le ({ 2 }) jeudi ({ 3 8 12 }) en ({ 9 }) considération. ({ 1 4 5 14 }) 
+# Sentence pair (191) source length 12 target length 13 alignment score : 4.03666e-20
+On dirait qu'ils veulent nous obliger à porter un quango différent chaque jour. 
+NULL ({ 7 }) Là, ({ 1 }) il ({ }) semblerait, ({ 3 }) que ({ }) la ({ }) devise ({ 2 }) soit: ({ 4 5 }) Chaque ({ 6 }) jour ({ 8 10 11 }) un ({ 9 }) nouveau ({ 12 }) Quango. ({ 13 }) 
+# Sentence pair (192) source length 12 target length 9 alignment score : 7.04946e-09
+La règle semble être: chaque jour un nouvel organisme. 
+NULL ({ }) Là, ({ 1 }) il ({ }) semblerait, ({ 4 }) que ({ }) la ({ }) devise ({ 2 }) soit: ({ 3 }) Chaque ({ 5 }) jour ({ 6 }) un ({ 7 }) nouveau ({ 8 }) Quango. ({ 9 }) 
+# Sentence pair (193) source length 12 target length 10 alignment score : 1.12116e-09
+La règle parait être la suivante: nouveau jour, nouvel organisme. 
+NULL ({ }) Là, ({ 1 }) il ({ }) semblerait, ({ 3 }) que ({ }) la ({ 5 }) devise ({ 2 }) soit: ({ 9 }) Chaque ({ 4 }) jour ({ 6 }) un ({ }) nouveau ({ 7 }) Quango. ({ 8 10 }) 
+# Sentence pair (194) source length 7 target length 9 alignment score : 4.46041e-13
+À cette époque là, le rapporteur, était Monsieur Chanterie. 
+NULL ({ }) M. ({ 1 }) Chanterie ({ 2 }) était ({ 7 }) le ({ 5 }) rapporteur ({ 6 }) à ({ }) l'époque. ({ 3 4 8 9 }) 
+# Sentence pair (195) source length 7 target length 8 alignment score : 1.14049e-08
+À cette époque, M. Chanterie était le rapporteur. 
+NULL ({ }) M. ({ 1 }) Chanterie ({ 5 }) était ({ 6 }) le ({ 7 }) rapporteur ({ 4 8 }) à ({ }) l'époque. ({ 2 3 }) 
+# Sentence pair (196) source length 7 target length 9 alignment score : 8.36458e-11
+À l'époque, le député M. Chanterie était le rapporteur. 
+NULL ({ }) M. ({ 1 }) Chanterie ({ 6 }) était ({ 7 }) le ({ 8 }) rapporteur ({ 5 9 }) à ({ }) l'époque. ({ 2 3 4 }) 
+# Sentence pair (197) source length 30 target length 32 alignment score : 2.69591e-43
+Au moment de le faire, il faut garantir au maximun la sécurité du transport par voie navigable. De la même facon, il faut lutter efficacement contre la contamination des eaux de surface. 
+NULL ({ 3 4 31 }) Il ({ }) est ({ }) bien ({ }) évidemment ({ }) nécessaire ({ 6 }) d'assurer ({ 8 }) au ({ 9 }) mieux ({ 10 14 }) la ({ 11 }) sécurité ({ 12 }) de ({ }) la ({ 19 }) circulation ({ 13 }) sur ({ }) les ({ }) eaux ({ 15 }) continentales. ({ 16 17 }) De ({ 18 }) plus, ({ 21 }) il ({ 22 }) convient ({ 7 20 23 }) de ({ }) combattre ({ 24 }) efficacement ({ 25 26 }) la ({ 27 }) poLlution ({ 28 }) de ({ }) l'eau ({ 5 29 30 }) de ({ }) surface. ({ 1 2 32 }) 
+# Sentence pair (198) source length 30 target length 26 alignment score : 5.32023e-34
+Naturellement, dans les transports sur les voies d'eau internes, il faudra garantir la plus grande sécurité et il faudra combattre la pollution des eaux de surface. 
+NULL ({ }) Il ({ 1 }) est ({ }) bien ({ }) évidemment ({ 7 }) nécessaire ({ 12 }) d'assurer ({ }) au ({ }) mieux ({ }) la ({ 13 }) sécurité ({ 14 15 16 }) de ({ }) la ({ }) circulation ({ 3 }) sur ({ 5 }) les ({ 6 }) eaux ({ 2 }) continentales. ({ 4 8 }) De ({ 17 }) plus, ({ 9 }) il ({ 10 18 }) convient ({ 11 }) de ({ }) combattre ({ 19 }) efficacement ({ 20 }) la ({ 21 }) poLlution ({ 22 }) de ({ }) l'eau ({ 23 24 }) de ({ 25 }) surface. ({ 26 }) 
+# Sentence pair (199) source length 30 target length 33 alignment score : 3.2807e-33
+Il est vrai que la sécurité du trafic sur les voies navigables doit être assurée autant que possible. De même, il est nécessaire de lutter efficacement contre la pollution des eaux de surface. 
+NULL ({ 22 }) Il ({ 1 }) est ({ 2 }) bien ({ 17 }) évidemment ({ 3 }) nécessaire ({ 12 }) d'assurer ({ 13 14 15 16 }) au ({ 7 }) mieux ({ 4 }) la ({ 5 }) sécurité ({ 6 }) de ({ }) la ({ }) circulation ({ 8 }) sur ({ 9 }) les ({ 10 }) eaux ({ 11 }) continentales. ({ 18 }) De ({ 19 }) plus, ({ 20 }) il ({ 21 }) convient ({ 23 }) de ({ 24 }) combattre ({ 25 }) efficacement ({ 26 27 }) la ({ 28 }) poLlution ({ 29 }) de ({ }) l'eau ({ 30 31 }) de ({ 32 }) surface. ({ 33 }) 
+# Sentence pair (200) source length 24 target length 22 alignment score : 8.7016e-16
+En ce qui concerne les relations internationnales, la Communauté doit prendre une décision en lien avec la politique extérieure de l'Union Européenne. 
+NULL ({ }) En ({ 1 }) ce ({ 2 }) qui ({ 3 }) concerne ({ 4 }) les ({ 5 }) relations ({ 6 }) internationales, ({ 7 }) la ({ 8 }) communauté ({ }) doit ({ 10 }) s'y ({ 9 }) attaquer ({ 11 12 }) de ({ }) manière ({ }) déterminée ({ 13 }) et ({ }) s'accorder ({ 14 15 }) avec ({ 16 }) la ({ 17 }) politique ({ 18 }) extérieure ({ 19 }) de ({ 20 }) l'Union ({ 21 }) Européenne. ({ 22 }) 
+# Sentence pair (201) source length 9 target length 10 alignment score : 1.05956e-06
+Attentat de Karachi: Guéant remet en avant la piste islamiste 
+NULL ({ }) Attentat ({ 1 }) de ({ 2 }) Karachi: ({ 3 }) Guéant ({ 4 }) privilégie ({ 5 6 }) toujours ({ 7 }) la ({ 8 }) piste ({ 9 }) islamiste ({ 10 }) 
+# Sentence pair (202) source length 12 target length 14 alignment score : 1.64394e-13
+Persepolis: le président de la chaîne qui a diffusé le film en Tunisie s'excuse 
+NULL ({ 10 }) Le ({ 2 }) président ({ 3 }) de ({ 4 }) la ({ 5 }) chaîne ({ 6 }) qui ({ 7 }) a ({ 8 }) diffusé ({ 9 }) Persepolis ({ 11 }) en ({ 12 }) Tunisie ({ 13 }) s'excuse ({ 1 14 }) 
+# Sentence pair (203) source length 11 target length 10 alignment score : 2.102e-06
+BlackBerry en panne en Europe, au Moyen-Orient et en Afrique 
+NULL ({ }) Problèmes ({ 1 }) sur ({ }) des ({ }) BlackBerry ({ 2 3 }) en ({ 4 }) Europe, ({ 5 }) au ({ 6 }) Moyen-Orient ({ 7 }) et ({ 8 }) en ({ 9 }) Afrique ({ 10 }) 
+# Sentence pair (204) source length 7 target length 7 alignment score : 0.000951179
+Les Etats-Unis accusent l'Iran de complot terroriste 
+NULL ({ }) Les ({ 1 }) Etats-Unis ({ 2 }) accusent ({ 3 }) l'Iran ({ 4 }) de ({ 5 }) complot ({ 6 }) d'assassinat ({ 7 }) 
+# Sentence pair (205) source length 9 target length 9 alignment score : 5.48079e-06
+Samedi soir, il va pleuvoir des étoiles filantes ! 
+NULL ({ }) Samedi ({ 1 }) soir, ({ 2 }) il ({ 3 }) va ({ 4 }) pleuvoir ({ 5 }) des ({ 6 }) étoiles ({ 7 }) en ({ }) Europe ({ 8 9 }) 
+# Sentence pair (206) source length 8 target length 8 alignment score : 7.57588e-06
+Mozilla: 84 % des revenus viennent de Google 
+NULL ({ }) Mozilla ({ 1 }) toujours ({ 2 }) aussi ({ }) dépendante ({ 3 }) des ({ 4 }) moteurs ({ 5 6 }) de ({ 7 }) recherche ({ 8 }) 
+# Sentence pair (207) source length 5 target length 5 alignment score : 0.00581147
+Sarkozy tacle la primaire PS 
+NULL ({ }) Sarkozy ({ 1 }) critique ({ 2 }) la ({ 3 }) primaire ({ 4 }) PS ({ 5 }) 
+# Sentence pair (208) source length 8 target length 9 alignment score : 1.53633e-05
+Le chocolat noir, bon pour le coeur des femmes 
+NULL ({ }) Le ({ 1 }) chocolat, ({ 2 3 }) bon ({ 4 }) pour ({ 5 }) le ({ 6 }) coeur ({ 7 }) des ({ 8 }) femmes ({ 9 }) 
+# Sentence pair (209) source length 11 target length 10 alignment score : 9.84129e-07
+Le 1er étage de la Tour Eiffel fait peau neuve 
+NULL ({ }) Le ({ 1 }) premier ({ 2 }) étage ({ 3 }) de ({ 4 }) la ({ 5 }) Tour ({ 6 }) Eiffel ({ 7 }) va ({ }) faire ({ }) peau ({ 8 }) neuve ({ 9 10 }) 
+# Sentence pair (210) source length 4 target length 5 alignment score : 0.000669907
+Les compléments alimentaires dangereux ? 
+NULL ({ }) Les ({ 1 }) compléments ({ 2 }) vitaminés ({ 3 4 }) dangereux ({ 5 }) 
+# Sentence pair (211) source length 9 target length 7 alignment score : 0.000338395
+Freebox Révolution: blu-ray 3D, flash et bouquets 
+NULL ({ }) Freebox ({ 1 }) Révolution: ({ 2 }) flash, ({ 3 }) blu-ray ({ 4 }) 3D, ({ 5 }) bouquets ({ 6 }) et ({ }) guide ({ }) EPG ({ 7 }) 
+# Sentence pair (212) source length 11 target length 9 alignment score : 1.05714e-06
+Le text neck, nouveau mal des accros au mobile 
+NULL ({ }) Une ({ 1 }) nouvelle ({ 2 3 }) épidémie ({ 4 }) touche ({ 5 }) les ({ }) accros ({ 6 }) aux ({ }) smartphones: ({ 7 }) le ({ }) text ({ 8 }) neck ({ 9 }) 
+# Sentence pair (213) source length 12 target length 10 alignment score : 8.6329e-06
+Nobel de la paix: la présidente libérienne Johnson Sirleaf favorite 
+NULL ({ }) Nobel ({ 1 }) de ({ 2 }) la ({ 3 }) paix: ({ 4 }) la ({ 5 }) présidente ({ 6 }) libérienne ({ 7 }) ou ({ }) le ({ }) printemps ({ 8 }) arabe ({ 9 }) ? ({ 10 }) 
+# Sentence pair (214) source length 9 target length 7 alignment score : 1.33238e-05
+Syrte: Les combats dans leur dernière phase 
+NULL ({ }) Libye: ({ 1 }) les ({ }) combats ({ 2 3 }) dans ({ 4 }) leur ({ 5 }) dernière ({ 6 }) phase ({ }) à ({ }) Syrte ({ 7 }) 
+# Sentence pair (215) source length 9 target length 9 alignment score : 6.40979e-06
+Ukraine: Ioulia Timochenko condamnée à 7 ans de prison 
+NULL ({ }) Ukraine: ({ 1 }) Ioulia ({ 2 3 }) Timochenko ({ 4 }) condamnée ({ 5 }) à ({ }) sept ({ 6 }) ans ({ 7 }) de ({ 8 }) prison ({ 9 }) 
+# Sentence pair (216) source length 9 target length 5 alignment score : 3.10473e-05
+La Slovaquie rejette le FESF 
+NULL ({ }) La ({ 1 }) Slovaquie ({ 2 }) recherche ({ }) un ({ }) accord ({ }) pour ({ }) approuver ({ 3 }) le ({ 4 }) FESF ({ 5 }) 
+# Sentence pair (217) source length 10 target length 10 alignment score : 5.58694e-12
+Garanties françaises pour le financement et des pertes sur Dexia 
+NULL ({ 4 }) L'Etat ({ 1 }) accepte ({ 2 3 5 }) de ({ }) couvrir ({ 6 }) une ({ }) partie ({ }) des ({ 7 }) pertes ({ 8 }) de ({ }) Dexia ({ 9 10 }) 
+# Sentence pair (218) source length 11 target length 7 alignment score : 4.83086e-05
+Les Français sont heureux dans la vie: 
+NULL ({ }) Les ({ 1 }) Français ({ 2 }) plutôt ({ 3 }) satisfaits ({ 4 }) dans ({ 5 }) la ({ }) vie, ({ }) et ({ }) l'argent ({ 6 }) y ({ }) contribue ({ 7 }) 
+# Sentence pair (219) source length 7 target length 6 alignment score : 2.25919e-06
+Frédéric Lopez retourne En terre inconnue 
+NULL ({ }) Frédéric ({ 1 }) Michalak ({ 2 }) a ({ }) rendez-vous ({ 3 4 }) en ({ }) terre ({ 5 }) inconnue ({ 6 }) 
+# Sentence pair (220) source length 11 target length 9 alignment score : 1.57936e-05
+James Bond 23: Javier Bardem confirme qu'il y sera 
+NULL ({ }) James ({ 1 }) Bond ({ 2 }) 23: ({ 3 }) Javier ({ 4 }) Bardem ({ 5 }) confirme ({ 6 }) qu'il ({ 7 }) sera ({ 8 }) bien ({ }) le ({ }) méchant ({ 9 }) 
+# Sentence pair (221) source length 12 target length 10 alignment score : 7.85583e-07
+La tuberculose recule pour la première fois dans le monde 
+NULL ({ }) Pour ({ 4 }) la ({ 5 }) première ({ 6 }) fois ({ }) la ({ }) tuberculose ({ 3 }) recule ({ 7 }) dans ({ 8 }) le ({ 9 }) monde ({ 10 }) selon ({ }) l'Oms ({ 1 2 }) 
+# Sentence pair (222) source length 9 target length 9 alignment score : 5.51793e-06
+Des laits Guigoz pour bébés retirés des magasins Intermarché 
+NULL ({ }) Des ({ 1 }) laits ({ 2 3 }) pour ({ 4 }) bébés ({ 5 }) Guigoz ({ }) retirés ({ 6 }) des ({ 7 }) magasins ({ 8 }) Intermarché ({ 9 }) 
+# Sentence pair (223) source length 7 target length 8 alignment score : 2.79104e-05
+HP pourrait finalement conserver sa division PC ! 
+NULL ({ }) HP ({ 1 }) pourrait ({ 2 }) finalement ({ 3 }) conserver ({ 4 }) sa ({ 5 }) branche ({ 6 }) PC ({ 7 8 }) 
+# Sentence pair (224) source length 8 target length 9 alignment score : 1.18297e-10
+Zynga va lancer sa propre plateforme de jeux sociaux 
+NULL ({ 7 }) Zynga ({ 1 }) annonce ({ 2 3 }) la ({ }) première ({ }) plate-forme ({ 4 }) de ({ }) jeux ({ 5 }) sociaux ({ 6 8 9 }) 
+# Sentence pair (225) source length 11 target length 9 alignment score : 1.42059e-10
+Immigration: il faudra maîtriser la langue pour devenir Français 
+NULL ({ }) Pour ({ 1 }) devenir ({ 2 }) Français, ({ 3 }) il ({ }) faudra ({ }) prouver ({ }) sa ({ }) maîtrise ({ 4 }) de ({ }) la ({ 5 }) langue ({ 6 7 8 9 }) 
+# Sentence pair (226) source length 6 target length 5 alignment score : 3.08305e-05
+Nouveau mouvement humaniste à l'UMP 
+NULL ({ }) Un ({ }) courant ({ 1 }) humaniste ({ 3 }) créé ({ 2 }) à ({ 4 }) l'UMP ({ 5 }) 
+# Sentence pair (227) source length 9 target length 8 alignment score : 5.87746e-06
+Les tortionnaires de William Modolo condamnés en appel 
+NULL ({ }) Tortionnaires ({ 1 2 }) de ({ 3 }) William ({ 4 }) Modolo: ({ }) Les ({ }) peines ({ 5 }) confirmées ({ 6 }) en ({ 7 }) appel ({ 8 }) 
+# Sentence pair (228) source length 7 target length 6 alignment score : 7.62337e-05
+Gilad Shalit, les dessous d'un marchandage 
+NULL ({ }) Gilad ({ 1 }) Shalit: ({ 2 }) les ({ 3 }) dessous ({ 4 }) de ({ }) sa ({ }) libération ({ 5 6 }) 
+# Sentence pair (229) source length 9 target length 7 alignment score : 1.33238e-05
+Syrte: Les combats dans leur dernière phase 
+NULL ({ }) Libye: ({ 1 }) les ({ }) combats ({ 2 3 }) dans ({ 4 }) leur ({ 5 }) dernière ({ 6 }) phase ({ }) à ({ }) Syrte ({ 7 }) 
+# Sentence pair (230) source length 9 target length 9 alignment score : 3.0295e-08
+Marée noire en Nouvelle-Zélande: le capitaine du navire interpellé 
+NULL ({ }) Marée ({ 1 }) noire ({ 2 }) en ({ 3 }) Nouvelle-Zélande: ({ 4 5 }) une ({ }) course ({ 6 }) contre ({ }) la ({ }) montre ({ 7 8 9 }) 
+# Sentence pair (231) source length 6 target length 4 alignment score : 0.0168087
+Mahmoud Abbas en Colombie 
+NULL ({ }) Arrivée ({ 1 }) de ({ }) Mahmoud ({ 2 }) Abbas ({ 3 }) en ({ }) Colombie ({ 4 }) 
+# Sentence pair (232) source length 6 target length 7 alignment score : 0.000172291
+Birmanie: Plusieurs dizaines de prisonniers politiques libérés 
+NULL ({ }) Birmanie: ({ 1 }) amnistie ({ 2 }) imminente ({ 3 }) de ({ 4 }) prisonniers ({ 5 }) politiques ({ 6 7 }) 
+# Sentence pair (233) source length 7 target length 5 alignment score : 0.00123078
+Bangkok menacée par les inondations 
+NULL ({ }) Thaïlande ({ 1 }) - ({ }) Bangkok ({ }) menacée ({ 2 }) par ({ 3 }) les ({ 4 }) inondations ({ 5 }) 
+# Sentence pair (234) source length 8 target length 7 alignment score : 0.000553925
+Interpellations après les affrontements meurtriers en Egypte 
+NULL ({ }) Inquiétude ({ 1 }) internationale ({ }) après ({ 2 }) les ({ 3 }) violences ({ 4 }) religieuses ({ 5 }) en ({ 6 }) Egypte ({ 7 }) 
+# Sentence pair (235) source length 4 target length 5 alignment score : 0.000891121
+L'ouragan Jova menace le Mexique 
+NULL ({ }) Jova ({ 1 }) menace ({ 2 3 }) le ({ 4 }) Mexique ({ 5 }) 
+# Sentence pair (236) source length 10 target length 9 alignment score : 1.59235e-05
+Le plan sur l'emploi rejeté par le Sénat américain 
+NULL ({ }) Le ({ 1 }) plan ({ 2 }) pour ({ }) l'emploi ({ 4 }) d'Obama ({ 3 }) rejeté ({ 5 }) par ({ 6 }) le ({ 7 }) Sénat ({ 8 }) américain ({ 9 }) 
+# Sentence pair (237) source length 9 target length 8 alignment score : 3.31039e-05
+Alain Juppé rencontre un représentant de l'opposition syrienne 
+NULL ({ }) Alain ({ 1 }) Juppé ({ 2 }) a ({ }) rencontré ({ 3 4 }) le ({ }) responsable ({ 5 }) de ({ 6 }) l'opposition ({ 7 }) syrienne ({ 8 }) 
+# Sentence pair (238) source length 8 target length 9 alignment score : 6.0393e-11
+Hollande salue le soutien de Royal, Aubry le respecte 
+NULL ({ 5 }) UE: ({ 1 }) Bruxelles ({ 2 }) entrouvre ({ 3 }) la ({ }) porte ({ }) à ({ }) la ({ }) Serbie ({ 4 6 7 8 9 }) 
+# Sentence pair (239) source length 10 target length 9 alignment score : 4.31099e-09
+Bruxelles entrouvre la porte de l'UE à la Serbie 
+NULL ({ 8 }) Au ({ 1 }) moins ({ 2 }) 21 ({ 3 }) morts ({ 4 }) dans ({ }) une ({ }) série ({ 5 }) d'attaques ({ 6 }) à ({ 7 }) Bagdad ({ 9 }) 
+# Sentence pair (240) source length 9 target length 10 alignment score : 7.67225e-13
+Au moins 15 morts dans une série d'attentats à Bagdad 
+NULL ({ }) Monseigneur ({ 1 }) Léonard ({ 2 3 }) ne ({ }) veut ({ }) pas ({ }) de ({ }) directeurs ({ 4 }) d'école ({ 5 6 7 }) remariés ({ 8 9 10 }) 
+# Sentence pair (241) source length 7 target length 9 alignment score : 8.00393e-10
+Mgr Léonard ne veut pas de directeurs d'école divorcés 
+NULL ({ 6 }) Ségolène ({ 1 2 }) Royal ({ 3 }) appelle ({ 4 }) à ({ }) voter ({ }) F. ({ 5 }) Hollande ({ 7 8 9 }) 
+# Sentence pair (242) source length 8 target length 7 alignment score : 1.39534e-06
+Ségolène Royal appelle à voter François Hollande 
+NULL ({ }) Un ({ 1 }) convoi ({ 2 3 }) de ({ }) déchets ({ 4 }) nucléaires ({ 5 }) traverse ({ 6 }) la ({ }) France ({ 7 }) 
+# Sentence pair (243) source length 8 target length 8 alignment score : 1.60112e-07
+Un train de déchets nucléaires traverse la France 
+NULL ({ }) Interdiction ({ 1 2 }) de ({ 3 }) fouiller ({ 4 }) dans ({ }) les ({ }) poubelles ({ 5 }) à ({ }) Nogent-sur-Marne ({ 6 7 8 }) 
+# Sentence pair (244) source length 6 target length 7 alignment score : 2.79171e-08
+Interdiction de faire les poubelles à Nogent-sur-Marne 
+NULL ({ 2 }) Le ({ 1 }) site ({ }) Copwatch ({ 3 }) affronte ({ 4 }) la ({ }) justice ({ 5 6 7 }) 
+# Sentence pair (245) source length 7 target length 6 alignment score : 2.13299e-05
+L'Intérieur veut fermer le site Copwatch 
+NULL ({ }) GB: ({ 1 }) feu ({ 2 }) vert ({ 3 }) pour ({ }) le ({ 4 }) programme ({ }) nucléaire ({ 5 6 }) 
+# Sentence pair (246) source length 7 target length 6 alignment score : 5.24605e-06
+Grande-Bretagne. feu vert au programme nucléaire 
+NULL ({ }) Affaire ({ 1 }) Neyret: ({ 2 3 }) la ({ }) piste ({ 4 }) de ({ }) la ({ }) déchetterie ({ 5 6 }) 
+# Sentence pair (247) source length 9 target length 7 alignment score : 1.22981e-07
+Affaire Neyret: Il nous mettait la pression 
+NULL ({ }) Encadrement ({ 1 }) militaire ({ 2 }) des ({ }) mineurs ({ 4 }) délinquants: ({ 3 5 }) les ({ }) députés ({ 6 }) vont ({ }) voter ({ 7 }) 
+# Sentence pair (248) source length 12 target length 8 alignment score : 3.33127e-06
+Les députés votent l'encadrement militaire des mineurs délinquants 
+NULL ({ }) Bourg ({ 1 }) -en ({ 2 }) Bresse: ({ 3 4 }) il ({ }) se ({ }) tue ({ 5 }) en ({ }) voulant ({ 6 }) échapper ({ 7 }) à ({ }) la ({ }) police ({ 8 }) 
+# Sentence pair (249) source length 9 target length 9 alignment score : 2.14836e-05
+Il se tue en voulant échapper à la police 
+NULL ({ }) Journée ({ 1 }) d'action: ({ 2 }) barrages ({ 3 }) filtrants ({ 4 }) ou ({ }) lycées ({ 5 }) bloqués ({ 6 }) à ({ 7 }) Paris ({ 8 9 }) 
+# Sentence pair (250) source length 8 target length 8 alignment score : 1.21127e-09
+Journée nationale d'action: lycées bloqués, les lycéens manifestent 
+NULL ({ }) Vins ({ 1 2 }) de ({ }) Bourgogne: ({ 3 4 }) 2011 ({ 5 }) sera ({ }) un ({ }) bon ({ 6 }) millésime ({ 7 8 }) 
+# Sentence pair (251) source length 6 target length 5 alignment score : 0.00253973
+Bourgogne: un cru 2011 prometteur 
+NULL ({ }) Villiers-sur-Marne: ({ 1 }) 13 ({ 2 }) interpellations ({ 3 }) cité ({ 4 }) des ({ }) Hautes-Noues ({ 5 }) 
+# Sentence pair (252) source length 12 target length 8 alignment score : 2.21638e-13
+Villiers-sur-Marne: 15 arrestations dans la cité des Hautes-Noues 
+NULL ({ }) Le ({ }) siège ({ 1 2 }) du ({ }) PS ({ }) à ({ }) Toulouse ({ 4 }) tagué ({ 7 }) d'insultes ({ 3 }) et ({ }) de ({ }) slogans ({ 5 }) hostiles ({ 6 8 }) 
+# Sentence pair (253) source length 6 target length 9 alignment score : 1.76203e-11
+Le siège du PS à Toulouse vandalisé ce week-end. 
+NULL ({ }) Travail ({ 1 2 }) d'intérêt ({ 3 }) général. ({ 7 }) L'insertion ({ 4 5 6 }) comme ({ }) horizon ({ 8 9 }) 
+# Sentence pair (254) source length 9 target length 5 alignment score : 1.02517e-05
+Travail d'intérêt général. L'itinéraire bis 
+NULL ({ }) Slovaquie: ({ 1 }) partis ({ 2 }) politiques ({ }) d'accord ({ 3 }) pour ({ }) soutenir ({ }) le ({ }) Fonds ({ 4 }) FESF ({ 5 }) 
+# Sentence pair (255) source length 10 target length 9 alignment score : 9.88869e-06
+La Slovaquie recherche un accord pour approuver le FESF 
+NULL ({ }) L'Europe ({ 1 }) représentera ({ 2 3 }) un ({ 4 }) tiers ({ 5 }) des ({ }) ventes ({ 6 }) de ({ }) PSA ({ 7 }) d'ici ({ 8 }) 2020 ({ 9 }) 
+# Sentence pair (256) source length 9 target length 9 alignment score : 5.61261e-09
+PSA vise deux-tiers des ventes hors d'Europe en 2020-Varin 
+NULL ({ }) Amundi ({ 1 }) Immobilier ({ 2 3 }) lance ({ 4 }) la ({ }) SCPI ({ 5 }) Premely ({ }) Habitat ({ 6 }) 3 ({ 7 }) BBC: ({ 8 9 }) 
+# Sentence pair (257) source length 9 target length 7 alignment score : 1.26551e-06
+Amundi Immobilier: lance PREMELY Habitat 3 BBC 
+NULL ({ }) LEAD ({ 1 }) 1-Le ({ 2 }) Nobel ({ 3 }) d'économie ({ }) aux ({ }) Américains ({ 4 }) Sargent ({ 5 6 }) et ({ }) Sims ({ 7 }) 
+# Sentence pair (258) source length 8 target length 8 alignment score : 9.99156e-08
+Le Nobel d'économie aux Américains Sargent et Sims 
+NULL ({ }) Grèce: ({ 1 }) le ({ }) déficit ({ 2 }) public ({ 3 }) s'est ({ 4 }) creusé ({ 5 }) en ({ }) septembre ({ 6 7 8 }) 
+# Sentence pair (259) source length 12 target length 10 alignment score : 4.32061e-10
+Grèce: le déficit budgétaire a continué de gonfler en septembre 
+NULL ({ 2 }) Montech. ({ 1 }) Alerte: ({ 3 4 }) de ({ }) la ({ }) limaille ({ 5 6 }) de ({ 7 }) fer ({ 8 }) dans ({ }) du ({ }) lait ({ 9 }) pour ({ }) bébé ({ 10 }) 
+# Sentence pair (260) source length 11 target length 11 alignment score : 2.58745e-16
+Montech: de la limaille de fer dans du lait pour bébé 
+NULL ({ 2 5 }) Vente ({ 1 }) entre ({ 7 }) particuliers: ({ 8 }) Plus ({ 4 }) d'un ({ 3 }) vendeur ({ 6 }) sur ({ }) deux ({ }) est ({ }) un ({ }) internaute ({ 9 10 11 }) 
+# Sentence pair (261) source length 10 target length 8 alignment score : 8.34567e-10
+Boom de la vente entre particuliers sur Internet 
+NULL ({ }) Zone ({ 1 }) euro: ({ 2 }) hausse ({ 6 }) de ({ }) 1,2 ({ 5 }) % ({ }) de ({ }) la ({ 3 }) production ({ 4 }) industrielle ({ 7 8 }) 
+# Sentence pair (262) source length 9 target length 9 alignment score : 4.74095e-09
+Zone euro: +1,2 % de production industrielle en août 
+NULL ({ }) La ({ 1 }) Grèce ({ 2 }) recevra ({ 3 }) la ({ }) sixième ({ 4 }) tranche ({ 5 6 }) d'aide ({ 8 }) début ({ 7 }) novembre ({ 9 }) 
+# Sentence pair (263) source length 10 target length 9 alignment score : 4.29352e-08
+La Grèce pourrait recevoir sa tranche d'aide début novembre 
+NULL ({ }) e-Book: ({ 1 2 }) la ({ }) Fnac ({ 3 }) prépare ({ 4 }) une ({ }) nouvelle ({ 5 }) liseuse ({ 6 }) pour ({ }) contrer ({ 7 8 }) Amazon ({ 9 }) 
+# Sentence pair (264) source length 12 target length 9 alignment score : 1.5398e-09
+La Fnac lance une nouvelle liseuse pour contrer Amazon 
+NULL ({ }) France: ({ 1 2 }) baisse ({ 3 4 }) de ({ }) 0,1 ({ 5 }) % ({ }) des ({ }) prix ({ 6 }) à ({ }) la ({ }) consommation ({ 7 8 }) en ({ }) sept ({ 9 }) 
+# Sentence pair (265) source length 11 target length 11 alignment score : 1.62167e-06
+Clôture Wall Street: Nasdaq +0,66 % ; Dow Jones -0,15 % 
+NULL ({ }) Clôture ({ 1 }) Wall ({ 2 }) Street: ({ 3 }) Nasdaq ({ 4 }) +3,5 ({ 5 }) % ({ 6 }) ; ({ 7 }) Dow ({ 8 }) Jones ({ 9 }) +2,97 ({ 10 }) % ({ 11 }) 
+# Sentence pair (266) source length 8 target length 8 alignment score : 5.29324e-06
+Le bonus auto maintenu pour l'électrique et l'hybride 
+NULL ({ }) Le ({ 1 }) bonus ({ 2 }) automobile ({ 3 4 }) maintenu ({ }) pour ({ 5 }) l'électrique ({ 6 }) et ({ 7 }) l'hybride ({ 8 }) 
+# Sentence pair (267) source length 8 target length 10 alignment score : 2.51561e-08
+La France réduit son déficit des paiements courants en août 
+NULL ({ }) La ({ 1 }) France ({ 2 }) réduit ({ 3 }) son ({ 4 }) déficit ({ 5 }) des ({ 6 }) paiements ({ 7 }) courants ({ 8 9 10 }) 
+# Sentence pair (268) source length 9 target length 8 alignment score : 1.51894e-10
+Jean-Paul Gaultier: Il crée un lingotin d'or ! 
+NULL ({ }) Jean-Paul ({ 1 }) Gaultier ({ 2 7 }) s'attaque ({ 3 4 }) à ({ }) un ({ 5 }) domaine ({ }) en ({ }) or ({ 6 }) ! ({ 8 }) 
+# Sentence pair (269) source length 6 target length 6 alignment score : 0.000309987
+Areva: de nouvelles provisions à prévoir 
+NULL ({ }) Areva: ({ 1 }) de ({ 2 }) nouvelles ({ 3 }) provisions ({ 4 }) en ({ }) perspective ({ 5 6 }) 
+# Sentence pair (270) source length 8 target length 8 alignment score : 0.00213775
+Chevron anticipe des résultats stables au 3e trimestre 
+NULL ({ }) CHEVRON ({ 1 }) vise ({ 2 }) des ({ 3 }) bénéfices ({ 4 }) stables ({ 5 }) au ({ 6 }) troisième ({ 7 }) trimestre ({ 8 }) 
+# Sentence pair (271) source length 11 target length 7 alignment score : 4.49792e-06
+Sony rappelle 1.6 millions de TV LCD 
+NULL ({ }) Sony ({ 1 }) va ({ 2 }) rappeler ({ 3 }) 1,6 ({ 4 }) million ({ }) de ({ 5 }) téléviseurs ({ 6 }) LCD ({ 7 }) dans ({ }) le ({ }) monde ({ }) 
+# Sentence pair (272) source length 10 target length 9 alignment score : 8.07754e-07
+Nouveau piratage de comptes de services en ligne Sony 
+NULL ({ }) Nouveau ({ 1 }) piratage ({ 2 }) de ({ 3 }) comptes ({ 4 }) d'utilisateurs ({ }) de ({ 5 }) services ({ 6 }) en ({ 7 }) ligne ({ 8 }) Sony ({ 9 }) 
+# Sentence pair (273) source length 7 target length 6 alignment score : 0.00307833
+Facebook lance son application pour l'iPad 
+NULL ({ }) Facebook ({ 1 }) lance ({ 2 }) son ({ 3 }) application ({ 4 }) pour ({ }) l'iPad ({ 5 }) d'Apple ({ 6 }) 
+# Sentence pair (274) source length 9 target length 9 alignment score : 0.000418984
+Bientôt 6 nouvelles chaînes gratuites sur la TNT ? 
+NULL ({ }) Bientôt ({ 1 }) six ({ 2 }) nouvelles ({ 3 }) chaînes ({ 4 }) gratuites ({ 5 }) sur ({ 6 }) la ({ 7 }) TNT ({ 8 }) ? ({ 9 }) 
+# Sentence pair (275) source length 10 target length 9 alignment score : 7.71893e-06
+Etats-Unis: Plus d'un million d'iPhone 4S commandés en 24h 
+NULL ({ }) Plus ({ 1 }) d'un ({ 2 }) million ({ 3 }) d'iPhone ({ 4 }) 4S ({ 5 }) commandés ({ 6 }) en ({ }) 24h ({ 7 }) aux ({ 8 }) Etats-Unis ({ 9 }) 
+# Sentence pair (276) source length 9 target length 9 alignment score : 0.00020832
+Le pull de Steve Jobs en rupture de stock 
+NULL ({ }) Le ({ 1 }) pull ({ 2 }) de ({ 3 }) Steve ({ 4 }) Jobs ({ 5 }) en ({ 6 }) rupture ({ 7 }) de ({ 8 }) stocks ({ 9 }) 
+# Sentence pair (277) source length 7 target length 8 alignment score : 2.79104e-05
+HP pourrait finalement conserver sa division PC ! 
+NULL ({ }) HP ({ 1 }) pourrait ({ 2 }) finalement ({ 3 }) conserver ({ 4 }) sa ({ 5 }) branche ({ 6 }) PC ({ 7 8 }) 
+# Sentence pair (278) source length 7 target length 7 alignment score : 0.00171143
+iCloud: le site d'Apple est en ligne 
+NULL ({ }) Apple: ({ 1 }) le ({ 2 }) site ({ 3 }) iCloud ({ 4 }) est ({ 5 }) en ({ 6 }) ligne ({ 7 }) 
+# Sentence pair (279) source length 7 target length 5 alignment score : 0.000639735
+Lancement prochain du satellite Megha-Tropiques 
+NULL ({ }) En ({ }) bref: ({ 1 }) lancement ({ 2 }) aujourd'hui ({ }) du ({ 3 }) satellite ({ 4 }) Megha-Tropiques ({ 5 }) 
+# Sentence pair (280) source length 13 target length 11 alignment score : 2.95815e-07
+Le Nexus Prime et Ice Cream Sandwich débarquent le 19 octobre 
+NULL ({ }) Les ({ }) Samsung ({ 1 2 }) Nexus ({ 3 }) Prime ({ }) et ({ 4 }) Ice ({ 5 }) Cream ({ 6 }) Sandwich ({ 7 }) annoncés ({ 8 }) le ({ 9 }) 19 ({ 10 }) octobre ({ 11 }) ? ({ }) 
+# Sentence pair (281) source length 11 target length 6 alignment score : 2.38555e-05
+Frédéric Lopez retourne En terre inconnue 
+NULL ({ }) The ({ 1 }) Artist, ({ 2 }) un ({ }) film ({ 3 }) muet ({ 4 }) dont ({ }) la ({ }) sortie ({ 5 }) fait ({ }) grand ({ }) bruit ({ 6 }) 
+# Sentence pair (282) source length 7 target length 10 alignment score : 1.59694e-13
+El Bulli au ciné et le métier de chef cuisinier 
+NULL ({ 6 8 }) Frédéric ({ 1 }) Michalak ({ 2 }) a ({ }) rendez-vous ({ 3 }) en ({ }) terre ({ 4 }) inconnue ({ 5 7 9 10 }) 
+# Sentence pair (283) source length 11 target length 9 alignment score : 2.56126e-09
+Nouveau piratage de comptes de services en ligne Sony 
+NULL ({ 3 }) El ({ 1 }) Bulli: ({ 2 4 }) portrait ({ 6 }) sous ({ 7 }) vide ({ }) du ({ }) roi ({ }) de ({ 5 }) la ({ }) cuisine ({ 8 }) moléculaire ({ 9 }) 
+# Sentence pair (284) source length 10 target length 8 alignment score : 2.45411e-07
+Javier Bardem: Le nouveau méchant de James Bond 
+NULL ({ }) Nouveau ({ 1 }) piratage ({ 2 }) de ({ }) comptes ({ 3 4 }) d'utilisateurs ({ 5 }) de ({ 6 }) services ({ 7 }) en ({ }) ligne ({ }) Sony ({ 8 }) 
+# Sentence pair (285) source length 11 target length 7 alignment score : 1.47057e-11
+Banon n'a rien touché pour son livre 
+NULL ({ }) Javier ({ 1 }) Bardem: ({ 2 3 }) C'est ({ }) lui ({ }) le ({ }) prochain ({ 5 6 }) méchant ({ 4 }) de ({ }) James ({ }) Bond ({ }) ! ({ 7 }) 
+# Sentence pair (286) source length 7 target length 6 alignment score : 0.00227304
+Dessange accuse son fils de complot 
+NULL ({ }) Jacques ({ 1 }) Dessange ({ 2 }) accuse ({ 3 }) son ({ }) fils ({ 4 }) de ({ 5 }) complot ({ 6 }) 
+# Sentence pair (287) source length 6 target length 8 alignment score : 4.48223e-08
+Barbara Schulz embarquerait à bord de Pan Am 
+NULL ({ 6 }) Barbara ({ 1 }) Schulz ({ 2 }) décolle ({ 3 }) avec ({ }) Pan ({ 4 }) Am ({ 5 7 8 }) 
+# Sentence pair (288) source length 10 target length 7 alignment score : 0.000196629
+Audiences: Les bleus largement leader sur TF1 
+NULL ({ }) Audiences ({ 1 }) TV: ({ 2 }) Malgré ({ 3 }) le ({ }) nul, ({ }) les ({ }) Bleus ({ 4 }) gagnent ({ 5 }) sur ({ 6 }) TF1 ({ 7 }) 
+# Sentence pair (289) source length 6 target length 6 alignment score : 0.000736677
+Un Monstre à Paris, la critique 
+NULL ({ }) Un ({ 1 }) Monstre ({ 2 }) à ({ 3 }) Paris: ({ 4 }) la ({ 5 }) critique ({ 6 }) 
+# Sentence pair (290) source length 11 target length 10 alignment score : 3.31577e-05
+Servier dément avoir su que le Mediator était un coupe-faim 
+NULL ({ }) Servier ({ 1 }) dément ({ 2 }) avoir ({ 3 }) su ({ 4 }) que ({ 5 }) le ({ 6 }) Mediator ({ 7 }) était ({ 8 }) aussi ({ }) un ({ 9 }) coupe-faim ({ 10 }) 
+# Sentence pair (291) source length 12 target length 12 alignment score : 3.91419e-13
+Dépistage Cancer de la prostate: Le test sanguin PSA mis en cause 
+NULL ({ }) Le ({ 1 }) test ({ 2 }) du ({ }) cancer ({ 5 }) de ({ 3 }) la ({ 4 }) prostate ({ 6 7 }) remis ({ 8 }) en ({ }) cause ({ 9 10 }) aux ({ 11 }) Etats-Unis ({ 12 }) 
+# Sentence pair (292) source length 12 target length 10 alignment score : 7.85583e-07
+La tuberculose recule pour la première fois dans le monde 
+NULL ({ }) Pour ({ 4 }) la ({ 5 }) première ({ 6 }) fois ({ }) la ({ }) tuberculose ({ 3 }) recule ({ 7 }) dans ({ 8 }) le ({ 9 }) monde ({ 10 }) selon ({ }) l'Oms ({ 1 2 }) 
+# Sentence pair (293) source length 10 target length 8 alignment score : 2.29538e-06
+Chilensis Megavirus, le plus gros virus du monde 
+NULL ({ }) Bienvenue ({ 1 }) à ({ }) Chilensis ({ 5 }) Megavirus, ({ 2 }) le ({ 3 }) plus ({ 4 }) grand ({ }) virus ({ 6 }) du ({ 7 }) monde ({ 8 }) 
+# Sentence pair (294) source length 8 target length 9 alignment score : 7.33279e-10
+Obésité infantile: le dépistage plus difficile qu'il ne parait 
+NULL ({ }) Obésité ({ 1 }) infantile: ({ 2 3 4 }) Pas ({ 5 }) de ({ }) régime ({ 6 }) mais ({ }) du ({ }) sport ({ 7 8 9 }) 
+# Sentence pair (295) source length 10 target length 9 alignment score : 5.57178e-07
+L'OMS dénonce les coups fourrés de l'industrie du tabac 
+NULL ({ }) Les ({ 1 }) coups ({ 2 }) fourrés ({ 3 }) des ({ }) fabricants ({ 4 5 }) de ({ 6 }) cigarette ({ 7 }) dénoncés ({ 8 }) par ({ }) l'OMS ({ 9 }) 
+# Sentence pair (296) source length 7 target length 8 alignment score : 1.8284e-07
+Algues vertes: parution d'un décret controversé sur l'épandage 
+NULL ({ }) Algues ({ 1 }) vertes: ({ 2 }) un ({ }) décret ({ 3 4 }) favorisera ({ 5 }) leur ({ }) prolifération ({ 6 7 8 }) 
+# Sentence pair (297) source length 12 target length 5 alignment score : 1.61293e-06
+Wauquiez veut corriger la circulaire 
+NULL ({ }) Laurent ({ 1 }) Wauquiez ({ 2 }) veut ({ }) corriger ({ 3 }) la ({ }) circulaire ({ 4 }) Guéant ({ }) et ({ }) la ({ }) rendre ({ }) moins ({ }) restrictive ({ 5 }) 
+# Sentence pair (298) source length 24 target length 17 alignment score : 1.85159e-13
+Dans le journal d'aujourd'hui, vous lirez un article sur l'étrange journée que j'ai passée la semaine dernière. 
+NULL ({ }) Quand ({ 1 }) vous ({ }) lirez ({ }) le ({ 2 }) journal ({ 3 }) de ({ }) ce ({ }) matin, ({ 4 }) vous ({ 5 }) trouverez ({ 6 }) peut-être ({ }) un ({ 7 }) article ({ 8 }) sur ({ 9 }) la ({ }) journée ({ }) très ({ }) particulière ({ 10 11 }) que ({ 12 }) j'ai ({ 13 }) passé ({ 14 }) la ({ 15 }) semaine ({ 16 }) dernière. ({ 17 }) 
+# Sentence pair (299) source length 19 target length 14 alignment score : 1.4258e-12
+D'habitude, ma vie ne présente pas grand intérêt, mais tout a changé jeudi dernier. 
+NULL ({ }) D'habitude, ({ 1 }) rien ({ }) dans ({ }) ma ({ 2 }) vie ({ 3 }) n'est ({ 4 }) digne ({ 5 6 }) de ({ }) figurer ({ 7 }) dans ({ }) les ({ }) journaux, ({ 8 }) mais ({ 9 }) tout ({ 10 }) cela ({ }) a ({ 11 }) changé ({ 12 }) jeudi ({ }) dernier. ({ 13 14 }) 
+# Sentence pair (300) source length 6 target length 6 alignment score : 1.6901e-07
+Au départ, c'était une journée ordinaire. 
+NULL ({ }) A ({ 1 }) première ({ }) vue, ({ 2 }) tout ({ }) semblait ({ 3 4 }) normal. ({ 5 6 }) 
+# Sentence pair (301) source length 8 target length 5 alignment score : 0.000393795
+J'ai servi le petit déjeuner. 
+NULL ({ }) J'ai ({ 1 }) préparé ({ 2 }) le ({ 3 }) petit ({ }) déjeuner ({ 5 }) pour ({ }) ma ({ }) famille ({ 4 }) 
+# Sentence pair (302) source length 5 target length 4 alignment score : 0.0148086
+J'ai fait le ménage. 
+NULL ({ }) J'ai ({ 1 }) accompli ({ 2 }) mes ({ }) tâches ({ 3 }) quotidiennes. ({ 4 }) 
+# Sentence pair (303) source length 8 target length 4 alignment score : 0.000543649
+J'ai achevé mes ouvrages. 
+NULL ({ }) J'ai ({ 1 }) mis ({ 2 }) un ({ }) point ({ }) final ({ 3 }) à ({ }) mon ({ }) projet ({ 4 }) 
+# Sentence pair (304) source length 10 target length 8 alignment score : 1.40589e-11
+Une journée, somme toute, comme toutes les autres. 
+NULL ({ }) En ({ }) fait, ({ }) j'ai ({ }) passé ({ 3 }) cette ({ }) journée ({ 4 }) comme ({ 5 }) toutes ({ 6 }) les ({ 7 }) autres. ({ 1 2 8 }) 
+# Sentence pair (305) source length 9 target length 13 alignment score : 2.13123e-15
+Je me suis attelée à mes tâches pour que tout brille de perfection. 
+NULL ({ 12 }) Accomplissant ({ 1 2 3 }) l'immuable ({ 4 }) routine ({ 5 }) de ({ }) mon ({ }) existence ({ 6 }) jusqu'à ({ 7 8 9 }) la ({ }) perfection. ({ 10 11 13 }) 
+# Sentence pair (306) source length 28 target length 19 alignment score : 1.15461e-22
+D'où le choc, lorsque j'ai ouvert le placard pour en sortir un revolver qui n 'avait encore jamais servi. 
+NULL ({ 9 }) C'est ({ 1 }) pour ({ }) cela ({ }) qu'il ({ }) est ({ }) si ({ }) surprenant ({ 2 }) que ({ }) je ({ }) me ({ }) sois ({ 3 }) dirigée ({ 4 5 6 }) vers ({ }) le ({ 7 }) placard ({ 8 }) et ({ }) que ({ }) je ({ }) me ({ 10 }) sois ({ 11 }) emparée ({ 12 }) du ({ }) pistolet ({ 13 }) qui ({ 14 }) n'avait ({ 15 }) jamais ({ 16 }) été ({ }) utilisé ({ 17 18 19 }) 
+# Sentence pair (307) source length 16 target length 15 alignment score : 2.25036e-09
+Mon corps fut trouvé par ma voisine, Mme Martha Huber, surprise par un bruit sec. 
+NULL ({ }) Mon ({ 1 }) corps ({ 2 }) a ({ }) été ({ }) découvert ({ 3 4 }) par ({ 5 }) ma ({ 6 }) voisine, ({ 7 }) Mme ({ 8 }) Martha ({ 9 }) Huber, ({ 10 }) étonnée ({ 11 }) par ({ 12 }) une ({ }) étrange ({ 13 }) détonation. ({ 14 15 }) 
+# Sentence pair (308) source length 15 target length 15 alignment score : 1.0918e-14
+Piquée de curiosité, Mme Huber se mit en quête d'un prétexte pour passer à l'improviste. 
+NULL ({ }) Sa ({ 1 }) curiosité ({ 2 }) éveillée, ({ 3 }) Mme ({ 4 }) Huber ({ 5 }) imagina ({ 6 }) une ({ }) bonne ({ }) raison ({ 7 }) de ({ }) venir ({ }) me ({ 8 }) visiter ({ 9 10 11 12 13 }) à ({ 14 }) l'improviste. ({ 15 }) 
+# Sentence pair (309) source length 19 target length 16 alignment score : 3.53556e-19
+Après une brève hésitation, elle a décidé de me rapporter le mixeur emprunté six mois avant. 
+NULL ({ 8 }) Après ({ 1 }) quelques ({ 2 }) hésitations, ({ 3 4 }) elle ({ 5 }) décida ({ 6 }) de ({ }) venir ({ }) me ({ }) rendre ({ 7 }) le ({ 11 }) mixer ({ }) qu'elle ({ }) m'avait ({ 13 }) emprunté ({ 14 }) il ({ }) y ({ }) a ({ }) 6 ({ 9 10 12 }) mois. ({ 15 16 }) 
+# Sentence pair (310) source length 10 target length 7 alignment score : 2.09978e-05
+Ma voisine, on lui a tiré dessus. 
+NULL ({ }) C'est ({ }) ma ({ 1 }) voisine, ({ 2 }) je ({ }) pense ({ }) qu'on ({ 3 }) lui ({ 4 }) a ({ 5 }) tiré ({ 6 }) dessus, ({ 7 }) 
+# Sentence pair (311) source length 8 target length 6 alignment score : 1.05617e-05
+Envoyez une ambulance, sur le champ! 
+NULL ({ }) Oui. ({ 1 }) Envoyez ({ 2 }) une ({ }) ambulance, ({ 3 4 }) tout ({ }) de ({ }) suite ({ 5 }) ! ({ 6 }) 
+# Sentence pair (312) source length 13 target length 15 alignment score : 1.10837e-09
+Mme Huber est restée un instant interdite dans sa cuisine bouleversée par cette tragédie insensée. 
+NULL ({ }) Mme ({ 1 }) Huber ({ 2 }) est ({ 3 }) restée ({ 4 }) pétrifiée ({ 5 6 7 }) dans ({ 8 }) sa ({ 9 }) cuisine ({ 10 }) frappée ({ 11 }) par ({ 12 }) cette ({ 13 }) tragédie ({ 14 }) insensée. ({ 15 }) 
+# Sentence pair (313) source length 4 target length 4 alignment score : 0.000472616
+Mais un instant seulement. 
+NULL ({ }) Mais ({ 1 }) juste ({ }) un ({ 2 }) instant. ({ 3 4 }) 
+# Sentence pair (314) source length 22 target length 13 alignment score : 1.03023e-20
+Mme Huber avait la réputation de savoir faire contre mauvaise fortune bon coeur. 
+NULL ({ 4 }) S'il ({ 1 }) y ({ }) a ({ }) bien ({ }) une ({ }) chose ({ }) pour ({ }) laquelle ({ 5 }) Mme ({ }) Huber ({ 2 }) était ({ }) renommée, ({ 3 }) c'est ({ 6 }) sa ({ }) capacité ({ 7 }) à ({ }) voir ({ 9 }) le ({ }) bon ({ 12 }) côté ({ 8 }) des ({ }) choses. ({ 10 11 13 }) 
+# Sentence pair (315) source length 5 target length 7 alignment score : 5.74118e-10
+On me mit en terre un lundi. 
+NULL ({ }) J'ai ({ 1 }) été ({ }) enterrée ({ 2 3 }) le ({ }) lundi. ({ 4 5 6 7 }) 
+# Sentence pair (316) source length 14 target length 12 alignment score : 1.09969e-06
+Après les funérailles, les habitants de Wisteria Lane vinrent présenter leurs condoléances. 
+NULL ({ }) Après ({ 1 }) les ({ 2 }) funérailles, ({ 3 }) tous ({ }) les ({ 4 }) habitants ({ 5 }) de ({ 6 }) Wisteria ({ 7 }) Lane ({ 8 }) sont ({ }) venus ({ 9 }) présenter ({ 10 }) leurs ({ 11 }) respects. ({ 12 }) 
+# Sentence pair (317) source length 9 target length 11 alignment score : 9.5875e-10
+Et, comme on fait dans ces cas-là, ils apportèrent à manger. 
+NULL ({ }) Comme ({ 1 2 3 }) toujours ({ 4 }) dans ({ 5 }) ces ({ 6 }) circonstances, ({ 7 }) ils ({ }) amenèrent ({ 8 9 }) à ({ 10 }) manger. ({ 11 }) 
+# Sentence pair (318) source length 9 target length 6 alignment score : 8.27292e-06
+Lynette Scavo apporta du poulet frit. 
+NULL ({ }) Lynette ({ 1 }) avait ({ }) une ({ }) super ({ 2 }) recette ({ 3 4 }) pour ({ }) le ({ }) poulet ({ 5 }) grillé ({ 6 }) 
+# Sentence pair (319) source length 15 target length 15 alignment score : 1.16659e-18
+Quand elle gravissait les échelons de sa société, elle n'avait guère le temps de cuisiner. 
+NULL ({ 14 }) Bien ({ 1 }) sur, ({ }) elle ({ 2 }) faisait ({ }) peu ({ 3 }) la ({ }) cuisine ({ }) quand ({ 12 }) elle ({ 9 }) grimpait ({ 10 }) les ({ 4 }) échelons ({ 5 }) de ({ 6 }) sa ({ 7 }) société ({ 8 11 13 15 }) 
+# Sentence pair (320) source length 21 target length 12 alignment score : 1.87708e-10
+Mais lorsqu'elle tomba enceinte, son mari, Tom, eut une idée:"Si tu démissionnais?" 
+NULL ({ }) Mais ({ 1 }) quand ({ }) le ({ }) docteur ({ 2 }) lui ({ }) annonça ({ 3 }) qu'elle ({ }) était ({ }) enceinte, ({ 4 }) son ({ 5 }) mari ({ 6 }) Tom ({ 7 }) eut ({ 8 }) une ({ 9 }) idée: ({ 10 }) "Pourquoi ({ }) ne ({ }) pas ({ }) quitter ({ 11 }) ton ({ }) travail?" ({ 12 }) 
+# Sentence pair (321) source length 15 target length 12 alignment score : 1.2171e-14
+"Les enfants ont besoin de leur mère et ce serait moins stressant." 
+NULL ({ 5 }) "Une ({ 1 3 4 }) mère ({ 2 }) à ({ }) la ({ }) maison, ({ 6 }) c'est ({ }) mieux ({ }) pour ({ }) les ({ }) enfants, ({ 7 }) ce ({ 9 }) sera ({ 10 }) beaucoup ({ 8 }) moins ({ 11 }) stressant." ({ 12 }) 
+# Sentence pair (322) source length 7 target length 4 alignment score : 2.67884e-05
+Mais il se trompait. 
+NULL ({ }) Mais ({ 1 }) ce ({ }) ne ({ }) fut ({ 2 }) pas ({ }) le ({ }) cas. ({ 3 4 }) 
+# Sentence pair (323) source length 23 target length 13 alignment score : 2.56341e-18
+En réalité, Lynette était tellement débordée qu'elle achetait son poulet frit tout prêt. 
+NULL ({ }) En ({ 1 }) fait, ({ }) le ({ }) vie ({ }) de ({ }) Lynette ({ 3 }) est ({ }) devenue ({ }) tellement ({ 2 }) agitée ({ 4 }) qu'elle ({ }) est ({ }) obligée ({ 5 }) de ({ }) se ({ }) procurer ({ 6 7 8 }) son ({ 9 }) poulet ({ 10 }) grillé ({ }) dans ({ }) un ({ }) fast ({ 11 }) food. ({ 12 13 }) 
+# Sentence pair (324) source length 9 target length 9 alignment score : 2.90784e-06
+Ça l'aurait fait rire si elle y avait songé. 
+NULL ({ }) Lynette ({ 1 }) aurait ({ 2 }) apprécié ({ 3 4 }) l'ironie ({ 5 }) si ({ }) elle ({ 6 }) y ({ 7 }) avait ({ 8 }) réfléchi. ({ 9 }) 
+# Sentence pair (325) source length 10 target length 7 alignment score : 7.28479e-05
+Mais elle n'en avait pas le temps. 
+NULL ({ }) Mais ({ 1 }) elle ({ 2 }) ne ({ }) pouvait ({ 3 }) pas, ({ }) elle ({ }) n'avait ({ 4 }) pas ({ 5 }) le ({ 6 }) temps. ({ 7 }) 
+# Sentence pair (326) source length 6 target length 5 alignment score : 1.61769e-06
+Vous allez être sages aujourd'hui. 
+NULL ({ }) Vous ({ 1 }) allez ({ 2 }) vous ({ }) tenir ({ 4 5 }) tranquille ({ 3 }) aujourd'hui ({ }) 
+# Sentence pair (327) source length 8 target length 10 alignment score : 1.12429e-11
+Vous ne me ferez pas honte devant tout le quartier. 
+NULL ({ }) Je ({ 1 }) refuse ({ 2 }) d'être ({ }) humiliée ({ 3 4 }) devant ({ 5 6 7 }) tout ({ 8 }) le ({ 9 }) voisinage. ({ 10 }) 
+# Sentence pair (328) source length 11 target length 5 alignment score : 1.5117e-06
+Et je ne plaisante pas. 
+NULL ({ }) et, ({ }) pour ({ }) que ({ }) vous ({ }) sachiez ({ 1 }) à ({ }) quel ({ }) point ({ }) je ({ 2 }) suis ({ 3 }) sérieuse. ({ 4 5 }) 
+# Sentence pair (329) source length 10 target length 11 alignment score : 2.00489e-11
+Un de mes amis a un ami qui connaît un lutin. 
+NULL ({ 2 }) Je ({ }) connais ({ 1 3 4 }) quelqu'un ({ 6 }) qui ({ }) connait ({ 7 }) quelqu'un ({ 5 }) qui ({ 8 }) connait ({ 9 }) un ({ 10 }) elfe. ({ 11 }) 
+# Sentence pair (330) source length 17 target length 15 alignment score : 8.19168e-19
+Si l'un de vous fait une bêtise, je lui dis d'apporter des chaussettes pour Noël. 
+NULL ({ }) Et ({ 1 }) si ({ }) jamais ({ 2 }) un ({ }) de ({ 3 }) vous ({ 4 }) fait ({ }) n'importe ({ 5 }) quoi, ({ 6 }) je ({ }) vous ({ }) jure ({ 8 }) que ({ }) j'appelle ({ 7 }) le ({ }) père ({ 9 10 11 }) noël ({ 12 13 14 15 }) 
+# Sentence pair (331) source length 5 target length 5 alignment score : 0.00022741
+C'est ce que vous voulez? 
+NULL ({ }) Vous ({ 1 }) voulez ({ 3 }) prendre ({ 4 }) ce ({ 2 }) risque? ({ 5 }) 
+# Sentence pair (332) source length 14 target length 11 alignment score : 4.97989e-11
+Gabrielle Solis, du bout de la rue, apporta une paella pimentée. 
+NULL ({ 6 }) Gabrielle ({ 1 }) Solis, ({ 2 3 }) qui ({ }) vie ({ }) dans ({ }) le ({ }) même ({ 4 }) pâté ({ }) de ({ 5 }) maison, ({ 7 }) apporta ({ 8 }) une ({ 9 }) paella ({ 10 }) épicée. ({ 11 }) 
+# Sentence pair (333) source length 21 target length 21 alignment score : 5.69592e-22
+De sa vie de mannequin à New York, elle avait gardé un goût prononcé pour les plats et les portefeuilles garnis. 
+NULL ({ 4 }) Depuis ({ 1 2 }) son ({ }) époque ({ 3 }) mannequin ({ 5 }) à ({ 6 }) New ({ 7 8 }) York, ({ 9 }) Gabrielle ({ 10 }) a ({ }) développé ({ 11 }) un ({ 12 }) goût ({ 13 }) pour ({ }) la ({ }) cuisine ({ }) riche ({ 14 }) et ({ }) pour ({ 15 }) les ({ 16 }) hommes ({ 17 18 }) riches. ({ 19 20 21 }) 
+# Sentence pair (334) source length 16 target length 10 alignment score : 1.01186e-13
+Carlos, Fusions et Acquisitions, demanda sa main au 3e rendez-vous. 
+NULL ({ }) Carlos, ({ 1 2 }) qui ({ }) travaillait ({ 3 }) dans ({ }) la ({ }) finance, ({ 4 }) lui ({ }) a ({ }) proposé ({ 5 }) le ({ }) mariage ({ 7 }) lors ({ }) de ({ }) leur ({ }) 3ème ({ 6 }) rendez-vous. ({ 8 9 10 }) 
+# Sentence pair (335) source length 12 target length 8 alignment score : 1.54056e-10
+Gabrielle fut émue en voyant ses yeux s'embuer. 
+NULL ({ }) Gabrielle ({ 1 }) a ({ }) été ({ }) émue ({ 2 }) lorsque ({ 3 }) que ({ }) ses ({ }) larmes ({ 5 }) se ({ }) mirent ({ 4 }) à ({ }) couler. ({ 6 7 8 }) 
+# Sentence pair (336) source length 20 target length 14 alignment score : 1.53349e-14
+Mais elle comprit vite que ça arrivait chaque fois qu'il signait un gros contrat. 
+NULL ({ }) Mais ({ 1 }) elle ({ 2 }) n'a ({ }) pas ({ }) tardé ({ 3 }) à ({ }) découvrir ({ 4 }) que ({ }) cela ({ }) se ({ }) produisait ({ 9 }) à ({ }) chaque ({ 12 }) fois ({ }) que ({ 5 }) Carlos ({ 6 7 }) concluait ({ 8 }) une ({ }) bonne ({ 10 }) affaire ({ 11 13 14 }) 
+# Sentence pair (337) source length 14 target length 14 alignment score : 9.52201e-10
+Gabrielle mangeait sa paella brûlante, mais avec son mari, l'ambiance était bien plus froide. 
+NULL ({ }) Gabrielle ({ 1 }) aimait ({ 2 }) sa ({ 3 }) paella ({ 4 }) bouillante ({ 5 }) pourtant, ({ 6 }) ses ({ }) relations ({ }) avec ({ 7 }) son ({ 8 }) mari ({ 9 }) s'étaient ({ 10 }) considérablement ({ 11 }) refroidies. ({ 12 13 14 }) 
+# Sentence pair (338) source length 19 target length 12 alignment score : 2.74192e-12
+Si tu parles à Al Mason, dis-lui combien m'a coûté ton collier. 
+NULL ({ }) Si ({ 1 }) tu ({ 2 }) parles ({ 3 4 }) avec ({ }) Al ({ 5 }) Mason, ({ 6 }) je ({ }) veux ({ 7 }) que ({ }) tu ({ }) mentionnes ({ 8 }) en ({ }) passant ({ 12 }) combien ({ }) j'ai ({ }) payé ({ 9 }) pour ({ }) ton ({ 10 }) collier. ({ 11 }) 
+# Sentence pair (339) source length 11 target length 6 alignment score : 4.83745e-06
+Je porterai le reçu en broche. 
+NULL ({ }) Je ({ 1 }) pourrais ({ 2 }) aussi ({ 3 }) porter ({ 4 }) le ({ }) reçu ({ 5 }) à ({ }) la ({ }) place ({ }) du ({ }) collier. ({ 6 }) 
+# Sentence pair (340) source length 14 target length 8 alignment score : 1.54699e-06
+Il m'a dit le prix de sa décapotable. 
+NULL ({ }) Il ({ 1 }) m'a ({ 2 }) fait ({ }) comprendre ({ 3 }) combien ({ 4 }) il ({ }) a ({ }) payé ({ }) pour ({ }) la ({ }) décapotable ({ 5 }) de ({ 6 }) sa ({ 7 }) femme ({ 8 }) 
+# Sentence pair (341) source length 6 target length 3 alignment score : 0.00557577
+Tu le caseras. 
+NULL ({ }) Ecoute, ({ 1 }) place ({ 2 }) le ({ }) dans ({ }) la ({ }) conversation. ({ 3 }) 
+# Sentence pair (342) source length 31 target length 19 alignment score : 1.31984e-25
+Chez les Donahue, même si on parlait finances, u as placé que tu t'étais tapé la moitié des Yankees. 
+NULL ({ 2 }) A ({ 1 }) la ({ }) fête ({ 3 4 }) de ({ }) Donoghue, ({ 5 }) tout ({ }) le ({ }) monde ({ }) parlait ({ 6 }) de ({ }) sociétés ({ 8 9 }) d'investissements ({ 7 }) et ({ }) tu ({ }) as ({ 10 }) trouvé ({ 11 }) le ({ }) moyen ({ }) de ({ }) dire ({ }) que ({ 12 }) tu ({ 13 }) avais ({ }) couché ({ 14 }) avec ({ }) la ({ 16 }) moitié ({ 17 }) de ({ }) l'équipe ({ 15 }) des ({ 18 }) Yankee ({ 19 }) 
+# Sentence pair (343) source length 11 target length 6 alignment score : 1.41265e-12
+On attire l'attention, parle moins fort. 
+NULL ({ }) Les ({ }) gens ({ }) commencent ({ 3 }) à ({ }) nous ({ }) regarder, ({ 2 }) tu ({ }) peux ({ }) baisser ({ 4 }) le ({ }) ton? ({ 1 5 6 }) 
+# Sentence pair (344) source length 10 target length 8 alignment score : 4.50205e-10
+Personne ne doit douter de notre bonheur conjugal. 
+NULL ({ 5 }) On ({ 1 }) ne ({ 2 }) voudrait ({ 3 }) pas ({ }) qu'ils ({ }) imaginent ({ 4 }) qu'on ({ }) n'est ({ }) pas ({ }) heureux. ({ 6 7 8 }) 
+# Sentence pair (345) source length 17 target length 15 alignment score : 2.76593e-10
+Bree Van de Kamp, la voisine d'à côté, apporta des muffins qu'elle avait faits elle-même 
+NULL ({ }) Bree ({ 1 }) Van ({ 2 }) de ({ 3 }) Camp, ({ 4 }) qui ({ 5 }) vivait ({ 6 }) juste ({ 7 }) à ({ }) côté, ({ 8 }) apporta ({ 9 }) des ({ 10 }) muffins ({ 11 }) qu'elle ({ 12 }) avait ({ 13 }) entièrement ({ 14 }) préparé ({ }) elle-même ({ 15 }) 
+# Sentence pair (346) source length 23 target length 14 alignment score : 9.80243e-18
+Bree était un cordon-bleu. Elle confectionnait ses vêtements. Elle jardinait. Elle retapissait ses fauteuils. 
+NULL ({ }) Bree ({ 1 }) était ({ 2 }) renommée ({ 3 4 }) pour ({ }) sa ({ }) cuisine, ({ 9 }) pour ({ }) faire ({ }) ses ({ }) propres ({ }) vêtements, ({ 10 11 }) pour ({ }) s'occuper ({ 5 }) elle-même ({ 6 }) de ({ }) son ({ 7 }) jardin ({ 8 }) et ({ }) pour ({ }) recouvrir ({ }) elle-même ({ 12 }) ses ({ 13 }) meubles. ({ 14 }) 
+# Sentence pair (347) source length 11 target length 8 alignment score : 8.0294e-08
+Les talents de Bree étaient connus et reconnus. 
+NULL ({ }) Les ({ 1 }) multiples ({ 2 }) talents ({ 6 }) de ({ 3 }) Bree ({ 4 }) étaient ({ 5 }) connus ({ 7 }) de ({ }) tout ({ }) le ({ }) voisinage ({ 8 }) 
+# Sentence pair (348) source length 12 target length 11 alignment score : 4.89819e-18
+Tout Wisteria Lane voyait en elle la parfaite épouse et mère. 
+NULL ({ }) Tout ({ 1 2 3 }) le ({ }) monde ({ }) pensait ({ 4 5 6 }) qu'elle ({ }) était ({ }) la ({ 7 }) femme ({ }) et ({ 10 }) la ({ }) mère ({ 8 }) parfaite. ({ 9 11 }) 
+# Sentence pair (349) source length 12 target length 9 alignment score : 9.11376e-08
+Il contient des petits pains pour le petit déjeuner. 
+NULL ({ }) Il ({ 1 }) y ({ }) a ({ }) des ({ }) petits ({ 5 }) pains, ({ 2 }) des ({ 3 }) muffins, ({ 4 }) pour ({ 6 }) le ({ 7 }) petit ({ 8 }) déjeuner ({ 9 }) 
+# Sentence pair (350) source length 9 target length 6 alignment score : 9.95182e-10
+Vous devez être fous de chagrin. 
+NULL ({ }) Je ({ }) sais ({ }) que ({ }) vous ({ }) êtes ({ 1 }) bouleversés ({ 2 }) par ({ }) votre ({ 5 }) deuil ({ 3 4 6 }) 
+# Sentence pair (351) source length 12 target length 7 alignment score : 1.87219e-09
+Vous penserez à me rendre les paniers. 
+NULL ({ }) Bien ({ 1 }) sur, ({ }) vous ({ }) me ({ }) ramènerez ({ 4 5 }) les ({ 6 }) paniers ({ 7 }) quand ({ }) vous ({ }) en ({ }) aurez ({ 3 }) terminé. ({ 2 }) 
+# Sentence pair (352) source length 15 target length 11 alignment score : 3.64589e-08
+Susan Mayer, qui habite en face, apporta un gratin de macaronis. 
+NULL ({ }) Susan ({ 1 }) Mayer, ({ 2 }) qui ({ 3 }) vivait ({ 4 }) de ({ }) l'autre ({ 5 }) côté ({ 6 }) de ({ 10 }) la ({ }) rue, ({ 11 }) apporta ({ 7 }) des ({ }) macaronis ({ 8 }) au ({ }) fromage ({ 9 }) 
+# Sentence pair (353) source length 25 target length 20 alignment score : 1.95128e-25
+Son mari, Karl, avait toujours dit en se moquant qu'elle ne savait rien cuisiner d'autre, mais le ratait quand même. 
+NULL ({ 17 }) Carl, ({ 1 2 }) son ({ }) mari, ({ 3 }) la ({ }) taquinait ({ 5 }) toujours ({ 4 }) à ({ }) propos ({ 6 }) des ({ }) macaronis ({ }) en ({ 7 }) disant ({ 8 9 }) que ({ }) c'était ({ 10 }) la ({ }) seule ({ 11 }) chose ({ }) qu'elle ({ }) savait ({ 12 }) cuisiner ({ 13 }) et ({ }) qu'elle ({ }) les ({ }) réussissait ({ 14 15 }) rarement. ({ 16 18 19 20 }) 
+# Sentence pair (354) source length 5 target length 9 alignment score : 3.3802e-09
+Il était trop salé le soir de leur emménagement. 
+NULL ({ 7 }) Trop ({ 1 }) salés ({ 2 3 }) quand ({ 4 5 }) ils ({ 6 }) emménagèrent. ({ 8 9 }) 
+# Sentence pair (355) source length 7 target length 6 alignment score : 1.05956e-05
+Ils étaient divorcés depuis un an. 
+NULL ({ }) Un ({ 1 }) an ({ 2 }) s'est ({ }) écoulé ({ 3 }) depuis ({ 4 }) le ({ }) divorce ({ 5 6 }) 
+# Sentence pair (356) source length 15 target length 11 alignment score : 7.21032e-09
+Susan se disait qu'elle aimerait avoir un homme dans sa vie. 
+NULL ({ }) Susan ({ 1 }) commençait ({ 2 3 }) à ({ }) se ({ }) dire ({ 4 }) que ({ }) ça ({ 5 }) serait ({ }) bien ({ }) d'avoir ({ 6 }) un ({ 7 }) homme ({ 8 }) dans ({ 9 }) sa ({ 10 }) vie. ({ 11 }) 
+# Sentence pair (357) source length 6 target length 6 alignment score : 0.000720367
+Maman, pourquoi les gens se suicident? 
+NULL ({ }) M'man, ({ 1 }) pourquoi ({ 2 }) les ({ 3 }) gens ({ 4 }) se ({ 5 }) suicident? ({ 6 }) 
+# Sentence pair (358) source length 16 target length 11 alignment score : 1.34665e-13
+Parfois, on est si malheureux qu'on ne voit pas d'autre issue. 
+NULL ({ }) Parfois, ({ 1 }) les ({ }) gens ({ 2 }) sont ({ }) tellement ({ 3 }) malheureux ({ 4 5 6 }) qu'ils ({ }) imaginent ({ 7 }) que ({ }) c'est ({ }) la ({ }) seule ({ }) solution ({ 8 }) à ({ }) leurs ({ 9 }) problèmes. ({ 10 11 }) 
+# Sentence pair (359) source length 5 target length 4 alignment score : 0.0146713
+Mme Young semblait heureuse. 
+NULL ({ }) Mme ({ 1 }) Young ({ 2 }) avait ({ }) l'air ({ 3 }) heureuse. ({ 4 }) 
+# Sentence pair (360) source length 13 target length 12 alignment score : 5.43414e-15
+Parfois, on donne une image très différente de ce qu'on est vraiment. 
+NULL ({ 8 }) Parfois, ({ 1 }) les ({ }) gens ({ 2 }) ne ({ }) ressemblent ({ 3 }) pas ({ }) du ({ }) tout ({ }) à ({ }) l'image ({ 4 5 }) qu'ils ({ }) donnent ({ 6 7 }) d'eux. ({ 9 10 11 12 }) 
+# Sentence pair (361) source length 11 target length 10 alignment score : 2.53007e-09
+Qu'est-ce que Karl a eu à dire pour sa défense? 
+NULL ({ }) Alors, ({ 1 }) qu'est ({ 2 }) ce ({ }) que ({ }) Carl ({ 3 }) a ({ 4 }) dit ({ 5 }) quand ({ 6 }) tu ({ }) l'as ({ 8 }) découvert? ({ 7 9 10 }) 
+# Sentence pair (362) source length 11 target length 9 alignment score : 3.36532e-07
+Je ne sais pas ce que je vais devenir. 
+NULL ({ }) je ({ 1 }) ne ({ 2 }) sais ({ 3 }) pas ({ 4 }) comment ({ 5 }) je ({ 7 }) vais ({ 6 }) survivre ({ 8 }) à ({ }) tout ({ }) ça. ({ 9 }) 
+# Sentence pair (363) source length 23 target length 19 alignment score : 5.5745e-22
+Il nous arrive à toutes de toucher le fond, mais en faisant front, on se découvre une force insoupçonnée. 
+NULL ({ 8 }) On ({ 1 }) a ({ }) tous ({ 4 }) des ({ }) moments ({ 5 }) de ({ 6 }) désespoir, ({ 7 }) mais ({ }) si ({ }) on ({ }) arrive ({ 9 }) à ({ }) y ({ }) faire ({ 10 }) face, ({ 11 12 }) on ({ 14 }) découvre ({ 13 }) à ({ }) quel ({ 15 }) point ({ }) nous ({ 2 }) sommes ({ 3 }) fortes ({ 16 17 18 19 }) 
+# Sentence pair (364) source length 18 target length 12 alignment score : 6.18142e-19
+Paul veut qu'on aille vendredi trier ses affaires et faire des cartons. 
+NULL ({ }) Je ({ }) disais ({ 2 }) que ({ }) Paul ({ 4 }) voudrait ({ }) qu'on ({ 1 }) passe ({ 3 }) vendredi ({ 5 }) pour ({ }) qu'on ({ }) s'occupe ({ 6 }) du ({ }) rangement ({ 7 }) du ({ }) placard ({ }) de ({ }) Mary ({ }) Alice. ({ 8 9 10 11 12 }) 
+# Sentence pair (365) source length 9 target length 9 alignment score : 2.55221e-07
+Il ne se sent pas de le faire seul. 
+NULL ({ }) Il ({ 1 }) ne ({ 2 }) pense ({ 3 4 }) pas ({ 5 }) pouvoir ({ 6 }) y ({ }) arriver ({ 7 }) tout ({ }) seul. ({ 8 9 }) 
+# Sentence pair (366) source length 16 target length 12 alignment score : 9.57607e-14
+Mary Alice aurait dû nous parler de ses soucis, nous laisser l'aider. 
+NULL ({ 7 }) Si ({ }) Mary ({ 1 }) Alice ({ 2 }) avait ({ }) des ({ }) problèmes, ({ 3 }) elle ({ }) aurait ({ }) dû ({ 4 }) nous ({ 5 }) en ({ }) parler, ({ 6 }) on ({ }) aurait ({ }) pu ({ 8 }) l'aider. ({ 9 10 11 12 }) 
+# Sentence pair (367) source length 10 target length 9 alignment score : 1.26951e-06
+Si Mary Alice n'allait pas bien, on l'aurait su. 
+NULL ({ }) Si ({ 1 }) Mary ({ 2 }) Alice ({ 3 }) avait ({ }) traversé ({ 4 5 }) une ({ }) crise, ({ 6 }) on ({ 7 }) l'aurait ({ 8 }) su. ({ 9 }) 
+# Sentence pair (368) source length 11 target length 9 alignment score : 1.03833e-06
+Elle vivait à 1 5 m de chez nous. 
+NULL ({ }) Elle ({ 1 }) habitait ({ 2 }) à ({ 3 }) 30 ({ 4 }) mètres ({ 5 6 }) de ({ 7 }) chez ({ 8 }) nous, ({ 9 }) bon ({ }) dieu ({ }) ! ({ }) 
+# Sentence pair (369) source length 14 target length 11 alignment score : 1.1129e-10
+Je refuse de croire qu'on puisse rater un gratin de pâtes. 
+NULL ({ 10 }) Non, ({ 1 }) mais ({ }) je ({ }) refuse ({ 2 }) de ({ 3 }) croire ({ 4 }) que ({ }) quelqu'un ({ 5 }) puisse ({ 6 }) rater ({ 7 }) des ({ }) macaronis ({ 8 }) au ({ }) fromage ({ 9 11 }) 
+# Sentence pair (370) source length 13 target length 10 alignment score : 2.35298e-06
+Je suis Mike Delfino, je loue la maison des Sims. 
+NULL ({ }) Je ({ 1 }) m'appelle ({ 2 }) Mike ({ 3 }) Delfino, ({ 4 }) je ({ 5 }) loue ({ 6 }) la ({ 7 }) maison ({ }) des ({ }) Sims, ({ 8 }) juste ({ 9 }) à ({ }) côté. ({ 10 }) 
+# Sentence pair (371) source length 12 target length 11 alignment score : 1.5548e-05
+Mme Huber m'a dit que vous illustrez des livres pour enfants. 
+NULL ({ }) Mme ({ 1 }) Huber ({ 2 }) m'a ({ 3 }) parlé ({ 4 }) de ({ }) vous. ({ 5 }) Vous ({ 6 }) illustrez ({ 7 }) des ({ 8 }) livres ({ 9 }) pour ({ 10 }) enfant. ({ 11 }) 
+# Sentence pair (372) source length 11 target length 6 alignment score : 1.25841e-07
+Les moins de 5 ans m'adorent. 
+NULL ({ }) Ouais, ({ 1 }) je ({ }) suis ({ }) très ({ }) forte ({ 5 }) avec ({ }) les ({ }) moins ({ 2 }) de ({ 3 }) 5 ({ 4 }) ans. ({ 6 }) 
+# Sentence pair (373) source length 19 target length 14 alignment score : 8.36968e-21
+Ils ont tous compris que j'avais fait un plat, alors je peux le balancer. 
+NULL ({ 13 }) Maintenant ({ 1 }) que ({ }) tout ({ }) le ({ }) monde ({ }) a ({ }) vu ({ 2 3 4 }) que ({ }) j'ai ({ }) apporté ({ 8 }) quelque ({ 14 }) chose, ({ 10 }) je ({ 11 }) devrais ({ 12 }) sans ({ 5 }) doute ({ 6 7 }) jeter ({ 9 }) ce ({ }) truc. ({ }) 
+# Sentence pair (374) source length 11 target length 6 alignment score : 1.40151e-05
+Savez-vous ce que font vos fils? 
+NULL ({ }) Vous ({ }) savez ({ 1 }) ce ({ 2 }) que ({ 3 }) vos ({ 4 }) fils ({ }) sont ({ }) en ({ }) train ({ 5 }) de ({ }) faire? ({ 6 }) 
+# Sentence pair (375) source length 11 target length 7 alignment score : 2.0037e-05
+Je suis votre mère, vous devez m'obéir. 
+NULL ({ }) Je ({ 1 }) suis ({ 2 }) votre ({ 3 }) mère, ({ 4 }) vous ({ 5 }) devez ({ 6 }) faire ({ }) ce ({ }) que ({ }) je ({ }) dis. ({ 7 }) 
+# Sentence pair (376) source length 10 target length 8 alignment score : 1.00966e-08
+On est dans l'eau et t'y peux rien! 
+NULL ({ }) On ({ 1 }) veut ({ 2 }) nager ({ 3 4 }) et ({ 5 }) tu ({ }) peux ({ 6 }) rien ({ }) y ({ }) faire ({ 7 }) ! ({ 8 }) 
+# Sentence pair (377) source length 6 target length 3 alignment score : 0.00115204
+Toutes mes condoléances. 
+NULL ({ }) Encore ({ 1 }) une ({ }) fois, ({ }) toutes ({ }) mes ({ 2 }) condoléances. ({ 3 }) 
+# Sentence pair (378) source length 10 target length 8 alignment score : 0.000165848
+Lynette n'avait pas à s'inquiéter pour mon mari. 
+NULL ({ }) Lynette ({ 1 }) n'aurait ({ 2 }) pas ({ 3 }) dû ({ }) s'en ({ 4 }) faire ({ }) autant ({ 5 }) pour ({ 6 }) mon ({ 7 }) mari. ({ 8 }) 
+# Sentence pair (379) source length 8 target length 9 alignment score : 5.47847e-11
+Il avait autre chose en tête. Des choses enfouies. 
+NULL ({ }) Il ({ 1 }) avait ({ 2 }) d'autre ({ 3 4 }) préoccupations, ({ 6 }) cachées ({ 7 8 9 }) sous ({ 5 }) la ({ }) surface. ({ }) 
+# Sentence pair (380) source length 15 target length 13 alignment score : 1.09875e-14
+Le lendemain de mon enterrement, mes amies retournèrent tranquillement à leurs vies trépidantes. 
+NULL ({ 3 }) Le ({ 1 }) lendemain ({ 2 4 }) de ({ }) mes ({ }) funérailles, ({ 5 }) mes ({ 6 }) amies ({ 7 }) et ({ }) voisines ({ 8 }) retournèrent ({ 9 }) tranquillement ({ 11 }) à ({ }) leur ({ }) routine ({ 10 }) quotidienne. ({ 12 13 }) 
+# Sentence pair (381) source length 11 target length 9 alignment score : 4.00134e-13
+Certaines à leur cuisine, leur ménage ou leur yoga. 
+NULL ({ }) Certaines ({ 1 }) s'occupaient ({ 2 3 }) du ({ }) repas, ({ 4 }) d'autres ({ }) du ({ }) ménage, ({ 5 }) d'autres ({ }) faisait ({ 8 }) leur ({ }) yoga. ({ 6 7 9 }) 
+# Sentence pair (382) source length 21 target length 15 alignment score : 1.52415e-15
+Sa femme est morte il y a un an et il a quitté Los Angeles. 
+NULL ({ }) Sa ({ 1 }) femme ({ 2 }) est ({ 3 }) morte ({ 4 }) il ({ 5 }) y ({ 6 }) a ({ 7 }) 1 ({ 9 }) an, ({ 10 }) il ({ 11 }) voulait ({ 12 }) rester ({ 13 }) à ({ }) LA ({ }) mais ({ 8 }) il ({ }) y ({ }) avait ({ }) trop ({ }) de ({ }) souvenirs. ({ 14 15 }) 
+# Sentence pair (383) source length 13 target length 6 alignment score : 1.03593e-05
+Il est locataire, mais veut acheter. 
+NULL ({ }) Il ({ 1 }) loue ({ }) pour ({ }) éviter ({ 2 }) de ({ }) payer ({ }) trop ({ }) d'impôts, ({ 3 }) mais ({ }) il ({ }) espère ({ 4 }) acheter ({ 5 }) bientôt. ({ 6 }) 
+# Sentence pair (384) source length 8 target length 6 alignment score : 0.000476795
+Vous aviez l'air de vous plaire. 
+NULL ({ }) Vous ({ 1 }) êtes ({ 2 }) attirés ({ 3 }) l'un ({ 4 }) par ({ }) l'autre, ({ 5 }) c'est ({ }) évident. ({ 6 }) 
+# Sentence pair (385) source length 13 target length 6 alignment score : 4.11077e-07
+Il est célibataire, tu peux attaquer. 
+NULL ({ }) Maintenant ({ 1 }) que ({ }) tu ({ }) sais ({ }) qu'il ({ }) est ({ 2 }) célibataire, ({ 3 }) tu ({ 4 }) peux ({ 5 }) lui ({ }) demander ({ }) un ({ }) rencard. ({ 6 }) 
+# Sentence pair (386) source length 18 target length 16 alignment score : 6.80168e-15
+J'aime bien M. Delfino, mais je ne suis pas sûre d'être prête à fréquenter des hommes. 
+NULL ({ }) j'aime ({ 1 }) bien ({ 2 }) Mr ({ 3 }) Delfino, ({ 4 }) c'est ({ }) vrai, ({ 5 }) mais ({ }) je ({ 6 }) ne ({ 7 }) sais ({ 8 }) pas ({ 9 }) si ({ }) je ({ }) suis ({ }) prête ({ 10 11 12 13 14 }) pour ({ }) des ({ 15 }) rencards. ({ 16 }) 
+# Sentence pair (387) source length 15 target length 13 alignment score : 6.55277e-17
+La copine de papa lui a demandé si tu avais eu d'autres mecs. 
+NULL ({ }) J'ai ({ }) entendu ({ 1 }) la ({ }) petite ({ 2 }) amie ({ }) de ({ 3 }) papa ({ 4 7 8 }) demander ({ 5 }) si ({ }) tu ({ 9 }) voyais ({ 10 }) quelqu'un ({ 6 }) depuis ({ }) le ({ }) divorce. ({ 11 12 13 }) 
+# Sentence pair (388) source length 13 target length 11 alignment score : 1.1754e-11
+Un célibataire s'installait dans sa rue et elle arrivait la première. 
+NULL ({ }) un ({ }) célibataire ({ 1 2 }) acceptable ({ 3 }) venait ({ 4 }) d'emménager ({ 5 6 }) et ({ 7 }) elle ({ 8 }) était ({ }) la ({ 10 }) première ({ }) à ({ }) le ({ }) savoir. ({ 9 11 }) 
+# Sentence pair (389) source length 10 target length 12 alignment score : 6.52858e-15
+Edie Britt était une prédatrice redoutée à cinq rues à la ronde. 
+NULL ({ }) Eddie ({ 1 }) Britt ({ 2 }) était ({ 3 }) la ({ 4 }) divorcée ({ 5 6 }) la ({ 11 }) plus ({ }) rapace ({ 7 8 9 10 }) du ({ }) voisinage. ({ 12 }) 
+# Sentence pair (390) source length 9 target length 7 alignment score : 1.20319e-06
+Susan découvrait sa rivale, c'était une traînée. 
+NULL ({ }) Susan ({ 1 }) venait ({ 2 }) de ({ }) rencontrer ({ 4 }) l'ennemie ({ 3 }) et ({ }) c'était ({ 5 }) une ({ 6 }) traînée. ({ 7 }) 
+# Sentence pair (391) source length 17 target length 9 alignment score : 1.94746e-08
+Je vous ferais bien entrer, mais je suis occupé. 
+NULL ({ }) Je ({ 1 }) vous ({ 2 }) inviterais ({ 3 }) bien ({ 4 }) à ({ }) entrer, ({ 5 }) toutes ({ }) les ({ }) deux, ({ 6 }) mais ({ }) j'étais ({ 7 }) en ({ }) train ({ 8 }) de ({ }) faire ({ }) un ({ }) truc. ({ 9 }) 
+# Sentence pair (392) source length 13 target length 12 alignment score : 3.1e-12
+Susan se demanda si la compétition avec Edie allait rester bon enfant. 
+NULL ({ }) Pendant ({ }) un ({ }) moment, ({ 4 }) Susan ({ 1 }) se ({ 2 }) demanda ({ 3 5 }) si ({ }) sa ({ }) rivalité ({ 6 }) avec ({ 7 }) Eddie ({ 8 }) serait ({ 9 }) amicale. ({ 10 11 12 }) 
+# Sentence pair (393) source length 7 target length 6 alignment score : 0.00115431
+Il paraît que vous êtes plombier? 
+NULL ({ }) J'ai ({ }) entendu ({ 1 }) dire ({ 2 }) que ({ 3 }) vous ({ 4 }) étiez ({ 5 }) plombier? ({ 6 }) 
+# Sentence pair (394) source length 12 target length 8 alignment score : 8.96619e-11
+Il m'a rapporté 200 000 dollars l'an dernier. 
+NULL ({ }) J'ai ({ 1 }) fait ({ }) presque ({ 3 }) 200 ({ 4 }) 000 ({ 2 }) dollars ({ 6 }) en ({ }) travaillant ({ 7 }) avec ({ }) lui ({ }) l'année ({ 5 }) dernière. ({ 8 }) 
+# Sentence pair (395) source length 7 target length 10 alignment score : 7.25611e-11
+Il n'y a rien d'anormal dans la purée au basilic. 
+NULL ({ }) Le ({ }) velouté ({ 1 2 }) de ({ }) basilic ({ 3 4 }) n'a ({ 5 }) rien ({ 6 }) d'anormal. ({ 7 8 9 10 }) 
+# Sentence pair (396) source length 12 target length 9 alignment score : 4.61669e-10
+Qui t'a dit de passer 3 h aux fourneaux? 
+NULL ({ }) Personne ({ 1 2 }) ne ({ }) t'a ({ 3 }) demandé ({ 4 }) de ({ }) passer ({ 5 }) 3 ({ }) heures ({ 7 }) à ({ }) préparer ({ 6 }) le ({ }) dîner. ({ 8 9 }) 
