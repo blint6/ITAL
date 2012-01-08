@@ -21,18 +21,19 @@ class PythonndJeu(Ui_MainWindow):
         self.score = 0
         self.nbIndice = 0
         self.nbErreurs = 0
-        self.nbParties = 1
+        self.nbParties = 0
         self.mainWindow = QtGui.QMainWindow()
         self.setupUi(self.mainWindow)
         self.reponse ="super"
         self.updateLabelPartie()
         
+        self.setNewPhrase()        
         self.indiceButton.clicked.connect(self.callIndice)
         self.validerButton.clicked.connect(self.validate)
+        self.passerButton.clicked.connect(self.passPartie)
         
         self.textEditEntry.textChanged.connect(self.emptyMessage)
         
-        self.mainWindow.setWindowTitle("PythonndJeu")
         self.scoreLabel.setText("0")
         self.mainWindow.show()
         
@@ -41,7 +42,6 @@ class PythonndJeu(Ui_MainWindow):
         #pal.setColor( QPalette::Foreground, QColor(255,0,0) );
     
     def reinit(self):
-        self.score = 0
         self.nbIndice = 0
         self.nbErreurs = 0
     
@@ -57,12 +57,18 @@ class PythonndJeu(Ui_MainWindow):
         self.gridLayout.addWidget(label)
         self.nbIndice = self.nbIndice + 1
      
-    def setNewPhrase(self, phrase):
-        self.phraseLabel.setText(phrase)
+    def setNewPhrase(self):
+        self.sentence = self.dico.getRandomSentence()
+        self.phrase = str(self.sentence)
+        self.phraseLabel.setText(self.phrase)
+        self.nbParties = self.nbParties + 1
+        self.updateLabelPartie()
         #set reponse
         
-    def updateScore(self,mod):
-        self.score = self.score + mod
+    def updateScore(self):
+        self.score = self.score + 100 - self.nbIndice * 10 - self.nbErreurs - 10
+        
+    def updateScoreLabel(self):
         self.scoreLabel.setText(str(self.score))
         
     def updateMessage(self,code):
@@ -78,13 +84,16 @@ class PythonndJeu(Ui_MainWindow):
         tentative = self.textEditEntry.toPlainText()
         if tentative == self.reponse:
             self.updateMessage(1)
-            #self.nbParties = self.nbParties + 1
-            self.updateLabelPartie()
             self.emptyMessage()
-            self.setNewPhrase("BIATCH")
+            #self.setNewPhrase("BIATCH")
         else:
             self.updateMessage(0)
             self.nbErreurs = self.nbErreurs + 1
+            
+    def passPartie(self):
+        self.score = self.score - 50
+        self.updateScoreLabel()
+        
             
    
         
