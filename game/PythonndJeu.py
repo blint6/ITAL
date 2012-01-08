@@ -5,6 +5,7 @@ Created on 8 janv. 2012
 '''
 from game.PythonndJeuUi import Ui_MainWindow
 from PySide import QtGui
+from PySide import QtCore
 
 class PythonndJeu(Ui_MainWindow):
     '''
@@ -27,6 +28,8 @@ class PythonndJeu(Ui_MainWindow):
     
     def callIndice(self):
         self.scoreLabel.setText("FUCKER")
+        label = QtGui.QLabel("eopgerk")
+        self.verticalLayout.addWidget(label)
     '''     
     def validate(self):
         if self.textEditEntry.

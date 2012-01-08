@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'mainWindow_jeu.ui'
 #
-# Created: Sun Jan 08 02:03:11 2012
+# Created: Sun Jan 08 17:52:13 2012
 #      by: pyside-uic 0.2.13 running on PySide 1.0.9
 #
 # WARNING! All changes made in this file will be lost!
@@ -12,11 +12,11 @@ from PySide import QtCore, QtGui
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
-        MainWindow.resize(903, 393)
+        MainWindow.resize(899, 673)
         self.centralwidget = QtGui.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.verticalLayoutWidget_4 = QtGui.QWidget(self.centralwidget)
-        self.verticalLayoutWidget_4.setGeometry(QtCore.QRect(40, 30, 821, 291))
+        self.verticalLayoutWidget_4.setGeometry(QtCore.QRect(40, 30, 821, 509))
         self.verticalLayoutWidget_4.setObjectName("verticalLayoutWidget_4")
         self.verticalLayout_4 = QtGui.QVBoxLayout(self.verticalLayoutWidget_4)
         self.verticalLayout_4.setSizeConstraint(QtGui.QLayout.SetDefaultConstraint)
@@ -42,24 +42,21 @@ class Ui_MainWindow(object):
         self.horizontalLayout_2.setSizeConstraint(QtGui.QLayout.SetDefaultConstraint)
         self.horizontalLayout_2.setObjectName("horizontalLayout_2")
         self.label_3 = QtGui.QLabel(self.verticalLayoutWidget_4)
-        sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Expanding, QtGui.QSizePolicy.Expanding)
+        sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Fixed, QtGui.QSizePolicy.Fixed)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.label_3.sizePolicy().hasHeightForWidth())
         self.label_3.setSizePolicy(sizePolicy)
-        self.label_3.setMaximumSize(QtCore.QSize(200, 100))
+        self.label_3.setMinimumSize(QtCore.QSize(100, 200))
+        self.label_3.setMaximumSize(QtCore.QSize(100, 400))
         self.label_3.setAlignment(QtCore.Qt.AlignLeading|QtCore.Qt.AlignLeft|QtCore.Qt.AlignVCenter)
         self.label_3.setObjectName("label_3")
         self.horizontalLayout_2.addWidget(self.label_3)
-        self.listView = QtGui.QListView(self.verticalLayoutWidget_4)
-        sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Expanding, QtGui.QSizePolicy.Expanding)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.listView.sizePolicy().hasHeightForWidth())
-        self.listView.setSizePolicy(sizePolicy)
-        self.listView.setMaximumSize(QtCore.QSize(600, 100))
-        self.listView.setObjectName("listView")
-        self.horizontalLayout_2.addWidget(self.listView)
+        self.verticalLayout = QtGui.QVBoxLayout()
+        self.verticalLayout.setSizeConstraint(QtGui.QLayout.SetFixedSize)
+        self.verticalLayout.setContentsMargins(-1, -1, -1, 0)
+        self.verticalLayout.setObjectName("verticalLayout")
+        self.horizontalLayout_2.addLayout(self.verticalLayout)
         self.verticalLayout_2.addLayout(self.horizontalLayout_2)
         self.verticalLayout_4.addLayout(self.verticalLayout_2)
         spacerItem = QtGui.QSpacerItem(20, 10, QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Expanding)
@@ -89,7 +86,7 @@ class Ui_MainWindow(object):
         self.verticalLayout_4.addLayout(self.horizontalLayout)
         MainWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtGui.QMenuBar(MainWindow)
-        self.menubar.setGeometry(QtCore.QRect(0, 0, 903, 21))
+        self.menubar.setGeometry(QtCore.QRect(0, 0, 899, 21))
         self.menubar.setObjectName("menubar")
         MainWindow.setMenuBar(self.menubar)
         self.statusbar = QtGui.QStatusBar(MainWindow)
