@@ -4,8 +4,10 @@ Created on 6 janv. 2012
 @author: Nicolas Gasull
 '''
 
-from CorpusParallelesDialogUi import Ui_CorpusParallelesDialog
+from gui.CorpusParallelesDialogUi import Ui_CorpusParallelesDialog
 from PySide import QtGui
+
+from common.parsing import A3DictionnaryParser
 
 import subprocess
 
@@ -72,5 +74,8 @@ class CorpusParallelesDialog(Ui_CorpusParallelesDialog):
                             '-p0', '0.98',
                             '-o', '{0}/{1}-dictionary'.format(dir_dictionnary, file_name)],
                              stderr=log)
+        
+        parser = A3DictionnaryParser()
+        print(parser.parse('{0}/{1}-dictionary'.format(dir_dictionnary, file_name)))
         
         self.widget.close()
