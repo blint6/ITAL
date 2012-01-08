@@ -2,8 +2,8 @@
 
 # Form implementation generated from reading ui file 'mainWindow_jeu.ui'
 #
-# Created: Sun Jan  8 00:34:40 2012
-#      by: pyside-uic 0.2.11 running on PySide 1.0.6
+# Created: Sun Jan 08 02:03:11 2012
+#      by: pyside-uic 0.2.13 running on PySide 1.0.9
 #
 # WARNING! All changes made in this file will be lost!
 
@@ -23,6 +23,11 @@ class Ui_MainWindow(object):
         self.verticalLayout_4.setContentsMargins(0, 0, 0, 0)
         self.verticalLayout_4.setObjectName("verticalLayout_4")
         self.phraseLabel = QtGui.QLabel(self.verticalLayoutWidget_4)
+        sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Expanding, QtGui.QSizePolicy.Expanding)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.phraseLabel.sizePolicy().hasHeightForWidth())
+        self.phraseLabel.setSizePolicy(sizePolicy)
         self.phraseLabel.setObjectName("phraseLabel")
         self.verticalLayout_4.addWidget(self.phraseLabel)
         self.textEditEntry = QtGui.QTextEdit(self.verticalLayoutWidget_4)
@@ -37,7 +42,7 @@ class Ui_MainWindow(object):
         self.horizontalLayout_2.setSizeConstraint(QtGui.QLayout.SetDefaultConstraint)
         self.horizontalLayout_2.setObjectName("horizontalLayout_2")
         self.label_3 = QtGui.QLabel(self.verticalLayoutWidget_4)
-        sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Maximum)
+        sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Expanding, QtGui.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.label_3.sizePolicy().hasHeightForWidth())
@@ -47,7 +52,7 @@ class Ui_MainWindow(object):
         self.label_3.setObjectName("label_3")
         self.horizontalLayout_2.addWidget(self.label_3)
         self.listView = QtGui.QListView(self.verticalLayoutWidget_4)
-        sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Fixed, QtGui.QSizePolicy.Fixed)
+        sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Expanding, QtGui.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.listView.sizePolicy().hasHeightForWidth())
@@ -57,7 +62,7 @@ class Ui_MainWindow(object):
         self.horizontalLayout_2.addWidget(self.listView)
         self.verticalLayout_2.addLayout(self.horizontalLayout_2)
         self.verticalLayout_4.addLayout(self.verticalLayout_2)
-        spacerItem = QtGui.QSpacerItem(20, 10, QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Maximum)
+        spacerItem = QtGui.QSpacerItem(20, 10, QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Expanding)
         self.verticalLayout_4.addItem(spacerItem)
         self.horizontalLayout = QtGui.QHBoxLayout()
         self.horizontalLayout.setObjectName("horizontalLayout")

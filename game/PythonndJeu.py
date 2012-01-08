@@ -15,8 +15,23 @@ class PythonndJeu(Ui_MainWindow):
         '''
         Constructor
         '''
+        
         self.mainWindow = QtGui.QMainWindow()
         self.setupUi(self.mainWindow)
+        
+        self.indiceButton.clicked.connect(self.callIndice)
+        
+        self.mainWindow.setWindowTitle("HEY BITCH")
+        self.scoreLabel.setText("FUCK")
         self.mainWindow.show()
+    
+    def callIndice(self):
+        self.scoreLabel.setText("FUCKER")
+    '''     
+    def validate(self):
+        if self.textEditEntry.
+    
+    #def callPass(self):
+    '''  
         
         
