@@ -4,12 +4,15 @@ Created on 7 janv. 2012
 @author: Nicolas Gasull
 '''
 
+import random
+
 class Dictionnary(object):
     '''
     synonyms : Liste d'expressions couplees a une liste de couples (synonyme, score)
     '''
     
     def __init__(self):
+        self.sentences = []
         self.synonyms = {}
         #
     
@@ -40,6 +43,10 @@ class Dictionnary(object):
         if reverse:
             self.add(synonym, word, scoreCoeff, False)
         #
+    
+    def addSentence(self, sentence):
+        self.sentences += [sentence]
+        #
         
     def wordSynonyms(self, word):
         
@@ -47,6 +54,13 @@ class Dictionnary(object):
             return []
 
         return self.synonyms.keys()
+        #
+    
+    def getRandomSentence(self):
+        if len(self.sentences) <= 0:
+            return None
+        else:
+            return random.choice(self.sentences)
         #
             
     def __str__(self):
@@ -65,7 +79,37 @@ class Dictionnary(object):
             
 
 
-
+class Sentence(object):
+    
+    def __init__(self, *expressions):
+        self.expressions = []
+        for e in expressions:
+            self += e
+        #
+    
+    def getRandomExpression(self):
+        if len(self.expressions) <= 0:
+            return None
+        else:
+            return random.choice(self.expressions)
+        #
+            
+    def __iadd__(self, expression):
+        self.expressions += [expression]
+        return self
+        #
+        
+    def __str__(self):
+        
+        words = []
+        for e in self.expressions:
+            words += [str(e)]
+        
+        return '%s.' % ' '.join(words)
+        #
+    
+    
+        
 class Expression(object):
     '''
     words : Liste les mots de l'expression
@@ -80,6 +124,7 @@ class Expression(object):
 
     def isExcluded(self):
         return len(self.words) == 1 and str.lower(self.words[0]) in ['de', 'au', 'le', 'la', 'les', 'et', 'se', 'sa', 'ses', 'pour', 'un', 'une', 'dans']
+        #
     
     # +=
     def __iadd__(self, w):
@@ -87,13 +132,16 @@ class Expression(object):
         # On enleve l'eventuelle ponctuation
         if w[len(w) - 1] in [',', '.', '!', '?', ':', ';']:
             w = w[:len(w) - 1]
-             
-        self.words += [w]
+        # On n'ajoute le mot que si on n'a pas tout rogne
+        if(len(w) > 0):
+            self.words += [w]
+        
         return self
         #
         
     def __eq__(self, expr):
         return str(self) == str(expr)
+        #
     
     def __str__(self):
         return ' '.join(self.words)

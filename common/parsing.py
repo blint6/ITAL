@@ -4,7 +4,7 @@ Created on 8 janv. 2012
 @author: Nicolas Gasull
 '''
 
-from common.struct import *
+from common.struct import Dictionnary, Sentence, Expression
 
 class A3DictionnaryParser(object):
     '''
@@ -50,6 +50,7 @@ class A3DictionnaryParser(object):
                 
                 tgtAlignedWords = tgtAlignedWords[1:] # On ne tient pas compte des valeurs NULL
                 tgtAlignedExpressions = []
+                sentence = Sentence()
                 i = 0
                 while i < len(tgtAlignedWords):
                     w, aligns = tgtAlignedWords[i]
@@ -64,7 +65,10 @@ class A3DictionnaryParser(object):
                     if len(aligns) != 0:
                         tgtAlignedExpressions += [(expression, aligns)]
                     
+                    sentence += expression
                     i += 1
+                
+                dico.addSentence(sentence)
                 
                 for e, aligns in tgtAlignedExpressions:
                     srcExpression = Expression()
