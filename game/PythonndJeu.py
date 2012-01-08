@@ -3,8 +3,8 @@ Created on 8 janv. 2012
 
 @author: Komo
 '''
-from PythonndJeuUi import Ui_MainWindow
-from PySide import QtCore, QtGui
+from game.PythonndJeuUi import Ui_MainWindow
+from PySide import QtGui
 
 class PythonndJeu(Ui_MainWindow):
     '''
@@ -16,9 +16,7 @@ class PythonndJeu(Ui_MainWindow):
         Constructor
         '''
         self.mainWindow = QtGui.QMainWindow()
-        #self.setupUi(self.mainWindow)
-        
-        
-    def show(self):
+        self.setupUi(self.mainWindow)
         self.mainWindow.show()
+        
         

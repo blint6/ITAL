@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'pythonndITAL.ui'
 #
-# Created: Sat Jan  7 16:34:41 2012
+# Created: Sun Jan  8 01:45:17 2012
 #      by: pyside-uic 0.2.11 running on PySide 1.0.6
 #
 # WARNING! All changes made in this file will be lost!
@@ -108,9 +108,9 @@ class Ui_PythonndITAL(object):
         self.verticalLayout.addLayout(self.formLayout_2)
         spacerItem5 = QtGui.QSpacerItem(20, 40, QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Expanding)
         self.verticalLayout.addItem(spacerItem5)
-        self.pushButton = QtGui.QPushButton(self.centralwidget)
-        self.pushButton.setObjectName("pushButton")
-        self.verticalLayout.addWidget(self.pushButton)
+        self.startGameButton = QtGui.QPushButton(self.centralwidget)
+        self.startGameButton.setObjectName("startGameButton")
+        self.verticalLayout.addWidget(self.startGameButton)
         spacerItem6 = QtGui.QSpacerItem(20, 40, QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Expanding)
         self.verticalLayout.addItem(spacerItem6)
         self.horizontalLayout.addLayout(self.verticalLayout)
@@ -160,7 +160,7 @@ class Ui_PythonndITAL(object):
         self.label.setText(QtGui.QApplication.translate("PythonndITAL", "Jouer :", None, QtGui.QApplication.UnicodeUTF8))
         self.label_6.setText(QtGui.QApplication.translate("PythonndITAL", "Nombre de devinettes", None, QtGui.QApplication.UnicodeUTF8))
         self.label_7.setText(QtGui.QApplication.translate("PythonndITAL", "Difficulté", None, QtGui.QApplication.UnicodeUTF8))
-        self.pushButton.setText(QtGui.QApplication.translate("PythonndITAL", "C\'est parti !", None, QtGui.QApplication.UnicodeUTF8))
+        self.startGameButton.setText(QtGui.QApplication.translate("PythonndITAL", "C\'est parti !", None, QtGui.QApplication.UnicodeUTF8))
         self.menuFichier.setTitle(QtGui.QApplication.translate("PythonndITAL", "Fichier", None, QtGui.QApplication.UnicodeUTF8))
         self.menuApprentisage.setTitle(QtGui.QApplication.translate("PythonndITAL", "Apprentisage", None, QtGui.QApplication.UnicodeUTF8))
         self.menuAide.setTitle(QtGui.QApplication.translate("PythonndITAL", "Aide", None, QtGui.QApplication.UnicodeUTF8))
