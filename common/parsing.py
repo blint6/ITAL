@@ -11,9 +11,9 @@ class A3DictionnaryParser(object):
     classdocs
     '''
 
-    def parse(self, dicFileName, dico = False):
+    def parse(self, dicFileName, dico = None):
         
-        if not dico:
+        if dico == None:
             dico = Dictionnary()
                 
         with open('%s.A3.final' % dicFileName, 'r') as dicFile:

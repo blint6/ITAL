@@ -76,6 +76,6 @@ class CorpusParallelesDialog(Ui_CorpusParallelesDialog):
                              stderr=log)
         
         parser = A3DictionnaryParser()
-        print(parser.parse('{0}/{1}-dictionary'.format(dir_dictionnary, file_name)))
+        self.pythonndITAL.dico = parser.parse('{0}/{1}-dictionary'.format(dir_dictionnary, file_name, self.pythonndITAL.dico))
         
         self.widget.close()

@@ -279,12 +279,13 @@
      <height>21</height>
     </rect>
    </property>
-   <widget class="QMenu" name="menuFichier">
+   <widget class="QMenu" name="menuPartie">
     <property name="title">
-     <string>Fichier</string>
+     <string>Partie</string>
     </property>
-    <addaction name="actionOuvrir"/>
-    <addaction name="actionSauvegarder"/>
+    <addaction name="actionPlayerNew"/>
+    <addaction name="actionPlayerOpen"/>
+    <addaction name="actionPlayerSave"/>
    </widget>
    <widget class="QMenu" name="menuApprentisage">
     <property name="title">
@@ -299,17 +300,26 @@
     </property>
     <addaction name="actionAbout"/>
    </widget>
-   <addaction name="menuFichier"/>
+   <widget class="QMenu" name="menuDictionnaire">
+    <property name="title">
+     <string>Dictionnaire</string>
+    </property>
+    <addaction name="actionDicoNew"/>
+    <addaction name="actionDicoOpen"/>
+    <addaction name="actionDicoSave"/>
+   </widget>
+   <addaction name="menuPartie"/>
+   <addaction name="menuDictionnaire"/>
    <addaction name="menuApprentisage"/>
    <addaction name="menuAide"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
-  <action name="actionOuvrir">
+  <action name="actionPlayerOpen">
    <property name="text">
-    <string>Ouvrir</string>
+    <string>Ouvrir...</string>
    </property>
   </action>
-  <action name="actionSauvegarder">
+  <action name="actionPlayerSave">
    <property name="text">
     <string>Sauvegarder</string>
    </property>
@@ -327,6 +337,26 @@
   <action name="actionAbout">
    <property name="text">
     <string>À propos</string>
+   </property>
+  </action>
+  <action name="actionDicoOpen">
+   <property name="text">
+    <string>Ouvrir...</string>
+   </property>
+  </action>
+  <action name="actionDicoSave">
+   <property name="text">
+    <string>Sauvegarder</string>
+   </property>
+  </action>
+  <action name="actionDicoNew">
+   <property name="text">
+    <string>Nouveau</string>
+   </property>
+  </action>
+  <action name="actionPlayerNew">
+   <property name="text">
+    <string>Nouvelle Partie</string>
    </property>
   </action>
  </widget>
