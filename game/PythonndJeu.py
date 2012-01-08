@@ -6,6 +6,7 @@ Created on 8 janv. 2012
 from game.PythonndJeuUi import Ui_MainWindow
 from PySide import QtGui
 from PySide import QtCore
+from time import sleep
 
 class PythonndJeu(Ui_MainWindow):
     '''
@@ -34,7 +35,6 @@ class PythonndJeu(Ui_MainWindow):
         self.mainWindow = QtGui.QMainWindow()
         self.setupUi(self.mainWindow)
         self.setNewPhrase() 
-        self.reponse ="super"
         
         self.indiceButton.clicked.connect(self.callIndice)
         self.validerButton.clicked.connect(self.validate)
@@ -44,9 +44,7 @@ class PythonndJeu(Ui_MainWindow):
         self.updateScoreLabel()
         self.mainWindow.show()
         self.updateLabelPartie()
-        self.pal = QtGui.QPalette(QtGui.QColor(255,0,0));
-        #pal.setColor( QPalette::Text, QColor(255,0,0) );
-        #pal.setColor( QPalette::Foreground, QColor(255,0,0) );
+        
     
     def reinit(self):
         self.nbIndice = 0
@@ -72,13 +70,17 @@ class PythonndJeu(Ui_MainWindow):
     def setNewPhrase(self):
         self.nbParties = self.nbParties + 1
         if(self.nbParties > self.nbDevinettes):
+            #fin de la partie
             self.mainWindow.close()
         else:
             self.reinit()
             self.sentence = self.dico.getRandomSentence()
-            self.phrase = str(self.sentence)
+            self.reponse = self.sentence.removeRandomExpression().lower()
+            print(self.reponse)
+            self.phrase = unicode(self.sentence)
             self.phraseLabel.setText(self.phrase)        
             self.updateLabelPartie()
+            
             #set reponse
         
     def updateScore(self):
@@ -90,6 +92,8 @@ class PythonndJeu(Ui_MainWindow):
     def updateMessage(self,code):
         if code == 0:
             self.labelMessage.setText("Mauvaise reponse. Essaie encore !")
+            pal = QtGui.QPalette(QtGui.QColor(255,0,0));
+            self.labelMessage.setPalette(pal)
         elif code == 1:
             self.labelMessage.setText("Bonne reponse !! T'es trop fort !")
         elif code == 2:
@@ -99,8 +103,9 @@ class PythonndJeu(Ui_MainWindow):
         tentative = self.textEditEntry.text()
         if tentative == self.reponse:
             self.updateMessage(1)
-            self.emptyMessage()
-            #self.setNewPhrase("BIATCH")
+            self.updateScore()
+            self.updateScoreLabel()
+            self.setNewPhrase()
         else:
             self.updateMessage(0)
             self.nbErreurs = self.nbErreurs + 1
