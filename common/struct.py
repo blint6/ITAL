@@ -6,6 +6,18 @@ Created on 7 janv. 2012
 
 import random
 
+
+
+class Player(object):
+    
+    def __init__(self):
+        self.gameCount = 0
+        self.hiScore = 0
+        self.points = 0
+        self.name = 'nouveau'
+        #
+
+
 class Dictionnary(object):
     '''
     synonyms : Liste d'expressions couplees a une liste de couples (synonyme, score)

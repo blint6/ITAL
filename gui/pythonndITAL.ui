@@ -32,10 +32,22 @@
       <property name="spacing">
        <number>30</number>
       </property>
+      <property name="leftMargin">
+       <number>10</number>
+      </property>
+      <property name="topMargin">
+       <number>5</number>
+      </property>
+      <property name="rightMargin">
+       <number>10</number>
+      </property>
+      <property name="bottomMargin">
+       <number>0</number>
+      </property>
       <item>
        <layout class="QVBoxLayout" name="verticalLayout_2">
         <item>
-         <widget class="QLabel" name="label_2">
+         <widget class="QLabel" name="welcomeLabel">
           <property name="font">
            <font>
             <pointsize>12</pointsize>
@@ -92,7 +104,7 @@
            </widget>
           </item>
           <item row="0" column="1">
-           <widget class="QLCDNumber" name="lcdNumber"/>
+           <widget class="QLCDNumber" name="gameCountLcdNumber"/>
           </item>
           <item row="1" column="0">
            <widget class="QLabel" name="label_4">
@@ -102,7 +114,7 @@
            </widget>
           </item>
           <item row="1" column="1">
-           <widget class="QLCDNumber" name="lcdNumber_2"/>
+           <widget class="QLCDNumber" name="pointsLcdNumber"/>
           </item>
           <item row="2" column="0">
            <widget class="QLabel" name="label_5">
@@ -112,7 +124,7 @@
            </widget>
           </item>
           <item row="2" column="1">
-           <widget class="QLCDNumber" name="lcdNumber_3"/>
+           <widget class="QLCDNumber" name="hiScoreLcdNumber"/>
           </item>
          </layout>
         </item>
@@ -191,7 +203,7 @@
            </widget>
           </item>
           <item row="0" column="1">
-           <widget class="QSpinBox" name="spinBox">
+           <widget class="QSpinBox" name="gameDurationSpinBox">
             <property name="value">
              <number>5</number>
             </property>
@@ -206,6 +218,9 @@
           </item>
           <item row="1" column="1">
            <widget class="QSlider" name="horizontalSlider">
+            <property name="enabled">
+             <bool>false</bool>
+            </property>
             <property name="minimum">
              <number>1</number>
             </property>
@@ -279,12 +294,12 @@
      <height>21</height>
     </rect>
    </property>
-   <widget class="QMenu" name="menuPartie">
+   <widget class="QMenu" name="menuPlayer">
     <property name="title">
-     <string>Partie</string>
+     <string>Joueur</string>
     </property>
     <addaction name="actionPlayerNew"/>
-    <addaction name="actionPlayerOpen"/>
+    <addaction name="actionPlayerLoad"/>
     <addaction name="actionPlayerSave"/>
    </widget>
    <widget class="QMenu" name="menuApprentisage">
@@ -310,15 +325,15 @@
     <addaction name="separator"/>
     <addaction name="actionDicoShow"/>
    </widget>
-   <addaction name="menuPartie"/>
+   <addaction name="menuPlayer"/>
    <addaction name="menuDictionnaire"/>
    <addaction name="menuApprentisage"/>
    <addaction name="menuAide"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
-  <action name="actionPlayerOpen">
+  <action name="actionPlayerLoad">
    <property name="text">
-    <string>Ouvrir...</string>
+    <string>Charger...</string>
    </property>
   </action>
   <action name="actionPlayerSave">
@@ -358,7 +373,7 @@
   </action>
   <action name="actionPlayerNew">
    <property name="text">
-    <string>Nouvelle Partie</string>
+    <string>Nouveau joueur</string>
    </property>
   </action>
   <action name="actionDicoShow">

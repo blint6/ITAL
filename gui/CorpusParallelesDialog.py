@@ -49,7 +49,7 @@ class CorpusParallelesDialog(Ui_CorpusParallelesDialog):
             src.write(self.srcTextEdit.toPlainText())
         with open('{0}/{1}.tgt'.format(dir_process, file_name), 'w') as src:
             src.write(self.destTextEdit.toPlainText())
-        
+
         subprocess.call(['{0}/plain2snt.out'.format(dir_binaries),
                          '{0}/{1}.src'.format(dir_process, file_name),
                          '{0}/{1}.tgt'.format(dir_process, file_name)])
