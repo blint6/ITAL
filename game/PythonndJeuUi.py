@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'mainWindow_jeu.ui'
 #
-# Created: Sun Jan 08 19:00:56 2012
+# Created: Sun Jan 08 19:54:21 2012
 #      by: pyside-uic 0.2.13 running on PySide 1.0.9
 #
 # WARNING! All changes made in this file will be lost!
@@ -12,7 +12,7 @@ from PySide import QtCore, QtGui
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
-        MainWindow.resize(899, 673)
+        MainWindow.resize(886, 593)
         self.centralwidget = QtGui.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.verticalLayoutWidget_4 = QtGui.QWidget(self.centralwidget)
@@ -30,6 +30,9 @@ class Ui_MainWindow(object):
         self.phraseLabel.setSizePolicy(sizePolicy)
         self.phraseLabel.setObjectName("phraseLabel")
         self.verticalLayout_4.addWidget(self.phraseLabel)
+        self.labelPartie = QtGui.QLabel(self.verticalLayoutWidget_4)
+        self.labelPartie.setObjectName("labelPartie")
+        self.verticalLayout_4.addWidget(self.labelPartie)
         self.labelMessage = QtGui.QLabel(self.verticalLayoutWidget_4)
         self.labelMessage.setText("")
         self.labelMessage.setObjectName("labelMessage")
@@ -80,7 +83,7 @@ class Ui_MainWindow(object):
         self.verticalLayout_4.addLayout(self.horizontalLayout)
         MainWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtGui.QMenuBar(MainWindow)
-        self.menubar.setGeometry(QtCore.QRect(0, 0, 899, 21))
+        self.menubar.setGeometry(QtCore.QRect(0, 0, 886, 21))
         self.menubar.setObjectName("menubar")
         MainWindow.setMenuBar(self.menubar)
         self.statusbar = QtGui.QStatusBar(MainWindow)
@@ -93,6 +96,7 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         MainWindow.setWindowTitle(QtGui.QApplication.translate("MainWindow", "MainWindow", None, QtGui.QApplication.UnicodeUTF8))
         self.phraseLabel.setText(QtGui.QApplication.translate("MainWindow", "TextLabel", None, QtGui.QApplication.UnicodeUTF8))
+        self.labelPartie.setText(QtGui.QApplication.translate("MainWindow", "TextLabel", None, QtGui.QApplication.UnicodeUTF8))
         self.label.setText(QtGui.QApplication.translate("MainWindow", "Indices", None, QtGui.QApplication.UnicodeUTF8))
         self.passerButton.setText(QtGui.QApplication.translate("MainWindow", "Passer", None, QtGui.QApplication.UnicodeUTF8))
         self.indiceButton.setText(QtGui.QApplication.translate("MainWindow", "Indice", None, QtGui.QApplication.UnicodeUTF8))
