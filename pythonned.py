@@ -5,7 +5,7 @@ Created on 27 nov. 2011
 '''
 
 
-from PythonndITAL import PythonndITAL
+from gui.PythonndITAL import PythonndITAL
 #from pythonnedCore import PythonnedCore
 
 def main():
