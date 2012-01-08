@@ -50,6 +50,8 @@ class PythonndITAL(Ui_PythonndITAL):
         self.actionAbout.triggered.connect(self.showAbout)
         
         self.startGameButton.clicked.connect(self.showJeu)
+        
+        self.updateInterface()
         #
         
     def show(self):

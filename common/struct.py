@@ -105,6 +105,20 @@ class Sentence(object):
         else:
             return random.choice(self.expressions)
         #
+        
+    def removeRandomExpression(self):
+        expressionsCount = len(self.expressions)
+        if expressionsCount <= 0:
+            return None
+        
+        i = random.randrange(0, expressionsCount - 1)
+        expression = self.expressions[i]
+        expressionStr = str(expression)
+        
+        expression.hide()
+        
+        return expressionStr
+        #
             
     def __iadd__(self, expression):
         self.expressions += [expression]
@@ -138,6 +152,11 @@ class Expression(object):
         return len(self.words) == 1 and str.lower(self.words[0]) in ['de', 'au', 'le', 'la', 'les', 'et', 'se', 'sa', 'ses', 'pour', 'un', 'une', 'dans']
         #
     
+    def hide(self):
+        for i in range(len(self.words)):
+            self.words[i] = 'xxxx'
+        #
+        
     # +=
     def __iadd__(self, w):
         

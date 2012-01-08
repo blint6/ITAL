@@ -6,7 +6,6 @@ Created on 8 janv. 2012
 from game.PythonndJeuUi import Ui_MainWindow
 from PySide import QtGui
 from PySide import QtCore
-import Tkinter as tk
 
 class PythonndJeu(Ui_MainWindow):
     '''
