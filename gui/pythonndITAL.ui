@@ -307,6 +307,8 @@
     <addaction name="actionDicoNew"/>
     <addaction name="actionDicoOpen"/>
     <addaction name="actionDicoSave"/>
+    <addaction name="separator"/>
+    <addaction name="actionDicoShow"/>
    </widget>
    <addaction name="menuPartie"/>
    <addaction name="menuDictionnaire"/>
@@ -357,6 +359,11 @@
   <action name="actionPlayerNew">
    <property name="text">
     <string>Nouvelle Partie</string>
+   </property>
+  </action>
+  <action name="actionDicoShow">
+   <property name="text">
+    <string>Visualiser</string>
    </property>
   </action>
  </widget>
