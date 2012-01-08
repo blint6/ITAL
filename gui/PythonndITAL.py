@@ -56,7 +56,7 @@ class PythonndITAL(Ui_PythonndITAL):
         self.corpusParalleles = CorpusParallelesDialog(self)
         
     def showJeu(self):
-        self.jeu = PythonndJeu()
+        self.jeu = PythonndJeu(self.dico)
         
     def loadDico(self):
         dicFileName, _ = QtGui.QFileDialog.getOpenFileName()
