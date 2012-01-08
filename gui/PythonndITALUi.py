@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'pythonndITAL.ui'
 #
-# Created: Sun Jan  8 15:57:47 2012
+# Created: Sun Jan  8 17:29:57 2012
 #      by: pyside-uic 0.2.11 running on PySide 1.0.6
 #
 # WARNING! All changes made in this file will be lost!
@@ -149,6 +149,8 @@ class Ui_PythonndITAL(object):
         self.actionDicoNew.setObjectName("actionDicoNew")
         self.actionPlayerNew = QtGui.QAction(PythonndITAL)
         self.actionPlayerNew.setObjectName("actionPlayerNew")
+        self.actionDicoShow = QtGui.QAction(PythonndITAL)
+        self.actionDicoShow.setObjectName("actionDicoShow")
         self.menuPartie.addAction(self.actionPlayerNew)
         self.menuPartie.addAction(self.actionPlayerOpen)
         self.menuPartie.addAction(self.actionPlayerSave)
@@ -158,6 +160,8 @@ class Ui_PythonndITAL(object):
         self.menuDictionnaire.addAction(self.actionDicoNew)
         self.menuDictionnaire.addAction(self.actionDicoOpen)
         self.menuDictionnaire.addAction(self.actionDicoSave)
+        self.menuDictionnaire.addSeparator()
+        self.menuDictionnaire.addAction(self.actionDicoShow)
         self.menubar.addAction(self.menuPartie.menuAction())
         self.menubar.addAction(self.menuDictionnaire.menuAction())
         self.menubar.addAction(self.menuApprentisage.menuAction())
@@ -189,4 +193,5 @@ class Ui_PythonndITAL(object):
         self.actionDicoSave.setText(QtGui.QApplication.translate("PythonndITAL", "Sauvegarder", None, QtGui.QApplication.UnicodeUTF8))
         self.actionDicoNew.setText(QtGui.QApplication.translate("PythonndITAL", "Nouveau", None, QtGui.QApplication.UnicodeUTF8))
         self.actionPlayerNew.setText(QtGui.QApplication.translate("PythonndITAL", "Nouvelle Partie", None, QtGui.QApplication.UnicodeUTF8))
+        self.actionDicoShow.setText(QtGui.QApplication.translate("PythonndITAL", "Visualiser", None, QtGui.QApplication.UnicodeUTF8))
 
