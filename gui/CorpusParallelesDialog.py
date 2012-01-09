@@ -45,28 +45,28 @@ class CorpusParallelesDialog(Ui_CorpusParallelesDialog):
         subprocess.call(['mkdir', dir_process])
         print
         '''        
-        with open('{0}/{1}.src'.format(dir_process, file_name), 'w') as src:
+        with open(('{0}/{1}.src'.format(dir_process, file_name)).decode('utf-8'), 'w') as src:
             src.write(self.srcTextEdit.toPlainText())
-        with open('{0}/{1}.tgt'.format(dir_process, file_name), 'w') as src:
+        with open(('{0}/{1}.tgt'.format(dir_process, file_name)).decode('utf-8'), 'w') as src:
             src.write(self.destTextEdit.toPlainText())
 
         subprocess.call(['{0}/plain2snt.out'.format(dir_binaries),
                          '{0}/{1}.src'.format(dir_process, file_name),
                          '{0}/{1}.tgt'.format(dir_process, file_name)])
         
-        with open('{0}/mkcls1.src.log'.format(dir_log), 'w') as log:
+        with open(('{0}/mkcls1.src.log'.format(dir_log)).decode('utf-8'), 'w') as log:
             subprocess.call(['{0}/mkcls'.format(dir_binaries), '-m2',
                              '-p{0}/{1}.src'.format(dir_process, file_name), '-c50',
                              '-V{0}/{1}.src.vcb.classes'.format(dir_process, file_name), 'opt'],
                              stderr=log)
         
-        with open('{0}/mkcls1.tgt.log'.format(dir_log), 'w') as log:
+        with open(('{0}/mkcls1.tgt.log'.format(dir_log)).decode('utf-8'), 'w') as log:
             subprocess.call(['{0}/mkcls'.format(dir_binaries), '-m2',
                              '-p{0}/{1}.tgt'.format(dir_process, file_name), '-c50',
                              '-V{0}/{1}.tgt.vcb.classes'.format(dir_process, file_name), 'opt'],
                              stderr=log)
         
-        with open('{0}/dictionary.log'.format(dir_log), 'w') as log:
+        with open(('{0}/dictionary.log'.format(dir_log)).decode('utf-8'), 'w') as log:
             subprocess.call(['{0}/GIZA++'.format(dir_binaries),
                             '-S', '{0}/{1}.src.vcb'.format(dir_process, file_name),
                             '-T', '{0}/{1}.tgt.vcb'.format(dir_process, file_name),
@@ -76,6 +76,6 @@ class CorpusParallelesDialog(Ui_CorpusParallelesDialog):
                              stderr=log)
         
         parser = A3DictionnaryParser()
-        self.pythonndITAL.dico = parser.parse('{0}/{1}-dictionary'.format(dir_dictionnary, file_name, self.pythonndITAL.dico))
+        self.pythonndITAL.dico = parser.parse('{0}/{1}-dictionary'.format(dir_dictionnary, file_name), self.pythonndITAL.dico)
         
         self.widget.close()

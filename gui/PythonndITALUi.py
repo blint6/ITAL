@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'pythonndITAL.ui'
 #
-# Created: Sun Jan  8 20:11:36 2012
+# Created: Sun Jan  8 22:48:05 2012
 #      by: pyside-uic 0.2.11 running on PySide 1.0.6
 #
 # WARNING! All changes made in this file will be lost!
@@ -111,6 +111,7 @@ class Ui_PythonndITAL(object):
         spacerItem5 = QtGui.QSpacerItem(20, 40, QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Expanding)
         self.verticalLayout.addItem(spacerItem5)
         self.startGameButton = QtGui.QPushButton(self.centralwidget)
+        self.startGameButton.setEnabled(False)
         self.startGameButton.setObjectName("startGameButton")
         self.verticalLayout.addWidget(self.startGameButton)
         spacerItem6 = QtGui.QSpacerItem(20, 40, QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Expanding)

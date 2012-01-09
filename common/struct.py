@@ -11,10 +11,19 @@ import random
 class Player(object):
     
     def __init__(self):
+        self.dicFile = None
         self.gameCount = 0
         self.hiScore = 0
+        self.name = u'nouveau'
         self.points = 0
-        self.name = 'nouveau'
+        #
+    
+    def score(self, score):
+        self.gameCount += 1
+        self.points += score
+        
+        if score > self.hiScore:
+            self.hiScore = score
         #
 
 
@@ -33,8 +42,8 @@ class Dictionnary(object):
         if word.isExcluded() or synonym.isExcluded() or word == synonym:
             return
         
-        word_s = str(word)
-        synonym_s = str(synonym)
+        word_s = unicode(word)
+        synonym_s = unicode(synonym)
         
         if word_s in self.synonyms:
             l = self.synonyms[word_s]
@@ -42,13 +51,12 @@ class Dictionnary(object):
             l = {}
 
         if synonym_s in l:
-            occ, score = l[synonym_s]
-            occ += 1
-            scoreCoeff += score
+            occ = l[synonym_s]
+            occ += scoreCoeff
         else:
-            occ = 1
+            occ = scoreCoeff
             
-        l[synonym_s] = occ, scoreCoeff
+        l[synonym_s] = occ
         
         self.synonyms[word_s] = l
         
@@ -65,7 +73,7 @@ class Dictionnary(object):
         if not self.synonyms.has_key(word):
             return []
 
-        return self.synonyms.keys()
+        return self.synonyms[word].keys()
         #
     
     def getRandomSentence(self):
@@ -74,17 +82,21 @@ class Dictionnary(object):
         else:
             return random.choice(self.sentences)
         #
-            
+    
+    def empty(self):
+        return not len(self.synonyms) > 0 or not len(self.sentences) > 0
+        #
+    
     def __str__(self):
-        ret = ''
+        ret = u''
         
         for expr, l in self.synonyms.items():
-            ret += '%s :' % expr
+            ret += u'%s :' % expr
             
-            for syn, (occur, _) in l.items():
-                ret += ' %s (%d),' % (syn, occur)
+            for syn, occur in l.items():
+                ret += u' %s (%d),' % (syn, occur)
                 
-            ret += '\n'
+            ret += u'\n'
             
         return ret
         #
@@ -111,12 +123,13 @@ class Sentence(object):
         if expressionsCount <= 0:
             return None
         
-        i = random.randrange(0, expressionsCount - 1)
-        expression = self.expressions[i]
-        expressionStr = str(expression)
+        expression = None
+        while expression == None or expression.isExcluded():
+            i = random.randrange(0, expressionsCount - 1)
+            expression = self.expressions[i]
         
+        expressionStr = unicode(expression)
         expression.hide()
-        
         return expressionStr
         #
             
@@ -129,9 +142,9 @@ class Sentence(object):
         
         words = []
         for e in self.expressions:
-            words += [str(e)]
+            words += [unicode(e)]
         
-        return '%s.' % ' '.join(words)
+        return u'%s.' % u' '.join(words)
         #
     
     
@@ -149,20 +162,24 @@ class Expression(object):
         #
 
     def isExcluded(self):
-        return len(self.words) == 1 and str.lower(self.words[0]) in ['de', 'au', 'le', 'la', 'les', 'et', 'se', 'sa', 'ses', 'pour', 'un', 'une', 'dans']
+        return len(self.words) == 1 and self.words[0].lower() in [u'de', u'au', u'le', u'la', u'les', u'et', u'se', u'sa', u'ses', u'pour', u'un', u'une', u'dans']
         #
     
     def hide(self):
         for i in range(len(self.words)):
-            self.words[i] = 'xxxx'
+            self.words[i] = u'xxxx'
         #
         
     # +=
     def __iadd__(self, w):
         
         # On enleve l'eventuelle ponctuation
-        if w[len(w) - 1] in [',', '.', '!', '?', ':', ';']:
+        if w[len(w) - 1] in [u',', u'.', u'!', u'?', u':', u';']:
             w = w[:len(w) - 1]
+        
+        # On retire les espaces a gauche et a droite
+        w = w.strip()
+        
         # On n'ajoute le mot que si on n'a pas tout rogne
         if(len(w) > 0):
             self.words += [w]
@@ -171,7 +188,7 @@ class Expression(object):
         #
         
     def __eq__(self, expr):
-        return str(self) == str(expr)
+        return unicode(self) == unicode(expr)
         #
     
     def __str__(self):

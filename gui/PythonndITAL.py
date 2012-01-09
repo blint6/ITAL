@@ -71,7 +71,14 @@ class PythonndITAL(Ui_PythonndITAL):
         #
         
     def showJeu(self):
-        self.jeu = PythonndJeu(self.dico, self.gameDurationSpinBox.value())
+        self.jeu = PythonndJeu(self, self.dico, self.gameDurationSpinBox.value())
+        #
+    
+    def finalizeJeu(self):
+        score = self.jeu.score
+        self.player.score(score)
+        self.updateInterface()
+        self.statusbar.showMessage(u"Partie finie. Score: %s" % unicode(score))
         #
     
     def updateInterface(self):
@@ -89,11 +96,14 @@ class PythonndITAL(Ui_PythonndITAL):
         
         if pFileName != '':
             self.statusbar.showMessage("Chargement du dictionnaire...")
+            
             with open(pFileName, 'rb') as playerFile:
                 playerUnpickler = pickle.Unpickler(playerFile)
                 self.player = playerUnpickler.load()
                 self.statusbar.showMessage("Chargement du joueur... termine.")
                 self.playerFileName = pFileName
+                
+            self.loadDico(self.player.dicFile)
             self.updateInterface()
         #
 
@@ -117,17 +127,25 @@ class PythonndITAL(Ui_PythonndITAL):
             pFileName = self.playerFileName
         else:
             pFileName, _ = QtGui.QFileDialog.getSaveFileName()
+            if pFileName != '':
+                pFileName = '%s.sav' % pFileName
+            else:
+                pFileName = None
         
-        if pFileName != '':
+        if pFileName != None:
             self.statusbar.showMessage("Savegarde du joueur...")
             # self.player.name = pFileName
+            self.player.dicFile = self.dicoFileName
             
-            with open('%s.sav' % pFileName, 'wb') as playerFile:
+            with open(pFileName, 'wb') as playerFile:
                 playerPickler = pickle.Pickler(playerFile)
                 playerPickler.dump(self.player)
                 self.statusbar.showMessage("Savegarde du joueur... terminee")
                 self.playerFileName = pFileName
             
+            if not self.dico.empty():
+                self.startGameButton.setEnabled(True)
+                
             return True
         else:
             return False
@@ -136,8 +154,10 @@ class PythonndITAL(Ui_PythonndITAL):
     '''
     Methodes relatives au Dictionnary
     '''
-    def loadDico(self):
-        dicFileName, _ = QtGui.QFileDialog.getOpenFileName()
+    def loadDico(self, dicFileName = None):
+        
+        if dicFileName == None:
+            dicFileName, _ = QtGui.QFileDialog.getOpenFileName()
         
         if dicFileName != '':
             self.statusbar.showMessage("Chargement du dictionnaire...")
@@ -146,6 +166,9 @@ class PythonndITAL(Ui_PythonndITAL):
                 self.dico = dicoUnpickler.load()
                 self.statusbar.showMessage("Chargement du dictionnaire... termine.")
                 self.dicoFileName = dicFileName
+                
+            if not self.dico.empty():
+                self.startGameButton.setEnabled(True)
         #
 
     def newDico(self):
@@ -153,6 +176,7 @@ class PythonndITAL(Ui_PythonndITAL):
         self.dico = Dictionnary()
         self.dicoFileName = None
         self.statusbar.showMessage("Nouveau dictionnaire utilise")
+        self.startGameButton.setEnabled(False)
         #
                 
     def saveDico(self):
@@ -181,7 +205,7 @@ class PythonndITAL(Ui_PythonndITAL):
         rows = []
         for expr in self.dico.synonyms:
             for syn in self.dico.synonyms[expr]:
-                occ, _ = self.dico.synonyms[expr][syn]
+                occ = self.dico.synonyms[expr][syn]
                 rows += [(expr, syn, occ)]
         
         model = QtGui.QStandardItemModel(len(rows), 3)

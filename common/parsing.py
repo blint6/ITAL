@@ -16,7 +16,7 @@ class A3DictionnaryParser(object):
         if dico == None:
             dico = Dictionnary()
                 
-        with open('%s.A3.final' % dicFileName, 'r') as dicFile:
+        with open(('%s.A3.final' % dicFileName).decode('utf-8'), 'r') as dicFile:
             labelLine = dicFile.readline()
             srcLine = dicFile.readline()
             tgtLine = dicFile.readline()
@@ -76,7 +76,7 @@ class A3DictionnaryParser(object):
                     for a in aligns:
                         srcExpression += srcWords[a]
                     
-                    dico.add(srcExpression, e)
+                    dico.add(srcExpression, e, 10)
                 
                 # Iterate to the next alignment
                 labelLine = dicFile.readline()

@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'mainWindow_jeu.ui'
 #
-# Created: Sun Jan  8 22:40:09 2012
+# Created: Mon Jan  9 01:17:59 2012
 #      by: pyside-uic 0.2.11 running on PySide 1.0.6
 #
 # WARNING! All changes made in this file will be lost!
@@ -31,6 +31,7 @@ class Ui_MainWindow(object):
         font.setPointSize(10)
         self.phraseLabel.setFont(font)
         self.phraseLabel.setAlignment(QtCore.Qt.AlignCenter)
+        self.phraseLabel.setWordWrap(True)
         self.phraseLabel.setObjectName("phraseLabel")
         self.verticalLayout_4.addWidget(self.phraseLabel)
         self.labelPartie = QtGui.QLabel(self.centralwidget)
