@@ -143,6 +143,8 @@ class PythonndITAL(Ui_PythonndITAL):
                 self.statusbar.showMessage("Savegarde du joueur... terminee")
                 self.playerFileName = pFileName
             
+            if self.dicoFileName != None:
+                self.saveDico()
             if not self.dico.empty():
                 self.startGameButton.setEnabled(True)
                 

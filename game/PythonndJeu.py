@@ -3,7 +3,9 @@ Created on 8 janv. 2012
 
 @author: Komo
 '''
+from common.struct import Expression
 from game.PythonndJeuUi import Ui_MainWindow
+
 from PySide import QtGui
 
 class PythonndJeu(Ui_MainWindow):
@@ -30,7 +32,7 @@ class PythonndJeu(Ui_MainWindow):
         self.nbIndice = 0
         self.nbErreurs = 0
         self.nbParties = 0
-        
+        self.tryouts = []
         self.indiceWidgets = []
         
         self.mainWindow = QtGui.QMainWindow()
@@ -51,6 +53,7 @@ class PythonndJeu(Ui_MainWindow):
     def reinit(self):
         self.nbIndice = 0
         self.nbErreurs = 0
+        self.tryouts = []
         
         for i in self.indiceWidgets[:]:
             i.hide()
@@ -123,12 +126,27 @@ class PythonndJeu(Ui_MainWindow):
     
     def validate(self):
         tentative = self.textEditEntry.text()
+        
+        if tentative == '':
+            return
+        if tentative in self.tryouts:
+            self.labelMessage.setText("Vous avez deja propose cela !")
+            return
+        
+        # Si le mot est trouve
         if tentative.lower() == self.reponse.lower():
+            # On apprend les mots du joueur !
+            syn = Expression(self.reponse)
+            for w in self.tryouts:
+                self.dico.add(syn, Expression(w))
+            
+            # Puis on reset
             self.updateMessage(1)
             self.updateScore()
             self.updateScoreLabel()
             self.setNewPhrase()
-        else:
+        else: # Sinon on retient une erreur et on reset le champ
+            self.tryouts += [tentative]
             self.textEditEntry.setText(u'')
             self.updateMessage(0)
             self.nbErreurs = self.nbErreurs + 1
